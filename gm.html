@@ -9,28 +9,45 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="style.css">
-	
-    </head>
-    <body>
-
-	<nav class="navbar navbar-default" id="nav-bar">
-
-	</nav>
 	<script>
 	 $(function(){
 	     $("#nav-bar").load("nav.html");
 	 });
 	</script>
+	<script>
+	 $(function(){
+	     $("#tab-1").load("tab-1.html");
+	 });
+	</script>
+	
+    </head>
+    <body  onLoad="buildHtmlTable('#excelDataTable')">
+
+	<nav class="navbar navbar-default" id="nav-bar">
+
+	</nav>
 
 	<!-- COntent after this -->
 	<div class="jumbotron bg-2 text-center">
-	    <h3>Theoretical Physics Research Group </h3>
+	    <h1 class="t1">Theoretical Physics Research Group</h1>
 	</div>
-	<div class="container-fluid bg-3 text-center">
+	<div class="container-fluid bg-3 tab-div text-center">
+	    <h2 class="menu">Archived Meetings</h2>
+	    <table class="table table-striped">
+		<thead>
+		    <tr>
+			<th>Date</th>
+			<th>Speaker</th>
+			<th>Title</th>
+		    </tr>
+		</thead>
+		<tbody id="tab-1">
 
-	    <span class="border">abc</span>
-	    <h3>We do maths and stuffs!</h3>
+		</tbody>
+	    </table>
+	    
+
+	    <table></table>
 	</div>
-	     </div>
     </body>
 </html>
