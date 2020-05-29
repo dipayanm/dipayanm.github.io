@@ -9,6 +9,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 	<link rel="stylesheet" href="style.css">
+
 	<script>
 	 $(function(){
 	     $("#nav-bar").load("nav.html");
@@ -17,6 +18,12 @@
 	<script>
 	 $(function(){
 	     $("#tab-1").load("tab-1.html");
+	 });
+	 $(function(){
+	     $("#odd-19-20").load("odd-19-20.html");
+	 });
+	 $(function(){
+	     $("#even-18-19").load("even-18-19.html");
 	 });
 	</script>
 	
@@ -33,6 +40,8 @@
 	</div>
 	<div class="container-fluid bg-3 tab-div text-center">
 	    <h2 class="menu">Archived Meetings</h2>
+
+	    <h1 class="menu">even sem 19-20</h1>
 	    <table class="table table-striped">
 		<thead>
 		    <tr>
@@ -42,11 +51,33 @@
 		    </tr>
 		</thead>
 		<tbody id="tab-1">
-
 		</tbody>
 	    </table>
-	    
+	    <h1 class="menu">Odd sem 19-20</h1>
+	    <table class="table table-striped">
+		<thead>
+		    <tr>
+			<th>Date</th>
+			<th>Speaker</th>
+			<th>Title</th>
+		    </tr>
+		</thead>
+		<tbody id="odd-19-20">
+		</tbody>
+	    </table>
 
+	    <h1 class="menu">even sem 18-19</h1>
+	    <table class="table table-striped">
+		<thead>
+		    <tr>
+			<th>Date</th>
+			<th>Speaker</th>
+			<th>Title</th>
+		    </tr>
+		</thead>
+		<tbody id="even-18-19">
+		</tbody>
+	    </table>
 	    <table></table>
 	</div>
     </body>
