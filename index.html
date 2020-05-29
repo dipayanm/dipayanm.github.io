@@ -3,101 +3,256 @@
     <head>
 	<title>Group Page</title>
 	<meta charset="utf-8">
+	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-	<style>
-	 .bg-1 {
-	     background-image: url("./vf.png");
-	     height: 700px;
-	     background-size: cover;
-	    /*  background-color: #474e5d; Dark Blue */
-	     color: #ffffff;
-	 }
-	 .navbar-nav > li{
-	     margin-left:10px;
-	     font-size: 16px;
-	     margin-right:10px;
-	     border: 3px solid;
-	     /* box-shadow: 1px 2px 2px 2px black; */
-	     border-color: #3e3e3e;
-	     border-radius:15px;
-	 }
-	 .container-fluid {
-	     padding-top: 70px;
-	     
-	     padding-bottom: 50px;
-	 }
-	 body {
-	     font: 20px Montserrat, sans-serif;
-	     line-height: 1.8;
-	 }
-	 .navbar {
-	     padding-top: 10px;
-	     padding-bottom: 10px;
-	     border: 0;
-	     /* border-radius:10; */
-	     margin-bottom: 0;
-	     /* font-size: 12px; */
-	     background-color: #1e1e1e;
-	     /* letter-spacing: 5px; */
-	 }
+	<link rel="stylesheet" href="style.css">
+	<script>
+	 $(function(){
+	     $("#nav-bar").load('nav.html');
+	 });
+	</script>
 
-	 .navbar-nav li a:hover {
-	     color: #1abc9c !important;
-	 }
-	</style>
     </head>
+
     <body>
-	<nav class="navbar navbar-default">
-	    <div class="container">
-		<div class="navbar-header">
-		    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-			<span class="icon-bar"></span>
-			<span class="icon-bar"></span>
-			<span class="icon-bar"></span>
-		    </button>
-		    <a class="navbar-brand" href="#">Home</a>
-		</div>
-		<div class="collapse navbar-collapse" id="myNavbar">
-		    <ul class="nav navbar-nav navbar-right">
-			<li><a href="#" class="bg-light">Recent Works</a></li>
-			<li><a href="#">Schedules and Meetings</a></li>
-			<li><a href="#">About</a></li>
-		    </ul>
-		</div>
-	    </div>
+	<nav class="navbar navbar-default" id="nav-bar">
 	</nav>
+	
 	<div class="container-fluid bg-1 text-center">
 	    <div class="container-fluid bg-2 text-center">
 		<h3>Theoretical Physics Research Group </h3>
 	    </div>
 	    <h3>We do maths and stuffs!</h3>
 	</div>
+
+
 	<div class="container-fluid bg-3 text-center">
-	    <h3>People</h3>
-	    <div class="row">
-		<div class="col-sm-4">
-		    <p>Lorem ipsum..</p>
-		    <img src="img.jpeg" width="70%" alt="Image">
-		</div>
-		<div class="col-sm-4">
-		    <p>Lorem ipsum..</p>
-		    <img src="img.jpeg" width="70%" alt="Image">
-		</div>
-		<div class="col-sm-4">
-		    <p>Lorem ipsum..</p>
-		    <img src="img.jpeg" width="70%" alt="Image">
+<div class="row">
+    
+		<div class="col-sm-4 box-shadow shadow">
+		    </div>
+		<div class="col-sm-4 box-shadow shadow pi">
+	    <h2>
+		Principal Investigator
+	    </h2>
+		    <img class='img-circle people-img' src="peo.webp" alt="Image">
+		    <h1>
+			Kinjalk Lochan
+		    </h1>
+		    <p>
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			</p>
 		</div>
 
 		<div class="col-sm-4 box-shadow shadow">
-		    <p>Lorem ipsum..</p>
-		    <img class="shadow-lg" src="img.jpeg" width="70%" alt="Image">
+		    </div>
+</div>
+</div>	
+<div class="container-fluid bg-3 text-center">
+
+	    
+	    <h2>Post Docs</h2>
+	    <div class="row">
+
+		<div class="col-sm-4 box-shadow shadow">
+		    <img class='img-circle people-img' src="peo.webp" alt="Image">
+
+		    <h1>
+			Jaffino Stargen
+		    </h1>
+		    <p>
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			</p>
 		</div>
 	    </div>
 	</div>
+
+
+	<div class="container-fluid bg-3 text-center">
+
+	    
+	    <h2>PhD Scholars</h2>
+	    <div class="row">
+		<div class="col-sm-4">
+		    <img class='img-circle people-img' src="peo.webp" alt="Image">
+
+		    <h1>Himanshu</h1>
+		    <p>
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			</p>
+
+		</div>
+		<div class="col-sm-4">
+		    <img src="peo.webp" class='img-circle people-img' alt="Image">
+
+		    <h1>Ankit</h1>
+		    <p>
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			</p>
+		</div>
+		<div class="col-sm-4">
+		    <img src="peo.webp" class='img-circle people-img' alt="Image">
+
+		    <h1>Dipayan</h1>
+		    <p>
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			</p>
+		</div>
+
+		<div class="col-sm-4 box-shadow shadow">
+		    <img class='img-circle people-img' src="peo.webp" alt="Image">
+
+		    <h1>Harkirat</h1>
+		    <p>
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			</p>
+		</div>
 	    </div>
-	    <span class="border">abc</span>
+	</div>
+	</div>
+<div class="container-fluid bg-3 text-center">
+
+	    
+	    <h2>MS Students</h2>
+	    <div class="row">
+		<div class="col-sm-3">
+		    <img class='img-circle people-img' src="peo.webp" alt="Image">
+
+		    <h1>name</h1>
+		    <p>
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			</p>
+
+		</div>
+		<div class="col-sm-3">
+		    <img src="peo.webp" class='img-circle people-img' alt="Image">
+
+		    <h1>name</h1>
+		    <p>
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			</p>
+		</div>
+		<div class="col-sm-3">
+		    <img src="peo.webp" class='img-circle people-img' alt="Image">
+
+		    <h1>name</h1>
+		    <p>
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			</p>
+		</div>
+
+		<div class="col-sm-3 box-shadow shadow">
+		    <img class='img-circle people-img' src="peo.webp" alt="Image">
+
+		    <h1>name</h1>
+		    <p>
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			</p>
+		</div>
+	    </div>
+	</div>
+<div class="container-fluid bg-3 text-center">
+
+	    
+	    <h2>Group Alumni</h2>
+	    <div class="row">
+		<div class="col-sm-3">
+		    <img class='img-circle people-img' src="peo.webp" alt="Image">
+
+		    <h1>name</h1>
+		    <p>
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			</p>
+
+		</div>
+		<div class="col-sm-3">
+		    <img src="peo.webp" class='img-circle people-img' alt="Image">
+
+		    <h1>name</h1>
+		    <p>
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			</p>
+		</div>
+		<div class="col-sm-3">
+		    <img src="peo.webp" class='img-circle people-img' alt="Image">
+
+		    <h1>name</h1>
+		    <p>
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			</p>
+		</div>
+
+		<div class="col-sm-3 box-shadow shadow">
+		    <img class='img-circle people-img' src="peo.webp" alt="Image">
+
+		    <h1>name</h1>
+		    <p>
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			Summary text
+			</p>
+		</div>
+	    </div>
+	</div>
+	
+	<span class="border">abc</span>
+
     </body>
 </html>
