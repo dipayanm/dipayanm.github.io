@@ -48,4 +48,9 @@ fout.close()
 
 os.system("cp assignments.html ../git-page/assignments.html")
 
-print("Done! Commit git to update website")
+
+print("Done! Preparing for GIT commit")
+
+os.system("git add .")
+os.system("git commit -m 'New Assignments'")
+os.system("git push origin master")
