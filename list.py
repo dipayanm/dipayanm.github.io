@@ -20,7 +20,7 @@ for j in data.columns:
             for k in ppd:
                 Q = arxiv.query(id_list=[k])
                 print("New entry for "+Q[0].get('title').replace("\n", "").replace("  "," ")+"\n")
-                ppda = {"id": k, "date": data["Date"][m],"title":Q[0].get('title').replace("\n", "").replace("  "," "),"authors":Q[0].get('authors'), "url":"<a href='"+Q[0].get('links')[0].get('href')+"' target='_blank'>Link</a>", "assigned_to":j}
+                ppda = {"ID": k, "Date": data["Date"][m],"Title":Q[0].get('title').replace("\n", "").replace("  "," "),"Authors":Q[0].get('authors'), "url":"<a href='"+Q[0].get('links')[0].get('href')+"' target='_blank'>Link</a>", "For":j}
                 papers.append(ppda)
 
 
