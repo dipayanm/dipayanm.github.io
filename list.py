@@ -46,7 +46,7 @@ with open('assignments.html', 'w') as fout:
     fout.write(table)
 fout.close()
 
-os.system("cp assignments.html ../git-page/assignments.html")
+# os.system("cp assignments.html ../git-page/assignments.html")
 
 
 print("Done! Preparing for GIT commit")
