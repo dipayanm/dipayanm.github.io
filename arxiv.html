@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+	<title>Group Page | ArXiv Assignments</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="style.css">
+	<script type="text/javascript" id="MathJax-script" async
+		src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.0.0/es5/latest?tex-mml-chtml.js">
+	</script>
+	</script>
+	<script id="MathJax-script" async
+		src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+	</script>
+
+	<script>
+
+	 $(function(){
+	     $("#nav-bar").load("nav.html");
+	 });
+	</script>
+	<script>
+	 $(function(){
+	     $("#assignments").load("assignments.html");
+	 });
+	</script>
+	
+    </head>
+    <body  onLoad="buildHtmlTable('#excelDataTable')">
+
+	<nav class="navbar navbar-default" id="nav-bar">
+
+	</nav>
+
+	<!-- COntent after this -->
+	<div class="jumbotron bg-2 text-center">
+	    <h1 class="t1">Reasearch Group of Dr. Kinjalk Lochan</h1>
+	</div>
+	<div class="container-fluid bg-3 tab-div text-center">
+	    <h1 class="menu">ArXiv Assignments</h2>
+
+		<table class="table table-striped">
+		    <thead>
+		    </thead>
+		    <tbody id="assignments">
+		    </tbody>
+		</table>
+	</div>
+    </body>
+</html>
