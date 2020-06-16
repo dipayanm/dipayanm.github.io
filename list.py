@@ -25,32 +25,49 @@ for j in data.columns:
 
 
 
-print(papers)
+# print(papers)
 
 json_db = json.dumps(papers, indent=4, sort_keys=True)
 
 print("Creating HTML table")
 print(json_db)
-with open('out.json', 'w') as fout:
-    fout.write(json_db)
-fout.close()
+with open('out.json', 'w') as fout_json:
+    fout_json.write(json_db)
 
 
 
-papers = open("out.json","r")
-json_list = json.loads(papers.read())
-table = json2html.convert(json = json_list, table_attributes="class='table table-striped'",escape=False )
-# print(table)
+fout = open('assignments.html', 'w')
+papersfile = open("out.json","r")
+json_list = json.loads(papersfile.read())
+papersfile.close()
 
-with open('assignments.html', 'w') as fout:
-    fout.write(table)
+date_list = data['Date'].tolist()  
+
+
+for i in reversed(date_list):
+    fout.write("<h1 class='menu'>"+i+"</h1><table  style='margin-bottom: 3cm' class='table table-striped'>")
+    fout.write("<tr><th>Assigned to</th><th>Title</th><th>Author(s)</th><th>ArXiv ID</th><th>ArXiv link</th></tr>")
+    for j in json_list:
+        if j["Date"] ==  i:
+            authors = "<ul>"
+            for au in j["Authors"]:
+                authors += "<li>" 
+                authors += au
+                authors += "</li>"
+            authors += "</ul>"
+            table = "<tr><td>"+j["For"]+"</td><td>"+j["Title"]+"</td><td>"+authors+"</td><td>"+j["ID"]+"</td><td>"+j["url"]+"</tr>" 
+            fout.write(table)
+    fout.write("</table>")
+
+
 fout.close()
 
 # os.system("cp assignments.html ../git-page/assignments.html")
 
 
 print("Done! Preparing for GIT commit")
-
-os.system("git add .")
-os.system("git commit -m 'New Assignments'")
-os.system("git push origin master")
+yes = input("Enter y to commit:\t")
+if yes=="y":
+    os.system("git add .")
+    os.system("git commit -m 'New Assignments'")
+    os.system("git push origin master")
