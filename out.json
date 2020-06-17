@@ -34,7 +34,7 @@
         "For": "Ankit",
         "ID": "2006.01848",
         "Title": "Intricacies of classical de Sitter string backgrounds",
-        "url": "<a href='http://arxiv.org/abs/2006.01848v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.01848v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -88,6 +88,37 @@
         "ID": "2006.06701",
         "Title": "Probing the Planck scale: The modification of the time evolution operator due to the quantum structure of spacetime",
         "url": "<a href='http://arxiv.org/abs/2006.06701v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Max Guillen"
+        ],
+        "Date": "16 June 2020",
+        "For": "Ankit",
+        "ID": "2006.06014",
+        "Title": "Pure spinors and $D=11$ supergravity",
+        "url": "<a href='http://arxiv.org/abs/2006.06014v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Max Guillen"
+        ],
+        "Date": "16 June 2020",
+        "For": "Ankit",
+        "ID": "2006.06022",
+        "Title": "Notes on the 11D pure spinor wordline vertex operators",
+        "url": "<a href='http://arxiv.org/abs/2006.06022v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Diego Garc\u00eda Sep\u00falveda",
+            "Max Guillen"
+        ],
+        "Date": "16 June 2020",
+        "For": "Ankit",
+        "ID": "2006.06023",
+        "Title": "A Pure Spinor Twistor Description of the $D=10$ Superparticle",
+        "url": "<a href='http://arxiv.org/abs/2006.06023v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -239,6 +270,53 @@
     },
     {
         "Authors": [
+            "Alexey Golovnev",
+            "Maria-Jose Guzman"
+        ],
+        "Date": "16 June 2020",
+        "For": "Dipayan",
+        "ID": "2006.08507",
+        "Title": "Bianchi identities in f(T) gravity: paving the way to confrontation with astrophysics",
+        "url": "<a href='http://arxiv.org/abs/2006.08507v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Marius Oltean",
+            "Hossein Bazrafshan Moghaddam",
+            "Richard J. Epp"
+        ],
+        "Date": "16 June 2020",
+        "For": "Dipayan",
+        "ID": "2006.06001",
+        "Title": "Quasilocal conservation laws in cosmology: a first look",
+        "url": "<a href='http://arxiv.org/abs/2006.06001v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Anna Ijjas",
+            "William G. Cook",
+            "Frans Pretorius",
+            "Paul J. Steinhardt",
+            "Elliot Y. Davies"
+        ],
+        "Date": "16 June 2020",
+        "For": "Dipayan",
+        "ID": "2006.04999",
+        "Title": "Robustness of slow contraction to cosmic initial conditions",
+        "url": "<a href='http://arxiv.org/abs/2006.04999v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Hongsheng Zhang"
+        ],
+        "Date": "16 June 2020",
+        "For": "Dipayan",
+        "ID": "2006.05309",
+        "Title": "Brown-York energy in stationary spacetimes",
+        "url": "<a href='http://dx.doi.org/10.1142/S0217732320501825' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
             "Iosif Bena",
             "Felicity Eperon",
             "Pierre Heidmann",
@@ -307,6 +385,49 @@
         "ID": "2006.03376",
         "Title": "Circular orbits for light in a two black hole metric",
         "url": "<a href='http://arxiv.org/abs/2006.03376v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Andrea Cristofoli"
+        ],
+        "Date": "16 June 2020",
+        "For": "Himanshu",
+        "ID": "2006.08283",
+        "Title": "Gravitational shock waves and scattering amplitudes",
+        "url": "<a href='http://arxiv.org/abs/2006.08283v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Clifford Cheung",
+            "Mikhail P. Solon"
+        ],
+        "Date": "16 June 2020",
+        "For": "Himanshu",
+        "ID": "2006.06665",
+        "Title": "Tidal Effects in the Post-Minkowskian Expansion",
+        "url": "<a href='http://arxiv.org/abs/2006.06665v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "M\u00e1rcio M. Cunha",
+            "Edilberto O. Silva"
+        ],
+        "Date": "16 June 2020",
+        "For": "Himanshu",
+        "ID": "2006.06511",
+        "Title": "Relativistic quantum motion of an electron in spinning cosmic string spacetime in the presence of uniform magnetic field and Aharonov-Bohm potential",
+        "url": "<a href='http://arxiv.org/abs/2006.06511v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Yoon-Seok Choun",
+            "Sang-Jin Sin"
+        ],
+        "Date": "16 June 2020",
+        "For": "Himanshu",
+        "ID": "2006.06579",
+        "Title": "Quantization of the charge in Coulomb plus harmonic potential",
+        "url": "<a href='http://arxiv.org/abs/2006.06579v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -428,6 +549,39 @@
     },
     {
         "Authors": [
+            "Andrea Cristofoli"
+        ],
+        "Date": "16 June 2020",
+        "For": "Harkirat",
+        "ID": "2006.08283",
+        "Title": "Gravitational shock waves and scattering amplitudes",
+        "url": "<a href='http://arxiv.org/abs/2006.08283v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Roberto Tanzi",
+            "Domenico Giulini"
+        ],
+        "Date": "16 June 2020",
+        "For": "Harkirat",
+        "ID": "2006.07268",
+        "Title": "Asymptotic symmetries of Yang-Mills fields in Hamiltonian formulation",
+        "url": "<a href='http://arxiv.org/abs/2006.07268v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Maxim Fitkevich",
+            "Dmitry Levkov",
+            "Sergey Sibiryakov"
+        ],
+        "Date": "16 June 2020",
+        "For": "Harkirat",
+        "ID": "2006.03606",
+        "Title": "Semiclassical ${\\cal S}$-matrix and black hole entropy in dilaton gravity",
+        "url": "<a href='http://arxiv.org/abs/2006.03606v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
             "Tommy Ohlsson",
             "Shun Zhou"
         ],
@@ -436,6 +590,18 @@
         "ID": "2006.02445",
         "Title": "Density Matrix Formalism for PT-Symmetric Non-Hermitian Hamiltonians with the Lindblad Equation",
         "url": "<a href='http://arxiv.org/abs/2006.02445v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "J. L. F. Barbon",
+            "J. Martin-Garcia",
+            "M. Sasieta"
+        ],
+        "Date": "16 June 2020",
+        "For": "Jaffino",
+        "ID": "2006.06607",
+        "Title": "Proof Of A Momentum/Complexity Correspondence",
+        "url": "<a href='http://arxiv.org/abs/2006.06607v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -459,6 +625,40 @@
         "ID": "2006.06931",
         "Title": "Quantum Gravity Witness via Entanglement of Masses: Casimir Screening",
         "url": "<a href='http://arxiv.org/abs/2006.06931v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Malte Henkel",
+            "Michal Dariusz Kuczynski",
+            "Stoimen Stoimenov"
+        ],
+        "Date": "16 June 2020",
+        "For": "Kinjalk",
+        "ID": "2006.04537",
+        "Title": "Boundedness of meta-conformal two-point functions in one and two spatial dimensions",
+        "url": "<a href='http://arxiv.org/abs/2006.04537v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Steven Abel",
+            "Michael Spannowsky"
+        ],
+        "Date": "16 June 2020",
+        "For": "Shridhar",
+        "ID": "2006.06003",
+        "Title": "Observing the fate of the false vacuum with a quantum laboratory",
+        "url": "<a href='http://arxiv.org/abs/2006.06003v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "B. A. Fayzullaev",
+            "E. Qayumov"
+        ],
+        "Date": "16 June 2020",
+        "For": "Shridhar",
+        "ID": "2006.04908",
+        "Title": "Schwinger-Dyson type equations for some QFT models",
+        "url": "<a href='http://arxiv.org/abs/2006.04908v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -516,5 +716,52 @@
         "ID": "2006.05039",
         "Title": "The astrophysical odds of GW151216",
         "url": "<a href='http://arxiv.org/abs/2006.05039v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "R. Moti",
+            "A. Shojai"
+        ],
+        "Date": "16 June 2020",
+        "For": "Everyone",
+        "ID": "2006.06190",
+        "Title": "Traversability of quantum improved wormhole solution",
+        "url": "<a href='http://arxiv.org/abs/2006.06190v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Florian Niedermann",
+            "Martin S. Sloth"
+        ],
+        "Date": "16 June 2020",
+        "For": "Everyone",
+        "ID": "2006.06686",
+        "Title": "Resolving the Hubble Tension with New Early Dark Energy",
+        "url": "<a href='http://arxiv.org/abs/2006.06686v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Philip Boyle Smith",
+            "David Tong"
+        ],
+        "Date": "16 June 2020",
+        "For": "Everyone",
+        "ID": "2006.07369",
+        "Title": "What Symmetries are Preserved by a Fermion Boundary State?",
+        "url": "<a href='http://arxiv.org/abs/2006.07369v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Christoph Adam",
+            "Alberto Garc\u00eda Mart\u00edn-Caro",
+            "Miguel Huidobro Garc\u00eda",
+            "Ricardo V\u00e1zquez",
+            "Andrzej Wereszczynski"
+        ],
+        "Date": "16 June 2020",
+        "For": "Everyone",
+        "ID": "2006.07983",
+        "Title": "A new consistent Neutron Star Equation of State from a Generalized Skyrme model",
+        "url": "<a href='http://arxiv.org/abs/2006.07983v1' target='_blank'>Link</a>"
     }
 ]
