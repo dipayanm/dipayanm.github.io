@@ -30,7 +30,7 @@ for j in data.columns:
 json_db = json.dumps(papers, indent=4, sort_keys=True)
 
 print("Creating HTML table")
-print(json_db)
+# print(json_db)
 with open('out.json', 'w') as fout_json:
     fout_json.write(json_db)
 
