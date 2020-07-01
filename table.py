@@ -1,9 +1,9 @@
 import csv
-csvFile = "even-18-19.csv"
-csv_path = "even-18-19.csv"
+csvFile = "current.csv"
+csv_path = "current.csv"
 table = ''
 with open(csv_path) as csvFile:
-    reader = csv.DictReader(csvFile, delimiter=';')
+    reader = csv.DictReader(csvFile, delimiter=',')
     table = '<tr>{}</tr>'.format(''.join(['<td>{}</td>'.format(header) for header in reader.fieldnames]))
     for row in reader:
         table_row = '<tr>'
@@ -12,6 +12,6 @@ with open(csv_path) as csvFile:
         table_row += '</tr>'
         table += table_row
 
-out = open("even-18-19.html","w")
+out = open("current.html","w")
 out.write(table)
 out.close()

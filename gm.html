@@ -25,6 +25,9 @@
 	 $(function(){
 	     $("#even-18-19").load("even-18-19.html");
 	 });
+	 $(function(){
+	     $("#current").load("current.html");
+	 });
 	</script>
 	
     </head>
@@ -39,8 +42,22 @@
 	    <h1 class="t1">Theoretical Physics Research Group</h1>
 	</div>
 	<div class="container-fluid bg-3 tab-div text-center">
-	    <h2 class="menu">Archived Meetings</h2>
 
+	    <h1 class="menu">Current Sem</h1>
+	    <table class="table table-striped">
+		<thead>
+		    <tr>
+			<th>Date</th>
+			<th>Speaker</th>
+			<th>Title</th>
+		    </tr>
+		</thead>
+		<tbody id="current">
+		</tbody>
+	    </table>
+
+
+	    <h1 class="menu">Archived Meetings</h2>
 	    <h1 class="menu">even sem 19-20</h1>
 	    <table class="table table-striped">
 		<thead>
@@ -53,6 +70,8 @@
 		<tbody id="tab-1">
 		</tbody>
 	    </table>
+
+
 	    <h1 class="menu">Odd sem 19-20</h1>
 	    <table class="table table-striped">
 		<thead>
