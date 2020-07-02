@@ -22,7 +22,7 @@
         "For": "Ankit",
         "ID": "2005.11572",
         "Title": "Physical implications of a fundamental period of time",
-        "url": "<a href='http://arxiv.org/abs/2005.11572v1' target='_blank'>Link</a>"
+        "url": "<a href='http://dx.doi.org/10.1103/PhysRevLett.124.241301' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -170,6 +170,50 @@
     },
     {
         "Authors": [
+            "Asta Heinesen"
+        ],
+        "Date": "29 June 2020",
+        "For": "Ankit",
+        "ID": "2006.15022",
+        "Title": "Cosmological homogeneity scale estimates are dressed",
+        "url": "<a href='http://arxiv.org/abs/2006.15022v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Sourav Bhattacharya",
+            "Himanshu Gaur",
+            "Nitin Joshi"
+        ],
+        "Date": "29 June 2020",
+        "For": "Ankit",
+        "ID": "2006.14212",
+        "Title": "Some measures for fermionic entanglement in the cosmological de Sitter spacetime",
+        "url": "<a href='http://arxiv.org/abs/2006.14212v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Ignatios Antoniadis",
+            "Karim Benakli"
+        ],
+        "Date": "29 June 2020",
+        "For": "Ankit",
+        "ID": "2006.12512",
+        "Title": "Weak Gravity Conjecture in de Sitter space-time",
+        "url": "<a href='http://arxiv.org/abs/2006.12512v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Adrian David",
+            "Yasha Neiman"
+        ],
+        "Date": "30 June 2020",
+        "For": "Ankit",
+        "ID": "2006.15813",
+        "Title": "Higher-spin symmetry vs. boundary locality, and a rehabilitation of dS/CFT",
+        "url": "<a href='http://arxiv.org/abs/2006.15813v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
             "Sergey Chervon",
             "Julio Fabris",
             "Igor Fomin"
@@ -211,8 +255,8 @@
         "Date": "1 June 2020",
         "For": "Dipayan",
         "ID": "2005.14154",
-        "Title": "Black Hole Thermodynamics in Anti-de Sitter Space in Horndeski Gravity",
-        "url": "<a href='http://arxiv.org/abs/2005.14154v1' target='_blank'>Link</a>"
+        "Title": "Revisiting the Black Hole Thermodynamics in Horndeski Gravity",
+        "url": "<a href='http://arxiv.org/abs/2005.14154v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -280,7 +324,7 @@
         "For": "Dipayan",
         "ID": "1911.04830",
         "Title": "Thermodynamics of $f(R)$ Theories of Gravity",
-        "url": "<a href='http://arxiv.org/abs/1911.04830v3' target='_blank'>Link</a>"
+        "url": "<a href='http://dx.doi.org/10.1088/1475-7516/2020/06/053' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -397,6 +441,65 @@
         "ID": "2006.11935",
         "Title": "The Geometrical Origin of Dark Energy",
         "url": "<a href='http://arxiv.org/abs/2006.11935v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Timothy Clifton",
+            "Pedro Carrilho",
+            "Pedro G. S. Fernandes",
+            "David J. Mulryne"
+        ],
+        "Date": "29 June 2020",
+        "For": "Dipayan",
+        "ID": "2006.15017",
+        "Title": "Observational Constraints on the Regularized 4D Einstein-Gauss-Bonnet Theory of Gravity",
+        "url": "<a href='http://arxiv.org/abs/2006.15017v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "D. D. Pawar",
+            "D. K. Raut",
+            "W. D. Patil"
+        ],
+        "Date": "29 June 2020",
+        "For": "Dipayan",
+        "ID": "2006.11816",
+        "Title": "Fractal FRW Model within Domain Wall",
+        "url": "<a href='http://dx.doi.org/10.1142/S0217751X20500724' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Valerio Faraoni",
+            "Andrea Giusti"
+        ],
+        "Date": "29 June 2020",
+        "For": "Dipayan",
+        "ID": "2006.12577",
+        "Title": "Unsettling physics in the quantum-corrected Schwarzschild black hole",
+        "url": "<a href='http://arxiv.org/abs/2006.12577v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Petr Jizba",
+            "Les\u0142aw Rachwa\u0142",
+            "Stefano G. Giaccari",
+            "Jaroslav K\u0148ap"
+        ],
+        "Date": "30 June 2020",
+        "For": "Dipayan",
+        "ID": "2006.15596",
+        "Title": "Dark side of Weyl gravity",
+        "url": "<a href='http://arxiv.org/abs/2006.15596v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "She-Sheng Xue"
+        ],
+        "Date": "30 June 2020",
+        "For": "Dipayan",
+        "ID": "2006.15622",
+        "Title": "Cosmological $\u039b$ converts to reheating energy and cold dark matter",
+        "url": "<a href='http://arxiv.org/abs/2006.15622v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -557,6 +660,86 @@
         "ID": "2006.00682",
         "Title": "Gravitational lens without asymptotic flatness",
         "url": "<a href='http://arxiv.org/abs/2006.00682v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Joshua Baines",
+            "Thomas Berry",
+            "Alex Simpson",
+            "Matt Visser"
+        ],
+        "Date": "29 June 2020",
+        "For": "Himanshu",
+        "ID": "2006.14258",
+        "Title": "Painleve-Gullstrand form of the Lense-Thirring spacetime",
+        "url": "<a href='http://arxiv.org/abs/2006.14258v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Clifford Cheung",
+            "Mikhail P. Solon"
+        ],
+        "Date": "29 June 2020",
+        "For": "Himanshu",
+        "ID": "2006.06665",
+        "Title": "Tidal Effects in the Post-Minkowskian Expansion",
+        "url": "<a href='http://arxiv.org/abs/2006.06665v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Zonghai Li",
+            "Guodong Zhang",
+            "Ali \u00d6vg\u00fcn"
+        ],
+        "Date": "29 June 2020",
+        "For": "Himanshu",
+        "ID": "2006.13047",
+        "Title": "Circular orbit of a particle and weak gravitational lensing",
+        "url": "<a href='http://dx.doi.org/10.1103/PhysRevD.101.124058' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Francisco D. Mazzitelli"
+        ],
+        "Date": "29 June 2020",
+        "For": "Himanshu",
+        "ID": "2006.12225",
+        "Title": "The infalling photon, the infalling particle, and the observer at rest near the horizon of a black hole",
+        "url": "<a href='http://arxiv.org/abs/2006.12225v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Valerio Faraoni",
+            "Andrea Giusti"
+        ],
+        "Date": "29 June 2020",
+        "For": "Himanshu",
+        "ID": "2006.12577",
+        "Title": "Unsettling physics in the quantum-corrected Schwarzschild black hole",
+        "url": "<a href='http://arxiv.org/abs/2006.12577v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Kenzo Ishikawa",
+            "Kenji Nishiwaki",
+            "Kin-ya Oda"
+        ],
+        "Date": "30 June 2020",
+        "For": "Himanshu",
+        "ID": "2006.14159",
+        "Title": "Scalar scattering amplitude in Gaussian wave-packet formalism",
+        "url": "<a href='http://arxiv.org/abs/2006.14159v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Nick E. Mavromatos",
+            "Alex Soto"
+        ],
+        "Date": "30 June 2020",
+        "For": "Himanshu",
+        "ID": "2006.13616",
+        "Title": "Dynamical Majorana Neutrino Masses and Axions II: Inclusion of Axial Background and Anomaly Terms",
+        "url": "<a href='http://arxiv.org/abs/2006.13616v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -773,7 +956,7 @@
         "For": "Harkirat",
         "ID": "2006.10754",
         "Title": "Islands for Reflected Entropy",
-        "url": "<a href='http://arxiv.org/abs/2006.10754v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.10754v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -795,7 +978,7 @@
         "For": "Harkirat",
         "ID": "2006.10625",
         "Title": "Entanglement wedge cross-section in shock wave geometries",
-        "url": "<a href='http://arxiv.org/abs/2006.10625v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.10625v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -854,6 +1037,117 @@
         "ID": "2006.10055",
         "Title": "What does the Marked Power Spectrum Measure? Insights from Perturbation Theory",
         "url": "<a href='http://arxiv.org/abs/2006.10055v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Guillermo Ballesteros",
+            "Juli\u00e1n Rey",
+            "Marco Taoso",
+            "Alfredo Urbano"
+        ],
+        "Date": "29 June 2020",
+        "For": "Harkirat",
+        "ID": "2006.14597",
+        "Title": "Stochastic inflationary dynamics beyond slow-roll and consequences for primordial black hole formation",
+        "url": "<a href='http://arxiv.org/abs/2006.14597v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Georgios Aliferis",
+            "Vasilios Zarikas"
+        ],
+        "Date": "29 June 2020",
+        "For": "Harkirat",
+        "ID": "2006.13621",
+        "Title": "Electroweak baryogenesis by primordial black holes in Brans-Dicke modified gravity",
+        "url": "<a href='http://arxiv.org/abs/2006.13621v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "John R. Klauder"
+        ],
+        "Date": "29 June 2020",
+        "For": "Harkirat",
+        "ID": "2006.13283",
+        "Title": "The Favored Classical Variables to Promote to Quantum Operators",
+        "url": "<a href='http://arxiv.org/abs/2006.13283v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Andrew Svesko"
+        ],
+        "Date": "29 June 2020",
+        "For": "Harkirat",
+        "ID": "2006.13106",
+        "Title": "Emergence of Spacetime: From Entanglement to Einstein",
+        "url": "<a href='http://arxiv.org/abs/2006.13106v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Valerio Faraoni",
+            "Andrea Giusti"
+        ],
+        "Date": "29 June 2020",
+        "For": "Harkirat",
+        "ID": "2006.12577",
+        "Title": "Unsettling physics in the quantum-corrected Schwarzschild black hole",
+        "url": "<a href='http://arxiv.org/abs/2006.12577v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "David Edward Bruschi",
+            "Frank K. Wilhelm"
+        ],
+        "Date": "29 June 2020",
+        "For": "Harkirat",
+        "ID": "2006.11768",
+        "Title": "Self gravity affects quantum states",
+        "url": "<a href='http://arxiv.org/abs/2006.11768v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "G. P. de Brito",
+            "M. G. Campos",
+            "L. P. R. Ospedal",
+            "K. P. B. Veiga"
+        ],
+        "Date": "29 June 2020",
+        "For": "Harkirat",
+        "ID": "2006.12824",
+        "Title": "Quantum corrected gravitational potential beyond monopole-monopole interactions",
+        "url": "<a href='http://arxiv.org/abs/2006.12824v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Milutin Blagojevi\u0107",
+            "James M. Nester"
+        ],
+        "Date": "30 June 2020",
+        "For": "Harkirat",
+        "ID": "2006.15303",
+        "Title": "Local symmetries and physical degrees of freedom in $f(T)$ gravity: a Dirac Hamiltonian constraint analysis",
+        "url": "<a href='http://arxiv.org/abs/2006.15303v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Sabine Hossenfelder"
+        ],
+        "Date": "30 June 2020",
+        "For": "Harkirat",
+        "ID": "2006.14175",
+        "Title": "Born's rule from almost nothing",
+        "url": "<a href='http://arxiv.org/abs/2006.14175v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Pablo A. Cano",
+            "\u00c1ngel Murcia"
+        ],
+        "Date": "30 June 2020",
+        "For": "Harkirat",
+        "ID": "2006.15149",
+        "Title": "Resolution of Reissner-Nordstr\u00f6m singularities by higher-derivative corrections",
+        "url": "<a href='http://arxiv.org/abs/2006.15149v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -970,6 +1264,79 @@
     },
     {
         "Authors": [
+            "Guillermo Ballesteros",
+            "Juli\u00e1n Rey",
+            "Marco Taoso",
+            "Alfredo Urbano"
+        ],
+        "Date": "29 June 2020",
+        "For": "Jaffino",
+        "ID": "2006.14597",
+        "Title": "Stochastic inflationary dynamics beyond slow-roll and consequences for primordial black hole formation",
+        "url": "<a href='http://arxiv.org/abs/2006.14597v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Georgios Aliferis",
+            "Vasilios Zarikas"
+        ],
+        "Date": "29 June 2020",
+        "For": "Jaffino",
+        "ID": "2006.13621",
+        "Title": "Electroweak baryogenesis by primordial black holes in Brans-Dicke modified gravity",
+        "url": "<a href='http://arxiv.org/abs/2006.13621v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Nikolaos K. Kollas",
+            "Dimitris Moustos",
+            "Kostas Blekos"
+        ],
+        "Date": "29 June 2020",
+        "For": "Jaffino",
+        "ID": "2006.13917",
+        "Title": "Field assisted extraction and swelling of quantum coherence for moving Unruh-DeWitt detectors",
+        "url": "<a href='http://arxiv.org/abs/2006.13917v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Georgios K. Karananas",
+            "Marco Michel",
+            "Javier Rubio"
+        ],
+        "Date": "29 June 2020",
+        "For": "Jaffino",
+        "ID": "2006.11290",
+        "Title": "One residue to rule them all: Electroweak symmetry breaking, inflation and field-space geometry",
+        "url": "<a href='http://arxiv.org/abs/2006.11290v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Arpan Das",
+            "Shreyansh S. Dave",
+            "Oindrila Ganguly",
+            "Ajit M. Srivastava"
+        ],
+        "Date": "30 June 2020",
+        "For": "Jaffino",
+        "ID": "2006.15912",
+        "Title": "Hawking radiation from acoustic black holes in relativistic heavy ion collisions",
+        "url": "<a href='http://arxiv.org/abs/2006.15912v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Eduardo Mart\u00edn-Mart\u00ednez",
+            "T. Rick Perche",
+            "Bruno de S. L. Torres"
+        ],
+        "Date": "30 June 2020",
+        "For": "Jaffino",
+        "ID": "2006.12514",
+        "Title": "Broken covariance of particle detector models in relativistic quantum information",
+        "url": "<a href='http://arxiv.org/abs/2006.12514v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
             "Dimitrios Zoakos"
         ],
         "Date": "9 June 2020",
@@ -1051,6 +1418,30 @@
     },
     {
         "Authors": [
+            "G. P. de Brito",
+            "M. G. Campos",
+            "L. P. R. Ospedal",
+            "K. P. B. Veiga"
+        ],
+        "Date": "29 June 2020",
+        "For": "Kinjalk",
+        "ID": "2006.12824",
+        "Title": "Quantum corrected gravitational potential beyond monopole-monopole interactions",
+        "url": "<a href='http://arxiv.org/abs/2006.12824v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Ignatios Antoniadis",
+            "Karim Benakli"
+        ],
+        "Date": "29 June 2020",
+        "For": "Kinjalk",
+        "ID": "2006.12512",
+        "Title": "Weak Gravity Conjecture in de Sitter space-time",
+        "url": "<a href='http://arxiv.org/abs/2006.12512v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
             "Steven Abel",
             "Michael Spannowsky"
         ],
@@ -1070,6 +1461,27 @@
         "ID": "2006.04908",
         "Title": "Schwinger-Dyson type equations for some QFT models",
         "url": "<a href='http://arxiv.org/abs/2006.04908v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "O. B. Zaslavskii"
+        ],
+        "Date": "29 June 2020",
+        "For": "Vikram",
+        "ID": "2006.11552",
+        "Title": "On special case of the Ba\u00f1ados-Silk-West effect",
+        "url": "<a href='http://arxiv.org/abs/2006.11552v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Valerio Faraoni",
+            "Andrea Giusti"
+        ],
+        "Date": "29 June 2020",
+        "For": "Vikram",
+        "ID": "2006.12577",
+        "Title": "Unsettling physics in the quantum-corrected Schwarzschild black hole",
+        "url": "<a href='http://arxiv.org/abs/2006.12577v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1197,5 +1609,18 @@
         "ID": "2006.08730",
         "Title": "Fundamental bound for time measurements and minimum uncertainty clocks",
         "url": "<a href='http://dx.doi.org/10.1088/2399-6528/ab9a07' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Elisa Maggio",
+            "Luca Buoninfante",
+            "Anupam Mazumdar",
+            "Paolo Pani"
+        ],
+        "Date": "29 June 2020",
+        "For": "Everyone",
+        "ID": "2006.14628",
+        "Title": "How does a dark compact object ringdown?",
+        "url": "<a href='http://arxiv.org/abs/2006.14628v1' target='_blank'>Link</a>"
     }
 ]
