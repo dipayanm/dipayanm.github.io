@@ -214,6 +214,16 @@
     },
     {
         "Authors": [
+            "V. A. Emelyanov"
+        ],
+        "Date": "6 July 2020",
+        "For": "Ankit",
+        "ID": "2006.16747",
+        "Title": "On quantum corrections to geodesics in de-Sitter spacetime",
+        "url": "<a href='http://arxiv.org/abs/2006.16747v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
             "Sergey Chervon",
             "Julio Fabris",
             "Igor Fomin"
@@ -503,6 +513,74 @@
     },
     {
         "Authors": [
+            "Simran Arora",
+            "S. K. J. Pacif",
+            "Snehasish Bhattacharjee",
+            "P. K. Sahoo"
+        ],
+        "Date": "6 July 2020",
+        "For": "Dipayan",
+        "ID": "2007.01703",
+        "Title": "$f(Q,T)$ gravity models with observational constraints",
+        "url": "<a href='http://dx.doi.org/10.1016/j.dark.2020.100664' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Kaushik Bhattacharya",
+            "Saddam Hussain"
+        ],
+        "Date": "6 July 2020",
+        "For": "Dipayan",
+        "ID": "2007.00904",
+        "Title": "Metric perturbations in a cosmological model with gravitational particle production",
+        "url": "<a href='http://arxiv.org/abs/2007.00904v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Alexander Ganz",
+            "Karim Noui"
+        ],
+        "Date": "6 July 2020",
+        "For": "Dipayan",
+        "ID": "2007.01063",
+        "Title": "Reconsidering the Ostrogradsky theorem: Higher-derivatives Lagrangians, Ghosts and Degeneracy",
+        "url": "<a href='http://arxiv.org/abs/2007.01063v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Kris Pardo",
+            "David N. Spergel"
+        ],
+        "Date": "6 July 2020",
+        "For": "Dipayan",
+        "ID": "2007.00555",
+        "Title": "What is the price of abandoning dark matter? Cosmological constraints on alternative gravity theories",
+        "url": "<a href='http://arxiv.org/abs/2007.00555v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Truman Tapia",
+            "Muhammad Zahid Mughal",
+            "Clara Rojas"
+        ],
+        "Date": "6 July 2020",
+        "For": "Dipayan",
+        "ID": "2006.16807",
+        "Title": "Semiclassical analysis of the Starobinsky inflationary model",
+        "url": "<a href='http://dx.doi.org/10.1016/j.dark.2020.100650' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "She-Sheng Xue"
+        ],
+        "Date": "6 July 2020",
+        "For": "Dipayan",
+        "ID": "2006.15622",
+        "Title": "Cosmological $\u039b$ converts to reheating energy and cold dark matter",
+        "url": "<a href='http://arxiv.org/abs/2006.15622v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
             "Iosif Bena",
             "Felicity Eperon",
             "Pierre Heidmann",
@@ -634,8 +712,8 @@
         "Date": "22 June 2020",
         "For": "Himanshu",
         "ID": "2006.08398",
-        "Title": "Mass of the Photon and Dark Energy-Pressure Relation for a Bose-Einstein Condensate at Rest in de Sitter Universe",
-        "url": "<a href='http://arxiv.org/abs/2006.08398v1' target='_blank'>Link</a>"
+        "Title": "Mass of the Photon and Dark Energy-Pressure Relation for its Bose-Einstein Condensate at Rest in de Sitter Universe",
+        "url": "<a href='http://arxiv.org/abs/2006.08398v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -740,6 +818,27 @@
         "ID": "2006.13616",
         "Title": "Dynamical Majorana Neutrino Masses and Axions II: Inclusion of Axial Background and Anomaly Terms",
         "url": "<a href='http://arxiv.org/abs/2006.13616v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Jasel Berra-Montiel",
+            "Alberto Molgado"
+        ],
+        "Date": "6 July 2020",
+        "For": "Himanshu",
+        "ID": "2007.01324",
+        "Title": "Quasi-probability distributions in Loop Quantum Cosmology",
+        "url": "<a href='http://arxiv.org/abs/2007.01324v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Damian Ejlli"
+        ],
+        "Date": "6 July 2020",
+        "For": "Himanshu",
+        "ID": "2006.16154",
+        "Title": "On the photon-pseudoscalar particle mixing in media and external fields",
+        "url": "<a href='http://arxiv.org/abs/2006.16154v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1024,7 +1123,7 @@
         "For": "Harkirat",
         "ID": "2006.11907",
         "Title": "Primordial black hole formation by vacuum bubbles II",
-        "url": "<a href='http://arxiv.org/abs/2006.11907v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.11907v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1151,6 +1250,119 @@
     },
     {
         "Authors": [
+            "Jasel Berra-Montiel",
+            "Alberto Molgado"
+        ],
+        "Date": "6 July 2020",
+        "For": "Harkirat",
+        "ID": "2007.01324",
+        "Title": "Quasi-probability distributions in Loop Quantum Cosmology",
+        "url": "<a href='http://arxiv.org/abs/2007.01324v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Leonardo Campanelli"
+        ],
+        "Date": "6 July 2020",
+        "For": "Harkirat",
+        "ID": "2007.01732",
+        "Title": "Creation of Universes from the Third-Quantized Vacuum",
+        "url": "<a href='http://arxiv.org/abs/2007.01732v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Kaushik Bhattacharya",
+            "Saddam Hussain"
+        ],
+        "Date": "6 July 2020",
+        "For": "Harkirat",
+        "ID": "2007.00904",
+        "Title": "Metric perturbations in a cosmological model with gravitational particle production",
+        "url": "<a href='http://arxiv.org/abs/2007.00904v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Alexander Ganz",
+            "Karim Noui"
+        ],
+        "Date": "6 July 2020",
+        "For": "Harkirat",
+        "ID": "2007.01063",
+        "Title": "Reconsidering the Ostrogradsky theorem: Higher-derivatives Lagrangians, Ghosts and Degeneracy",
+        "url": "<a href='http://arxiv.org/abs/2007.01063v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "James M. Bardeen"
+        ],
+        "Date": "6 July 2020",
+        "For": "Harkirat",
+        "ID": "2007.00190",
+        "Title": "Black holes to white holes II: quasi-classical scenarios for white hole evolution",
+        "url": "<a href='http://arxiv.org/abs/2007.00190v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Eduardo O. Dias"
+        ],
+        "Date": "6 July 2020",
+        "For": "Harkirat",
+        "ID": "2007.00513",
+        "Title": "A quantum formalism for events and how time can emerge from its foundations",
+        "url": "<a href='http://arxiv.org/abs/2007.00513v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Tarek Anous",
+            "Jorrit Kruthoff",
+            "Raghu Mahajan"
+        ],
+        "Date": "6 July 2020",
+        "For": "Harkirat",
+        "ID": "2006.17000",
+        "Title": "Density matrices in quantum gravity",
+        "url": "<a href='http://arxiv.org/abs/2006.17000v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Vladimir O. Soloviev"
+        ],
+        "Date": "6 July 2020",
+        "For": "Harkirat",
+        "ID": "2006.16230",
+        "Title": "Constraint Algebra in Bigravity",
+        "url": "<a href='http://arxiv.org/abs/2006.16230v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Shafqat Riaz",
+            "Michal Szanecki",
+            "Andrzej Niedzwiecki",
+            "Dimitry Ayzenberg",
+            "Cosimo Bambi"
+        ],
+        "Date": "6 July 2020",
+        "For": "Harkirat",
+        "ID": "2006.15838",
+        "Title": "Impact of the returning radiation on the analysis of the reflection spectra of black holes",
+        "url": "<a href='http://arxiv.org/abs/2006.15838v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Caterina Foti",
+            "Alessandro Coppo",
+            "Giulio Barni",
+            "Alessandro Cuccoli",
+            "Paola Verrucchi"
+        ],
+        "Date": "6 July 2020",
+        "For": "Harkirat",
+        "ID": "2006.12103",
+        "Title": "There is only one time",
+        "url": "<a href='http://arxiv.org/abs/2006.12103v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
             "Tommy Ohlsson",
             "Shun Zhou"
         ],
@@ -1250,7 +1462,7 @@
         "For": "Jaffino",
         "ID": "2006.11907",
         "Title": "Primordial black hole formation by vacuum bubbles II",
-        "url": "<a href='http://arxiv.org/abs/2006.11907v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.11907v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1334,6 +1546,77 @@
         "ID": "2006.12514",
         "Title": "Broken covariance of particle detector models in relativistic quantum information",
         "url": "<a href='http://arxiv.org/abs/2006.12514v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "John D. Barrow",
+            "Joao Magueijo"
+        ],
+        "Date": "6 July 2020",
+        "For": "Jaffino",
+        "ID": "2006.16036",
+        "Title": "A contextual Planck parameter and the classical limit in quantum cosmology",
+        "url": "<a href='http://arxiv.org/abs/2006.16036v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "A. C. L. Santos",
+            "C. R. Muniz",
+            "L. T. Oliveira"
+        ],
+        "Date": "6 July 2020",
+        "For": "Jaffino",
+        "ID": "2007.00227",
+        "Title": "Casimir Effect in a Schwarzschild-Like Wormhole Spacetime",
+        "url": "<a href='http://arxiv.org/abs/2007.00227v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Tetsuya Shiromizu",
+            "Diego Soligon"
+        ],
+        "Date": "6 July 2020",
+        "For": "Jaffino",
+        "ID": "2007.00285",
+        "Title": "The positive mass theorem in Kaluza-Klein picture",
+        "url": "<a href='http://arxiv.org/abs/2007.00285v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Hadi Godazgar",
+            "Mahdi Godazgar",
+            "Malcolm J. Perry"
+        ],
+        "Date": "6 July 2020",
+        "For": "Jaffino",
+        "ID": "2007.01257",
+        "Title": "Asymptotic gravitational charges",
+        "url": "<a href='http://arxiv.org/abs/2007.01257v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Yoshifumi Nakata",
+            "Eyuri Wakakuwa",
+            "Masato Koashi"
+        ],
+        "Date": "7 July 2020",
+        "For": "Jaffino",
+        "ID": "2007.00895",
+        "Title": "Information Leakage From Quantum Black Holes With Symmetry",
+        "url": "<a href='http://arxiv.org/abs/2007.00895v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "K. Raimundo",
+            "M. C. Baldiotti",
+            "R. Fresneda",
+            "C. Molina"
+        ],
+        "Date": "7 July 2020",
+        "For": "Jaffino",
+        "ID": "2007.01881",
+        "Title": "Classical/quantum correspondence for pseudo-hermitian systems",
+        "url": "<a href='http://arxiv.org/abs/2007.01881v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1442,6 +1725,41 @@
     },
     {
         "Authors": [
+            "Hadi Godazgar",
+            "Mahdi Godazgar",
+            "Malcolm J. Perry"
+        ],
+        "Date": "6 July 2020",
+        "For": "Kinjalk",
+        "ID": "2007.01257",
+        "Title": "Asymptotic gravitational charges",
+        "url": "<a href='http://arxiv.org/abs/2007.01257v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Tom Draper",
+            "Benjamin Knorr",
+            "Chris Ripken",
+            "Frank Saueressig"
+        ],
+        "Date": "6 July 2020",
+        "For": "Kinjalk",
+        "ID": "2007.00733",
+        "Title": "Finite Quantum Gravity Amplitudes -- no strings attached",
+        "url": "<a href='http://arxiv.org/abs/2007.00733v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Aditya Tamar"
+        ],
+        "Date": "6 July 2020",
+        "For": "Kinjalk",
+        "ID": "2006.16017",
+        "Title": "On Challenges to Separability of the Dirac Equation in Kerr Geometry under Compact Hyperboloidal Coordinates",
+        "url": "<a href='http://arxiv.org/abs/2006.16017v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
             "Steven Abel",
             "Michael Spannowsky"
         ],
@@ -1505,7 +1823,7 @@
         "For": "Everyone",
         "ID": "2006.04129",
         "Title": "Quintessential Inflation from Lorentzian Slow Roll",
-        "url": "<a href='http://arxiv.org/abs/2006.04129v1' target='_blank'>Link</a>"
+        "url": "<a href='http://dx.doi.org/10.1140/epjc/s10052-020-8147-8' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1560,7 +1878,7 @@
         "For": "Everyone",
         "ID": "2006.06686",
         "Title": "Resolving the Hubble Tension with New Early Dark Energy",
-        "url": "<a href='http://arxiv.org/abs/2006.06686v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.06686v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1622,5 +1940,16 @@
         "ID": "2006.14628",
         "Title": "How does a dark compact object ringdown?",
         "url": "<a href='http://arxiv.org/abs/2006.14628v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Raphael Bousso",
+            "Elizabeth Wildenhain"
+        ],
+        "Date": "6 July 2020",
+        "For": "Everyone",
+        "ID": "2006.16289",
+        "Title": "Gravity/Ensemble Duality",
+        "url": "<a href='http://arxiv.org/abs/2006.16289v1' target='_blank'>Link</a>"
     }
 ]

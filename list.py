@@ -66,6 +66,7 @@ fout.close()
 
 
 print("Done! Preparing for GIT commit")
+os.system("notify-send 'Git commit' 'Enter commit response in the terminal'")
 yes = input("Enter y to commit:\t")
 if yes=="y":
     os.system("git add .")
