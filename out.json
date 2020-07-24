@@ -287,7 +287,19 @@
         "For": "Ankit",
         "ID": "2007.04995",
         "Title": "Graviton backreaction on the local cosmological expansion at one-loop order",
-        "url": "<a href='http://arxiv.org/abs/2007.04995v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2007.04995v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Emanuele Alesci",
+            "Sina Bahrami",
+            "Daniele Pranzetti"
+        ],
+        "Date": "21 July 2020",
+        "For": "Ankit",
+        "ID": "2007.06664",
+        "Title": "An asymptotically de Sitter Universe inside a Schwarzschild black hole",
+        "url": "<a href='http://arxiv.org/abs/2007.06664v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -553,7 +565,7 @@
         "For": "Dipayan",
         "ID": "2006.12577",
         "Title": "Unsettling physics in the quantum-corrected Schwarzschild black hole",
-        "url": "<a href='http://arxiv.org/abs/2006.12577v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.12577v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -701,6 +713,27 @@
         "ID": "2007.06306",
         "Title": "Effective Potential of Scalar-Tensor Gravity",
         "url": "<a href='http://arxiv.org/abs/2007.06306v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Mudit Rai",
+            "Daniel Boyanovsky"
+        ],
+        "Date": "21 July 2020",
+        "For": "Dipayan",
+        "ID": "2007.09196",
+        "Title": "On the origin of entropy of gravitationally produced dark matter: the entanglement entropy",
+        "url": "<a href='http://arxiv.org/abs/2007.09196v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Fen Zuo"
+        ],
+        "Date": "21 July 2020",
+        "For": "Dipayan",
+        "ID": "2007.07270",
+        "Title": "The Cosmological Constant: A Categorical View",
+        "url": "<a href='http://arxiv.org/abs/2007.07270v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -917,7 +950,7 @@
         "For": "Himanshu",
         "ID": "2006.12577",
         "Title": "Unsettling physics in the quantum-corrected Schwarzschild black hole",
-        "url": "<a href='http://arxiv.org/abs/2006.12577v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.12577v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -993,7 +1026,28 @@
         "For": "Himanshu",
         "ID": "2007.05416",
         "Title": "Quantum corrected equations of motion in the interior and exterior Schwarzschild spacetime",
-        "url": "<a href='http://arxiv.org/abs/2007.05416v1' target='_blank'>Link</a>"
+        "url": "<a href='http://dx.doi.org/10.1103/PhysRevD.102.026018' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Shovan Dutta",
+            "Nigel R. Cooper"
+        ],
+        "Date": "21 July 2020",
+        "For": "Himanshu",
+        "ID": "2007.08938",
+        "Title": "Out-of-equilibrium steady states of a locally driven lossy qubit array",
+        "url": "<a href='http://arxiv.org/abs/2007.08938v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "J. W. van Holten"
+        ],
+        "Date": "21 July 2020",
+        "For": "Himanshu",
+        "ID": "2007.09358",
+        "Title": "Conformal symmetry and supersymmetry in Rindler space",
+        "url": "<a href='http://arxiv.org/abs/2007.09358v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1049,7 +1103,7 @@
         "For": "Harkirat",
         "ID": "2006.04486",
         "Title": "Are non-vacuum states much relevant for retrieving shock wave memory of spacetime?",
-        "url": "<a href='http://arxiv.org/abs/2006.04486v1' target='_blank'>Link</a>"
+        "url": "<a href='http://dx.doi.org/10.1016/j.physletb.2020.135640' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1345,7 +1399,7 @@
         "For": "Harkirat",
         "ID": "2006.12577",
         "Title": "Unsettling physics in the quantum-corrected Schwarzschild black hole",
-        "url": "<a href='http://arxiv.org/abs/2006.12577v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.12577v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1356,7 +1410,7 @@
         "For": "Harkirat",
         "ID": "2006.11768",
         "Title": "Self gravity affects quantum states",
-        "url": "<a href='http://arxiv.org/abs/2006.11768v2' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.11768v3' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1627,6 +1681,62 @@
         "ID": "2007.06070",
         "Title": "Quantum-gravitational trans-Planckian radiation by a rotating black hole",
         "url": "<a href='http://arxiv.org/abs/2007.06070v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Arthur G Suvorov"
+        ],
+        "Date": "20 July 2020",
+        "For": "Harkirat",
+        "ID": "2007.08070",
+        "Title": "Quantifying closeness between black hole spacetimes: a superspace approach",
+        "url": "<a href='http://arxiv.org/abs/2007.08070v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Viqar Husain",
+            "Mustafa Saeed"
+        ],
+        "Date": "20 July 2020",
+        "For": "Harkirat",
+        "ID": "2007.06609",
+        "Title": "Cosmological perturbation theory with matter time",
+        "url": "<a href='http://arxiv.org/abs/2007.06609v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "F. Becattini",
+            "M. Buzzegoli",
+            "A. Palermo"
+        ],
+        "Date": "21 July 2020",
+        "For": "Harkirat",
+        "ID": "2007.08249",
+        "Title": "Exact equilibrium distributions in statistical quantum field theory with rotation and acceleration: scalar field",
+        "url": "<a href='http://arxiv.org/abs/2007.08249v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Hadi Godazgar",
+            "Mahdi Godazgar",
+            "Malcolm J. Perry"
+        ],
+        "Date": "21 July 2020",
+        "For": "Harkirat",
+        "ID": "2007.07144",
+        "Title": "Hamiltonian derivation of dual gravitational charges",
+        "url": "<a href='http://arxiv.org/abs/2007.07144v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Jon Allen",
+            "Richard A. Matzner"
+        ],
+        "Date": "21 July 2020",
+        "For": "Harkirat",
+        "ID": "2007.06641",
+        "Title": "Gauge Fixing and Constrained Dynamics",
+        "url": "<a href='http://arxiv.org/abs/2007.06641v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1982,6 +2092,60 @@
     },
     {
         "Authors": [
+            "Cisco Gooding",
+            "Steffen Biermann",
+            "Sebastian Erne",
+            "Jorma Louko",
+            "William G. Unruh",
+            "Joerg Schmiedmayer",
+            "Silke Weinfurtner"
+        ],
+        "Date": "20 July 2020",
+        "For": "Jaffino",
+        "ID": "2007.07160",
+        "Title": "Interferometric Unruh detectors for Bose-Einstein condensates",
+        "url": "<a href='http://arxiv.org/abs/2007.07160v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Xiaobo Guo",
+            "Kangkai Liang",
+            "Benrong Mu",
+            "Peng Wang",
+            "Mingtao Yang"
+        ],
+        "Date": "21 July 2020",
+        "For": "Jaffino",
+        "ID": "2007.07744",
+        "Title": "Minimal Length Effects on Motion of a Particle in Rindler Space",
+        "url": "<a href='http://arxiv.org/abs/2007.07744v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "A. P. C. M Lima",
+            "G. Alencar",
+            "R. R. Landim"
+        ],
+        "Date": "21 July 2020",
+        "For": "Jaffino",
+        "ID": "2007.07163",
+        "Title": "Null second order corrections to Casimir energy in weak gravitational field: The Schwinger's approach",
+        "url": "<a href='http://arxiv.org/abs/2007.07163v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Sugumi Kanno",
+            "Jiro Soda",
+            "Junsei Tokuda"
+        ],
+        "Date": "21 July 2020",
+        "For": "Jaffino",
+        "ID": "2007.09838",
+        "Title": "Noise and decoherence induced by gravitons",
+        "url": "<a href='http://arxiv.org/abs/2007.09838v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
             "Dimitrios Zoakos"
         ],
         "Date": "9 June 2020",
@@ -2158,6 +2322,52 @@
     },
     {
         "Authors": [
+            "F. Becattini",
+            "M. Buzzegoli",
+            "A. Palermo"
+        ],
+        "Date": "21 July 2020",
+        "For": "Kinjalk",
+        "ID": "2007.08249",
+        "Title": "Exact equilibrium distributions in statistical quantum field theory with rotation and acceleration: scalar field",
+        "url": "<a href='http://arxiv.org/abs/2007.08249v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Bogus\u0142aw Broda"
+        ],
+        "Date": "21 July 2020",
+        "For": "Kinjalk",
+        "ID": "2007.07536",
+        "Title": "Fermionic model of unitary transport of qubits from a black hole",
+        "url": "<a href='http://arxiv.org/abs/2007.07536v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Nicol\u00e1s F. Del Grosso",
+            "Fernando C. Lombardo",
+            "Paula I. Villar"
+        ],
+        "Date": "21 July 2020",
+        "For": "Kinjalk",
+        "ID": "2007.06627",
+        "Title": "Entanglement degradation of cavity modes due to the dynamical Casimir effect",
+        "url": "<a href='http://arxiv.org/abs/2007.06627v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Sugumi Kanno",
+            "Jiro Soda",
+            "Junsei Tokuda"
+        ],
+        "Date": "21 July 2020",
+        "For": "Kinjalk",
+        "ID": "2007.09838",
+        "Title": "Noise and decoherence induced by gravitons",
+        "url": "<a href='http://arxiv.org/abs/2007.09838v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
             "Steven Abel",
             "Michael Spannowsky"
         ],
@@ -2197,7 +2407,7 @@
         "For": "Vikram",
         "ID": "2006.12577",
         "Title": "Unsettling physics in the quantum-corrected Schwarzschild black hole",
-        "url": "<a href='http://arxiv.org/abs/2006.12577v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.12577v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -2221,7 +2431,7 @@
         "For": "Everyone",
         "ID": "2006.02613",
         "Title": "Dual equivalence between self-dual and topologically massive $B\\wedge F$ models coupled to matter in $3+1$ dimensions",
-        "url": "<a href='http://arxiv.org/abs/2006.02613v1' target='_blank'>Link</a>"
+        "url": "<a href='http://dx.doi.org/10.1103/PhysRevD.102.025006' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -2412,8 +2622,8 @@
         "Date": "14 July 2020",
         "For": "Everyone",
         "ID": "2007.05512",
-        "Title": "Comment on Casimir effect in weak gravitational field: Schwingers approach",
-        "url": "<a href='http://arxiv.org/abs/2007.05512v1' target='_blank'>Link</a>"
+        "Title": "Comment on \"Casimir effect in a weak gravitational field: Schwinger's approach\"",
+        "url": "<a href='http://arxiv.org/abs/2007.05512v3' target='_blank'>Link</a>"
     },
     {
         "Authors": [
