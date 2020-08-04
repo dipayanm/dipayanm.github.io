@@ -118,7 +118,7 @@
         "For": "Ankit",
         "ID": "2006.06023",
         "Title": "A Pure Spinor Twistor Description of the $D=10$ Superparticle",
-        "url": "<a href='http://arxiv.org/abs/2006.06023v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.06023v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -142,7 +142,7 @@
         "For": "Ankit",
         "ID": "2005.13923",
         "Title": "Black Hole Gravitational Waves in the Effective Field Theory of Gravity",
-        "url": "<a href='http://arxiv.org/abs/2005.13923v2' target='_blank'>Link</a>"
+        "url": "<a href='http://dx.doi.org/10.1103/PhysRevD.102.024079' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -277,7 +277,7 @@
         "For": "Ankit",
         "ID": "2007.06306",
         "Title": "Effective Potential of Scalar-Tensor Gravity",
-        "url": "<a href='http://arxiv.org/abs/2007.06306v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2007.06306v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -300,6 +300,41 @@
         "ID": "2007.06664",
         "Title": "An asymptotically de Sitter Universe inside a Schwarzschild black hole",
         "url": "<a href='http://arxiv.org/abs/2007.06664v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Paolo Meda",
+            "Nicola Pinamonti",
+            "Daniel Siemssen"
+        ],
+        "Date": "3 August 2020",
+        "For": "Ankit",
+        "ID": "2007.14665",
+        "Title": "Existence and uniqueness of solutions of the semiclassical Einstein equation in cosmological models",
+        "url": "<a href='http://arxiv.org/abs/2007.14665v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Nahomi Kan",
+            "Masashi Kuniyasu",
+            "Kiyoshi Shiraishi"
+        ],
+        "Date": "4 August 2020",
+        "For": "Ankit",
+        "ID": "2008.00607",
+        "Title": "Quantum fluctuation of stress tensor in a higher-derivative scalar field theory around a cosmic string",
+        "url": "<a href='http://arxiv.org/abs/2008.00607v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Vasileios Basiouris",
+            "George K. Leontaris"
+        ],
+        "Date": "4 August 2020",
+        "For": "Ankit",
+        "ID": "2007.15423",
+        "Title": "Note on de Sitter vacua from perturbative and non-perturbative dynamics in type IIB/F-theory compactifications",
+        "url": "<a href='http://arxiv.org/abs/2007.15423v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -402,7 +437,7 @@
         "For": "Dipayan",
         "ID": "2006.03946",
         "Title": "The dark universe future and singularities: the account of thermal and quantum effects",
-        "url": "<a href='http://arxiv.org/abs/2006.03946v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.03946v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -506,7 +541,7 @@
         "For": "Dipayan",
         "ID": "2006.10019",
         "Title": "Topological Gaps by Twisting",
-        "url": "<a href='http://arxiv.org/abs/2006.10019v2' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.10019v3' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -521,15 +556,14 @@
     },
     {
         "Authors": [
-            "Alon",
-            "E. Faraggi",
+            "Alon E. Faraggi",
             "Marco Matone"
         ],
         "Date": "23 June 2020",
         "For": "Dipayan",
         "ID": "2006.11935",
         "Title": "The Geometrical Origin of Dark Energy",
-        "url": "<a href='http://arxiv.org/abs/2006.11935v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.11935v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -565,7 +599,7 @@
         "For": "Dipayan",
         "ID": "2006.12577",
         "Title": "Unsettling physics in the quantum-corrected Schwarzschild black hole",
-        "url": "<a href='http://arxiv.org/abs/2006.12577v2' target='_blank'>Link</a>"
+        "url": "<a href='http://dx.doi.org/10.3390/sym12081264' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -712,7 +746,7 @@
         "For": "Dipayan",
         "ID": "2007.06306",
         "Title": "Effective Potential of Scalar-Tensor Gravity",
-        "url": "<a href='http://arxiv.org/abs/2007.06306v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2007.06306v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -734,6 +768,140 @@
         "ID": "2007.07270",
         "Title": "The Cosmological Constant: A Categorical View",
         "url": "<a href='http://arxiv.org/abs/2007.07270v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "W. Javed",
+            "J. Abbas",
+            "A. \u00d6vg\u00fcn"
+        ],
+        "Date": "3 August 2020",
+        "For": "Dipayan",
+        "ID": "2007.16027",
+        "Title": "Effect of the quintessential dark energy on weak deflection angle by Kerr-Newmann Black hole",
+        "url": "<a href='http://dx.doi.org/10.1016/j.aop.2020.168183' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Michaela G. Lawrence",
+            "David Seery",
+            "Christian T. Byrnes"
+        ],
+        "Date": "3 August 2020",
+        "For": "Dipayan",
+        "ID": "2007.16052",
+        "Title": "Constraints on a cubic Galileon disformally coupled to Standard Model matter",
+        "url": "<a href='http://arxiv.org/abs/2007.16052v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Ayan Chatterjee",
+            "Amit Ghosh"
+        ],
+        "Date": "3 August 2020",
+        "For": "Dipayan",
+        "ID": "2007.15401",
+        "Title": "Exponential corrections to black hole entropy",
+        "url": "<a href='http://dx.doi.org/10.1103/PhysRevLett.125.041302' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Ivan de Martino",
+            "Sankha S. Chakrabarty",
+            "Valentina Cesare",
+            "Arianna Gallo",
+            "Luisa Ostorero",
+            "Antonaldo Diaferio"
+        ],
+        "Date": "3 August 2020",
+        "For": "Dipayan",
+        "ID": "2007.15539",
+        "Title": "Dark matters on the scale of galaxies",
+        "url": "<a href='http://dx.doi.org/10.3390/universe6080107' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Yoshihisa Kitazawa"
+        ],
+        "Date": "3 August 2020",
+        "For": "Dipayan",
+        "ID": "2007.15218",
+        "Title": "Curvature Perturbations and Anomaly explains Dark Energy",
+        "url": "<a href='http://arxiv.org/abs/2007.15218v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Paolo Meda",
+            "Nicola Pinamonti",
+            "Daniel Siemssen"
+        ],
+        "Date": "3 August 2020",
+        "For": "Dipayan",
+        "ID": "2007.14665",
+        "Title": "Existence and uniqueness of solutions of the semiclassical Einstein equation in cosmological models",
+        "url": "<a href='http://arxiv.org/abs/2007.14665v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Taisuke Matsuda",
+            "Shinji Mukohyama"
+        ],
+        "Date": "3 August 2020",
+        "For": "Dipayan",
+        "ID": "2007.14015",
+        "Title": "Covariant entropy bound beyond general relativity",
+        "url": "<a href='http://arxiv.org/abs/2007.14015v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Salvatore Capozziello",
+            "Carlo Alberto Mantica",
+            "Luca Guido Molinari"
+        ],
+        "Date": "3 August 2020",
+        "For": "Dipayan",
+        "ID": "2007.13328",
+        "Title": "General properties of $\\mathbf {f(R)}$ gravity vacuum solutions",
+        "url": "<a href='http://arxiv.org/abs/2007.13328v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Alice Garoffolo",
+            "Marco Raveri",
+            "Alessandra Silvestri",
+            "Gianmassimo Tasinato",
+            "Carmelita Carbone",
+            "Daniele Bertacca",
+            "Sabino Matarrese"
+        ],
+        "Date": "3 August 2020",
+        "For": "Dipayan",
+        "ID": "2007.13722",
+        "Title": "Detecting Dark Energy Fluctuations with Gravitational Waves",
+        "url": "<a href='http://arxiv.org/abs/2007.13722v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "J. Kluson",
+            "B. Matous"
+        ],
+        "Date": "4 August 2020",
+        "For": "Dipayan",
+        "ID": "2008.00659",
+        "Title": "Covariant Hamiltonian Formalism for F(R)-Gravity",
+        "url": "<a href='http://arxiv.org/abs/2008.00659v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Juan M. Z. Pretel",
+            "Sergio E. Jor\u00e1s",
+            "Ribamar R. R. Reis"
+        ],
+        "Date": "4 August 2020",
+        "For": "Dipayan",
+        "ID": "2008.00536",
+        "Title": "Strongest constraint in $f(R) = R+ \u03b1R^2$ gravity: stellar stability",
+        "url": "<a href='http://arxiv.org/abs/2008.00536v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -869,7 +1037,7 @@
         "For": "Himanshu",
         "ID": "2006.08398",
         "Title": "Mass of the Photon and Dark Energy-Pressure Relation for its Bose-Einstein Condensate at Rest in de Sitter Universe",
-        "url": "<a href='http://arxiv.org/abs/2006.08398v2' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.08398v3' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -950,7 +1118,7 @@
         "For": "Himanshu",
         "ID": "2006.12577",
         "Title": "Unsettling physics in the quantum-corrected Schwarzschild black hole",
-        "url": "<a href='http://arxiv.org/abs/2006.12577v2' target='_blank'>Link</a>"
+        "url": "<a href='http://dx.doi.org/10.3390/sym12081264' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1014,7 +1182,7 @@
         "For": "Himanshu",
         "ID": "2007.05509",
         "Title": "Strong gravitational lensing by a strongly naked null singularity",
-        "url": "<a href='http://arxiv.org/abs/2007.05509v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2007.05509v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1048,6 +1216,75 @@
         "ID": "2007.09358",
         "Title": "Conformal symmetry and supersymmetry in Rindler space",
         "url": "<a href='http://arxiv.org/abs/2007.09358v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Dietrich H\u00e4fner",
+            "Mokdad Mokdad",
+            "Jean-Philippe Nicolas"
+        ],
+        "Date": "3 August 2020",
+        "For": "Himanshu",
+        "ID": "2007.16139",
+        "Title": "Scattering theory for Dirac fields inside a Reissner-Nordstr\u00f6m-type black hole",
+        "url": "<a href='http://arxiv.org/abs/2007.16139v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "W. Javed",
+            "J. Abbas",
+            "A. \u00d6vg\u00fcn"
+        ],
+        "Date": "3 August 2020",
+        "For": "Himanshu",
+        "ID": "2007.16027",
+        "Title": "Effect of the quintessential dark energy on weak deflection angle by Kerr-Newmann Black hole",
+        "url": "<a href='http://dx.doi.org/10.1016/j.aop.2020.168183' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Takahisa Igata",
+            "Shinya Tomizawa"
+        ],
+        "Date": "4 August 2020",
+        "For": "Himanshu",
+        "ID": "2008.00179",
+        "Title": "Stable circular orbits in higher-dimensional multi-black hole spacetimes",
+        "url": "<a href='http://arxiv.org/abs/2008.00179v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "John Ellis",
+            "P. Q. Hung",
+            "Nick Mavromatos"
+        ],
+        "Date": "4 August 2020",
+        "For": "Himanshu",
+        "ID": "2008.00464",
+        "Title": "An Electroweak Monopole, Dirac Quantization and the Weak Mixing Angle",
+        "url": "<a href='http://arxiv.org/abs/2008.00464v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Jun Peng",
+            "Minyong Guo",
+            "Xing-Hui Feng"
+        ],
+        "Date": "4 August 2020",
+        "For": "Himanshu",
+        "ID": "2008.00657",
+        "Title": "Influence of Quantum Correction on the Black Hole Shadows, Photon Rings and Lensing Rings",
+        "url": "<a href='http://arxiv.org/abs/2008.00657v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "R. Romero"
+        ],
+        "Date": "4 August 2020",
+        "For": "Himanshu",
+        "ID": "2007.14708",
+        "Title": "Little group generators for Dirac neutrino one-particle states",
+        "url": "<a href='http://arxiv.org/abs/2007.14708v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1314,15 +1551,14 @@
     },
     {
         "Authors": [
-            "Alon",
-            "E. Faraggi",
+            "Alon E. Faraggi",
             "Marco Matone"
         ],
         "Date": "23 June 2020",
         "For": "Harkirat",
         "ID": "2006.11935",
         "Title": "The Geometrical Origin of Dark Energy",
-        "url": "<a href='http://arxiv.org/abs/2006.11935v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.11935v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1399,7 +1635,7 @@
         "For": "Harkirat",
         "ID": "2006.12577",
         "Title": "Unsettling physics in the quantum-corrected Schwarzschild black hole",
-        "url": "<a href='http://arxiv.org/abs/2006.12577v2' target='_blank'>Link</a>"
+        "url": "<a href='http://dx.doi.org/10.3390/sym12081264' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -1737,6 +1973,115 @@
         "ID": "2007.06641",
         "Title": "Gauge Fixing and Constrained Dynamics",
         "url": "<a href='http://arxiv.org/abs/2007.06641v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Damien A. Easson",
+            "Cynthia Keeler",
+            "Tucker Manton"
+        ],
+        "Date": "3 August 2020",
+        "For": "Harkirat",
+        "ID": "2007.16186",
+        "Title": "The classical double copy of regular non-singular black holes",
+        "url": "<a href='http://arxiv.org/abs/2007.16186v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Martin Bojowald"
+        ],
+        "Date": "3 August 2020",
+        "For": "Harkirat",
+        "ID": "2007.16066",
+        "Title": "A no-go result for covariance in models of loop quantum gravity",
+        "url": "<a href='http://arxiv.org/abs/2007.16066v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Ayan Chatterjee",
+            "Amit Ghosh"
+        ],
+        "Date": "3 August 2020",
+        "For": "Harkirat",
+        "ID": "2007.15401",
+        "Title": "Exponential corrections to black hole entropy",
+        "url": "<a href='http://dx.doi.org/10.1103/PhysRevLett.125.041302' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Ivan Agullo",
+            "Vitor Cardoso",
+            "Adrian del Rio",
+            "Michele Maggiore",
+            "Jorge Pullin"
+        ],
+        "Date": "3 August 2020",
+        "For": "Harkirat",
+        "ID": "2007.13761",
+        "Title": "Gravitational-wave signatures of quantum gravity",
+        "url": "<a href='http://arxiv.org/abs/2007.13761v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Paolo Meda",
+            "Nicola Pinamonti",
+            "Daniel Siemssen"
+        ],
+        "Date": "3 August 2020",
+        "For": "Harkirat",
+        "ID": "2007.14665",
+        "Title": "Existence and uniqueness of solutions of the semiclassical Einstein equation in cosmological models",
+        "url": "<a href='http://arxiv.org/abs/2007.14665v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Alice Garoffolo",
+            "Marco Raveri",
+            "Alessandra Silvestri",
+            "Gianmassimo Tasinato",
+            "Carmelita Carbone",
+            "Daniele Bertacca",
+            "Sabino Matarrese"
+        ],
+        "Date": "3 August 2020",
+        "For": "Harkirat",
+        "ID": "2007.13722",
+        "Title": "Detecting Dark Energy Fluctuations with Gravitational Waves",
+        "url": "<a href='http://arxiv.org/abs/2007.13722v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Tom Banks",
+            "Willy Fischler"
+        ],
+        "Date": "4 August 2020",
+        "For": "Harkirat",
+        "ID": "2008.00327",
+        "Title": "Primordial Black Holes as Dark Matter",
+        "url": "<a href='http://arxiv.org/abs/2008.00327v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "J. Kluson",
+            "B. Matous"
+        ],
+        "Date": "4 August 2020",
+        "For": "Harkirat",
+        "ID": "2008.00659",
+        "Title": "Covariant Hamiltonian Formalism for F(R)-Gravity",
+        "url": "<a href='http://arxiv.org/abs/2008.00659v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Roberto Emparan",
+            "Antonia Micol Frassino",
+            "Benson Way"
+        ],
+        "Date": "4 August 2020",
+        "For": "Harkirat",
+        "ID": "2007.15999",
+        "Title": "Quantum BTZ black hole",
+        "url": "<a href='http://arxiv.org/abs/2007.15999v1' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -2146,6 +2491,74 @@
     },
     {
         "Authors": [
+            "Suratna Das",
+            "Rudnei O. Ramos"
+        ],
+        "Date": "3 August 2020",
+        "For": "Jaffino",
+        "ID": "2007.15268",
+        "Title": "Runaway potentials in warm inflation satisfying the swampland conjectures",
+        "url": "<a href='http://arxiv.org/abs/2007.15268v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Hui Wang",
+            "Miles Blencowe"
+        ],
+        "Date": "3 August 2020",
+        "For": "Jaffino",
+        "ID": "2007.15132",
+        "Title": "Enhancing the oscillatory Unruh effect with a dense cloud of accelerating photodetectors",
+        "url": "<a href='http://arxiv.org/abs/2007.15132v2' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Zixu Zhao",
+            "Shuhang Zhang",
+            "Qiyuan Pan",
+            "Jiliang Jing"
+        ],
+        "Date": "3 August 2020",
+        "For": "Jaffino",
+        "ID": "2007.14794",
+        "Title": "Estimation precision of parameter associated with Unruh-like effect",
+        "url": "<a href='http://arxiv.org/abs/2007.14794v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Francesco Alessio",
+            "Glenn Barnich"
+        ],
+        "Date": "3 August 2020",
+        "For": "Jaffino",
+        "ID": "2007.13334",
+        "Title": "Modular invariance in finite temperature Casimir effect",
+        "url": "<a href='http://arxiv.org/abs/2007.13334v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Tom Banks",
+            "Willy Fischler"
+        ],
+        "Date": "4 August 2020",
+        "For": "Jaffino",
+        "ID": "2008.00327",
+        "Title": "Primordial Black Holes as Dark Matter",
+        "url": "<a href='http://arxiv.org/abs/2008.00327v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Surojit Dalui",
+            "Bibhas Ranjan Majhi"
+        ],
+        "Date": "4 August 2020",
+        "For": "Jaffino",
+        "ID": "2007.14312",
+        "Title": "Near horizon local instability and quantum thermality",
+        "url": "<a href='http://arxiv.org/abs/2007.14312v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
             "Dimitrios Zoakos"
         ],
         "Date": "9 June 2020",
@@ -2223,7 +2636,7 @@
         "For": "Kinjalk",
         "ID": "2006.10019",
         "Title": "Topological Gaps by Twisting",
-        "url": "<a href='http://arxiv.org/abs/2006.10019v2' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.10019v3' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -2308,7 +2721,7 @@
         "For": "Kinjalk",
         "ID": "2007.04746",
         "Title": "Exponential growth of out-of-time-order correlator without chaos: inverted harmonic oscillator",
-        "url": "<a href='http://arxiv.org/abs/2007.04746v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2007.04746v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -2368,6 +2781,90 @@
     },
     {
         "Authors": [
+            "M. Toro\u0161",
+            "T. W. van de Kamp",
+            "R. J. Marshman",
+            "M. S. Kim",
+            "A. Mazumdar",
+            "S. Bose"
+        ],
+        "Date": "3 August 2020",
+        "For": "Kinjalk",
+        "ID": "2007.15029",
+        "Title": "Relative Acceleration Noise Mitigation for Entangling Masses via Quantum Gravity",
+        "url": "<a href='http://arxiv.org/abs/2007.15029v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Zixu Zhao",
+            "Qiyuan Pan",
+            "Jiliang Jing"
+        ],
+        "Date": "3 August 2020",
+        "For": "Kinjalk",
+        "ID": "2007.13389",
+        "Title": "Quantum estimation of acceleration and temperature in open quantum system",
+        "url": "<a href='http://dx.doi.org/10.1103/PhysRevD.101.056014' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Pablo D. Bergamasco",
+            "Gabriel G. Carlo",
+            "Alejandro M. F. Rivas"
+        ],
+        "Date": "4 August 2020",
+        "For": "Kinjalk",
+        "ID": "2008.00046",
+        "Title": "Relevant OTOC operators: footprints of the classical dynamics",
+        "url": "<a href='http://arxiv.org/abs/2008.00046v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "J. Kluson",
+            "B. Matous"
+        ],
+        "Date": "4 August 2020",
+        "For": "Kinjalk",
+        "ID": "2008.00659",
+        "Title": "Covariant Hamiltonian Formalism for F(R)-Gravity",
+        "url": "<a href='http://arxiv.org/abs/2008.00659v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Markus B Fr\u00f6b"
+        ],
+        "Date": "4 August 2020",
+        "For": "Kinjalk",
+        "ID": "2007.15668",
+        "Title": "Recursive construction of the operator product expansion in curved space",
+        "url": "<a href='http://arxiv.org/abs/2007.15668v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Mudassir Moosa",
+            "Pratik Rath",
+            "Vincent Paul Su"
+        ],
+        "Date": "4 August 2020",
+        "For": "Kinjalk",
+        "ID": "2007.15025",
+        "Title": "A Renyi Quantum Null Energy Condition: Proof for Free Field Theories",
+        "url": "<a href='http://arxiv.org/abs/2007.15025v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Heliudson Bernardo",
+            "Robert Brandenberger",
+            "Guilherme Franzmann"
+        ],
+        "Date": "4 August 2020",
+        "For": "Kinjalk",
+        "ID": "2007.14096",
+        "Title": "Solution of the Size and Horizon Problems from Classical String Geometry",
+        "url": "<a href='http://arxiv.org/abs/2007.14096v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
             "Steven Abel",
             "Michael Spannowsky"
         ],
@@ -2407,7 +2904,7 @@
         "For": "Vikram",
         "ID": "2006.12577",
         "Title": "Unsettling physics in the quantum-corrected Schwarzschild black hole",
-        "url": "<a href='http://arxiv.org/abs/2006.12577v2' target='_blank'>Link</a>"
+        "url": "<a href='http://dx.doi.org/10.3390/sym12081264' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -2569,7 +3066,7 @@
         "For": "Everyone",
         "ID": "2006.16289",
         "Title": "Gravity/Ensemble Duality",
-        "url": "<a href='http://arxiv.org/abs/2006.16289v1' target='_blank'>Link</a>"
+        "url": "<a href='http://arxiv.org/abs/2006.16289v2' target='_blank'>Link</a>"
     },
     {
         "Authors": [
@@ -2634,5 +3131,50 @@
         "ID": "2007.04335",
         "Title": "A Path (Integral) to Scale Invariance",
         "url": "<a href='http://arxiv.org/abs/2007.04335v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Dharam Ahluwalia"
+        ],
+        "Date": "3 August 2020",
+        "For": "Everyone",
+        "ID": "2007.15098",
+        "Title": "Mass Dimension One Fermions",
+        "url": "<a href='http://dx.doi.org/10.1017/9781316145593' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Brian C. Seymour",
+            "Kent Yagi"
+        ],
+        "Date": "3 August 2020",
+        "For": "Everyone",
+        "ID": "2007.14881",
+        "Title": "Probing Massive Scalar/Vector Fields with Binary Pulsars",
+        "url": "<a href='http://arxiv.org/abs/2007.14881v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Ryan McManus",
+            "Emanuele Berti",
+            "David E. Kaplan",
+            "Surjeet Rajendran"
+        ],
+        "Date": "4 August 2020",
+        "For": "Everyone",
+        "ID": "2007.15525",
+        "Title": "Quasinormal Modes and Stability of Firewalls",
+        "url": "<a href='http://arxiv.org/abs/2007.15525v1' target='_blank'>Link</a>"
+    },
+    {
+        "Authors": [
+            "Surojit Dalui",
+            "Bibhas Ranjan Majhi"
+        ],
+        "Date": "4 August 2020",
+        "For": "Everyone",
+        "ID": "2007.14312",
+        "Title": "Near horizon local instability and quantum thermality",
+        "url": "<a href='http://arxiv.org/abs/2007.14312v1' target='_blank'>Link</a>"
     }
 ]
