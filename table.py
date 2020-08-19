@@ -1,6 +1,8 @@
 import csv
-csvFile = "current.csv"
-csv_path = "current.csv"
+# csvFile = "current.csv"
+# csv_path = "current.csv"
+csvFile = "spring2020.csv"
+csv_path = "spring2020.csv"
 table = ''
 with open(csv_path) as csvFile:
     reader = csv.DictReader(csvFile, delimiter=',')
@@ -12,6 +14,6 @@ with open(csv_path) as csvFile:
         table_row += '</tr>'
         table += table_row
 
-out = open("current.html","w")
+out = open("spring.html","w")
 out.write(table)
 out.close()
