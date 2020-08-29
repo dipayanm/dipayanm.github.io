@@ -6,12 +6,12 @@ csv_path = "monsoon2020.csv"
 table = ''
 with open(csv_path) as csvFile:
     reader = csv.DictReader(csvFile, delimiter=',')
-    table = '<tr>{}</tr>'.format(''.join(['<td>{}</td>'.format(header) for header in reader.fieldnames]))
+    table = '<tr>{}</tr>\n'.format(''.join(['<td>{}</td>\n'.format(header) for header in reader.fieldnames]))
     for row in reader:
         table_row = '<tr>'
         for fn in reader.fieldnames:
-            table_row += '<td>{}</td>'.format(row[fn])
-        table_row += '</tr>'
+            table_row += '<td>{}</td>\n'.format(row[fn])
+        table_row += '</tr>\n'
         table += table_row
 
 out = open("monsoon2020.html", "w")
