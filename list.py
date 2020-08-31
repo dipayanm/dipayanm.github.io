@@ -23,20 +23,21 @@ class bcolors:
 
 print(bcolors.WARNING + "Downloading data from google sheet" + bcolors.ENDC)
 os.system("wget -q https://docs.google.com/spreadsheets/d/1T2TxmiCEq4Vs1g5RhN5_xfWbQqWLMo08J0AxkkvF4R0/gviz/tq\?tqx\=out:csv\&sheet\=Sheet1 -O list.csv")
-entry = int(input("Enter n for last n entries; \t"))
+entry = int(input("Enter n for last n entries:\t"))
 data0 = pd.read_csv("list.csv", dtype=str)
 data = data0.iloc[:, -entry:]
 papers = []
 people = {"j": "Jaffino", "hm": "Himanshu", "a": "Ankit",
           "d": "Dipayan", "h": "Harkirat", "k": "Kinjalk",
-          "e": "Everyone", "v": "Vikram"}
+          "e": "★Everyone", "v": "Vikram"}
+
 
 print(bcolors.WARNING + "Creating JSON entry for the assignments" + bcolors.ENDC)
 
 for j in data.columns:
     for k in data[j]:
         k = str(k)
-        aamulti = "a" 
+        aamulti = "a"
         if k != 'nan':
             # print(type(k))
             ppd =k.split('|')
@@ -67,7 +68,8 @@ with open('out.json', 'w') as fout_json:
 
 fout = open('tmp.html', 'w')
 papersfile = open("out.json", "r")
-json_list = json.loads(papersfile.read())
+json_list_t = json.loads(papersfile.read())
+json_list = sorted(json_list_t, key = lambda i: i['For'])
 papersfile.close()
 
 date_list = data.columns.tolist()
@@ -96,7 +98,6 @@ for i in reversed(date_list):
                     j["ID"]+"</td><td>"+j["Comment"]+"</td><td>"+j["url"]+"</tr>\n"
                 fout.write(table)
 
-
     for j in json_list:
         if j["Date"] == i:
             if j["Aamulti"] == "b":
@@ -118,7 +119,7 @@ for i in reversed(date_list):
                     j["ID"]+"</td><td>"+j["Comment"]+"</td><td>"+j["url"]+"</tr>\n"
                 fout.write(table)
     fout.write("</table>\n")
-
+fout.write("\n")
 fout.close()
 
 with open('tmp.html', 'r') as new_stuff:
@@ -129,12 +130,14 @@ with open('assignments.html', 'w') as modified:
     modified.write(newdata + olddata)
 
 print(bcolors.OKGREEN + "Done! Preparing for GIT commit" + bcolors.ENDC)
-print("Done! Preparing for GIT commit")
 os.system("notify-send 'Git commit' 'Enter commit response in the terminal'")
+
 yes = input("Enter y to commit:\t")
+
 if yes == "y":
     os.system("git add .")
     os.system("git commit -m 'New Assignments'")
     os.system("git push origin master")
-
-print(bcolors.OKGREEN + "Done! Website updated!" + bcolors.ENDC)
+    print(bcolors.OKGREEN + "Done! Website updated!" + bcolors.ENDC)
+else:
+    print(bcolors.OKGREEN + "Done!" + bcolors.ENDC)
