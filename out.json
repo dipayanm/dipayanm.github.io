@@ -2,11 +2,243 @@
     {
         "Aamulti": "a",
         "Authors": [
+            "J. Buitrago"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2009.01932",
+        "Title": "Unified Picture of Electromagnetic and Gravitational Forces in Two-Spinor Language",
+        "url": "<a href='http://arxiv.org/abs/2009.01932v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Pierre Martin-Dussaud"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2009.01788",
+        "Title": "Black-to-White Hole Scenario: Foundation and Evaporation",
+        "url": "<a href='http://arxiv.org/abs/2009.01788v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "A. Stepanian",
+            "Sh. Khlghatyan"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Dipayan",
+            "\u2605Everyone"
+        ],
+        "ID": "2009.01700",
+        "Title": "Lense-Thirring precession and modified gravity constraints",
+        "url": "<a href='http://arxiv.org/abs/2009.01700v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Guglielmo M. Tino"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Jaffino",
+            "Kinjalk"
+        ],
+        "ID": "2009.01484",
+        "Title": "Testing gravity with cold atom interferometry: Results and prospects",
+        "url": "<a href='http://arxiv.org/abs/2009.01484v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Kellie O'Neal-Ault",
+            "Quentin G. Bailey",
+            "Nils A. Nilsson"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2009.00949",
+        "Title": "A 3+1 Formulation of the Standard-Model Extension Gravity Sector",
+        "url": "<a href='http://arxiv.org/abs/2009.00949v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Shun Jiang"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2009.00309",
+        "Title": "Super Penrose Process for Kerr Black Hole And White Hole in Rainbow Gravity",
+        "url": "<a href='http://arxiv.org/abs/2009.00309v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Zheng-Quan Cui",
+            "Zi-Chao Lin",
+            "Jun-Jie Wan",
+            "Yu-Xiao Liu",
+            "Li Zhao"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2009.00512",
+        "Title": "Tensor Perturbations and Thick Branes in Higher-dimensional $f(R)$ Gravity",
+        "url": "<a href='http://arxiv.org/abs/2009.00512v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Florian Niedermann",
+            "Martin S. Sloth"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2009.00006",
+        "Title": "New Early Dark Energy is compatible with current LSS data",
+        "url": "<a href='http://arxiv.org/abs/2009.00006v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Maciej Kolanowski",
+            "Jerzy Lewandowski"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Ankit"
+        ],
+        "ID": "2008.13753",
+        "Title": "Energy of gravitational radiation in the de Sitter universe at the scri and at a horizon",
+        "url": "<a href='http://arxiv.org/abs/2008.13753v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Marcello Rotondo"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Kinjalk",
+            "Harkirat"
+        ],
+        "ID": "2008.13469",
+        "Title": "The Functional Schrodinger Equation in the Semiclassical Limit of Quantum Gravity with a Gaussian Clock Field",
+        "url": "<a href='http://arxiv.org/abs/2008.13469v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Saptarshi Saha",
+            "Chiranjeeb Singha",
+            "Arpan Chatterjee"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Jaffino"
+        ],
+        "ID": "2008.13185",
+        "Title": "Retarded resonance Casimir-Polder interaction of a uniformly rotating two-atom system",
+        "url": "<a href='http://arxiv.org/abs/2008.13185v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Jose Mar\u00eda Ezquiaga",
+            "Daniel E. Holz",
+            "Wayne Hu",
+            "Macarena Lagos",
+            "Robert M. Wald"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2008.12814",
+        "Title": "Phase effects from strong gravitational lensing of gravitational waves",
+        "url": "<a href='http://arxiv.org/abs/2008.12814v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Carlos Palenzuela"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Harkirat",
+            "Dipayan"
+        ],
+        "ID": "2008.12931",
+        "Title": "Introduction to Numerical Relativity",
+        "url": "<a href='http://dx.doi.org/10.3389/fspas.2020.00058' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Teruaki Suyama",
+            "Yuichiro Tada",
+            "Masahide Yamaguchi"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Kinjalk"
+        ],
+        "ID": "2008.13364",
+        "Title": "Local observer effect on the cosmological soft theorem",
+        "url": "<a href='http://arxiv.org/abs/2008.13364v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Jamie I. McDonald",
+            "Lu\u00eds B. Ventura"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2008.12923",
+        "Title": "Bending of light in axion backgrounds",
+        "url": "<a href='http://arxiv.org/abs/2008.12923v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
             "Richard Lopp",
             "Eduardo Mart\u00edn-Mart\u00ednez"
         ],
         "Comment": "",
-        "Date": "1 September 2020",
+        "Date": "7 September 2020",
         "For": [
             "Kinjalk"
         ],
@@ -15,230 +247,207 @@
         "url": "<a href='http://arxiv.org/abs/2008.12785v1' target='_blank'>Link</a>"
     },
     {
-        "Aamulti": "a",
+        "Aamulti": "b",
         "Authors": [
-            "Paolo Di Vecchia",
-            "Carlo Heissenberg",
-            "Rodolfo Russo",
-            "Gabriele Veneziano"
+            "Marco de Cesare",
+            "Viqar Husain"
         ],
         "Comment": "",
-        "Date": "1 September 2020",
+        "Date": "7 September 2020",
         "For": [
+            "Dipayan",
             "Harkirat"
         ],
-        "ID": "2008.12743",
-        "Title": "Universality of ultra-relativistic gravitational scattering",
-        "url": "<a href='http://arxiv.org/abs/2008.12743v1' target='_blank'>Link</a>"
+        "ID": "2009.01255",
+        "Title": "Physical Hamiltonian for mimetic gravity",
+        "url": "<a href='http://arxiv.org/abs/2009.01255v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Andreas Ringwald",
+            "Ken'ichi Saikawa",
+            "Carlos Tamarit"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Dipayan",
+            "Harkirat"
+        ],
+        "ID": "2009.02050",
+        "Title": "Primordial gravitational waves in a minimal model of particle physics and cosmology",
+        "url": "<a href='http://arxiv.org/abs/2009.02050v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Craig J. Copi",
+            "Klaountia Pasmatsiou",
+            "Glenn D. Starkman"
+        ],
+        "Comment": "",
+        "Date": "7 September 2020",
+        "For": [
+            "Kinjalk",
+            "\u2605Everyone"
+        ],
+        "ID": "2008.13069",
+        "Title": "Scalar and vector tail radiation from the interior of the lightcone",
+        "url": "<a href='http://arxiv.org/abs/2008.13069v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Wu-zhong Guo"
+            "Lorenzo Iacobacci",
+            "Wolfgang M\u00fcck"
         ],
         "Comment": "",
-        "Date": "1 September 2020",
+        "Date": "8 September 2020",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2009.02938",
+        "Title": "Conformal Primary Basis for Dirac Spinors",
+        "url": "<a href='http://arxiv.org/abs/2009.02938v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Stefan Hohenegger",
+            "Amer Iqbal"
+        ],
+        "Comment": "",
+        "Date": "8 September 2020",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2009.00797",
+        "Title": "Symmetric Orbifold Theories from Little String Residues",
+        "url": "<a href='http://arxiv.org/abs/2009.00797v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "D. Bazeia",
+            "A. Mohammadi",
+            "D. C. Moreira"
+        ],
+        "Comment": "",
+        "Date": "8 September 2020",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2009.00737",
+        "Title": "Fermions in the presence of topological structures under geometric constrictions",
+        "url": "<a href='http://arxiv.org/abs/2009.00737v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Ning Bao",
+            "Jason Pollack",
+            "David Wakeham",
+            "Elizabeth Wildenhain"
+        ],
+        "Comment": "",
+        "Date": "8 September 2020",
         "For": [
             "Kinjalk"
         ],
-        "ID": "2008.12430",
-        "Title": "Entanglement spectrum of geometric states",
-        "url": "<a href='http://arxiv.org/abs/2008.12430v1' target='_blank'>Link</a>"
+        "ID": "2009.00632",
+        "Title": "Microstate Distinguishability, Quantum Complexity, and the Eigenstate Thermalization Hypothesis",
+        "url": "<a href='http://arxiv.org/abs/2009.00632v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Michael Dine",
-            "Jamie A. P. Law-Smith",
-            "Shijun Sun",
-            "Duncan Wood",
-            "Yan Yu"
+            "Pavel Fileviez Perez",
+            "Alexis D. Plascencia"
         ],
         "Comment": "",
-        "Date": "1 September 2020",
-        "For": [
-            "Ankit"
-        ],
-        "ID": "2008.12399",
-        "Title": "Obstacles to Constructing de Sitter Space in String Theory",
-        "url": "<a href='http://arxiv.org/abs/2008.12399v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Helder A. S. Costa"
-        ],
-        "Comment": "",
-        "Date": "1 September 2020",
-        "For": [
-            "Jaffino"
-        ],
-        "ID": "2008.12352",
-        "Title": "Decoherence of a uniformly accelerated finite-time detector",
-        "url": "<a href='http://arxiv.org/abs/2008.12352v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Christoph N\u00f6lle"
-        ],
-        "Comment": "",
-        "Date": "1 September 2020",
-        "For": [
-            "\u2605Everyone"
-        ],
-        "ID": "2008.11934",
-        "Title": "Phase space trajectories in quantum mechanics",
-        "url": "<a href='http://arxiv.org/abs/2008.11934v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "b",
-        "Authors": [
-            "Yupeng Yang"
-        ],
-        "Comment": "",
-        "Date": "1 September 2020",
-        "For": [
-            "Harkirat",
-            "Jaffino"
-        ],
-        "ID": "2008.11859",
-        "Title": "The abundance of primordial black holes from the global 21cm signal and extragalactic gamma-ray background",
-        "url": "<a href='http://arxiv.org/abs/2008.11859v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Jialiang Dai"
-        ],
-        "Comment": "",
-        "Date": "1 September 2020",
-        "For": [
-            "Himanshu"
-        ],
-        "ID": "2008.11818",
-        "Title": "Stability in the higher derivative Abelian gauge field theory",
-        "url": "<a href='http://arxiv.org/abs/2008.11818v2' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "b",
-        "Authors": [
-            "Tsung-Cheng Lu",
-            "Tarun Grover"
-        ],
-        "Comment": "",
-        "Date": "1 September 2020",
-        "For": [
-            "Kinjalk",
-            "Jaffino"
-        ],
-        "ID": "2008.11727",
-        "Title": "Entanglement transitions as a probe of qausiparticles and quantum thermalization",
-        "url": "<a href='http://arxiv.org/abs/2008.11727v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Kazuo Fujikawa"
-        ],
-        "Comment": "",
-        "Date": "1 September 2020",
-        "For": [
-            "Himanshu"
-        ],
-        "ID": "2008.11390",
-        "Title": "Parity operation for Majorana neutrinos",
-        "url": "<a href='http://arxiv.org/abs/2008.11390v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Zolt\u00e1n Tulip\u00e1nt"
-        ],
-        "Comment": "",
-        "Date": "1 September 2020",
-        "For": [
-            "Himanshu"
-        ],
-        "ID": "2008.10639",
-        "Title": "Radiation reaction from quantum electrodynamics and its implications for the Unruh effect",
-        "url": "<a href='http://arxiv.org/abs/2008.10639v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Christian G\u00e9rard",
-            "Dietrich H\u00e4fner",
-            "Micha\u0142 Wrochna"
-        ],
-        "Comment": "",
-        "Date": "1 September 2020",
-        "For": [
-            "Ankit"
-        ],
-        "ID": "2008.10995",
-        "Title": "The Unruh state for massless fermions on Kerr spacetime and its Hadamard property",
-        "url": "<a href='http://arxiv.org/abs/2008.10995v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Satoru Odake"
-        ],
-        "Comment": "",
-        "Date": "1 September 2020",
-        "For": [
-            "\u2605Everyone"
-        ],
-        "ID": "2008.10756",
-        "Title": "Free Oscillator Realization of the Laguerre Polynomial",
-        "url": "<a href='http://arxiv.org/abs/2008.10756v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Maciej Kolanowski",
-            "Jerzy Lewandowski"
-        ],
-        "Comment": "Important",
-        "Date": "1 September 2020",
+        "Date": "8 September 2020",
         "For": [
             "Dipayan"
         ],
-        "ID": "2008.13753",
-        "Title": "Energy of gravitational radiation in the de Sitter universe at the scri and at a horizon",
-        "url": "<a href='http://arxiv.org/abs/2008.13753v1' target='_blank'>Link</a>"
+        "ID": "2008.09116",
+        "Title": "Electric Dipole Moments, New Forces and Dark Matter",
+        "url": "<a href='http://arxiv.org/abs/2008.09116v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Paolo Di Vecchia",
-            "Carlo Heissenberg",
-            "Rodolfo Russo",
-            "Gabriele Veneziano"
-        ],
-        "Comment": "reproduce two sections",
-        "Date": "1 September 2020",
-        "For": [
-            "Harkirat"
-        ],
-        "ID": "2008.12743",
-        "Title": "Universality of ultra-relativistic gravitational scattering",
-        "url": "<a href='http://arxiv.org/abs/2008.12743v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Elda Guzman-Herrera",
-            "Nora Breton"
+            "Matteo Giordano"
         ],
         "Comment": "",
-        "Date": "1 September 2020",
+        "Date": "8 September 2020",
         "For": [
-            "\u2605Everyone"
+            "Kinjalk"
         ],
-        "ID": "2008.10739",
-        "Title": "Euler-Heisenberg waves propagating in a magnetic background",
-        "url": "<a href='http://arxiv.org/abs/2008.10739v1' target='_blank'>Link</a>"
+        "ID": "2009.00486",
+        "Title": "Localized Dirac eigenmodes, chiral symmetry breaking, and Goldstone's theorem",
+        "url": "<a href='http://arxiv.org/abs/2009.00486v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Simran Arora",
+            "J. R. L. Santos",
+            "P. K. Sahoo"
+        ],
+        "Comment": "",
+        "Date": "8 September 2020",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2009.00240",
+        "Title": "Constraining $f(Q,T)$ gravity from energy conditions",
+        "url": "<a href='http://arxiv.org/abs/2009.00240v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Arjun Bagchi",
+            "Aritra Banerjee",
+            "Shankhadeep Chakrabortty"
+        ],
+        "Comment": "",
+        "Date": "8 September 2020",
+        "For": [
+            "Kinjalk"
+        ],
+        "ID": "2009.01408",
+        "Title": "Rindler on the Worldsheet",
+        "url": "<a href='http://arxiv.org/abs/2009.01408v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Rajes Ghosh",
+            "Sudipta Sarkar"
+        ],
+        "Comment": "",
+        "Date": "8 September 2020",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2009.01543",
+        "Title": "Black Hole Zeroth Law in Higher Curvature Gravity",
+        "url": "<a href='http://arxiv.org/abs/2009.01543v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Sudipta Sarkar",
+            "Swastik Bhattacharya"
+        ],
+        "Comment": "",
+        "Date": "8 September 2020",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "1205.2042",
+        "Title": "The issue of zeroth law for Killing horizons in Lanczos-Lovelock gravity",
+        "url": "<a href='http://dx.doi.org/10.1103/PhysRevD.87.044023' target='_blank'>Link</a>"
     }
 ]
