@@ -1,274 +1,109 @@
 [
     {
-        "Aamulti": "b",
+        "Aamulti": "a",
         "Authors": [
-            "Dongshan He",
-            "Qing-yu Cai"
+            "A. A. Eremko",
+            "L. Brizhik",
+            "V. M. Loktev"
         ],
         "Comment": "",
-        "Date": "14 September 2020",
+        "Date": "22 September 2020",
         "For": [
-            "Dipayan",
-            "Harkirat"
+            "Himanshu"
         ],
-        "ID": "2009.05187",
-        "Title": "Wheeler-DeWitt equation rejects quantum effects of grown-up universes as a candidate for dark energy",
-        "url": "<a href='http://dx.doi.org/10.1016/j.physletb.2020.135747' target='_blank'>Link</a>"
+        "ID": "2009.09838",
+        "Title": "General solution of the Dirac equation with the Coulomb potential",
+        "url": "<a href='http://arxiv.org/abs/2009.09838v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Manuel Hohmann",
-            "Christian Pfeifer",
-            "Nicoleta Voicu"
+            "Shahnewaz Ahmed",
+            "Mir Mehedi Faruk"
         ],
         "Comment": "",
-        "Date": "14 September 2020",
-        "For": [
-            "Dipayan"
-        ],
-        "ID": "2009.05459",
-        "Title": "Canonical variational completion of 4D Gauss-Bonnet gravity",
-        "url": "<a href='http://arxiv.org/abs/2009.05459v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Kai Wang",
-            "Shao-Qiang Xi",
-            "Lijing Shao",
-            "Ruo-Yu Liu",
-            "Zhuo Li",
-            "Zhong-Kai Zhang"
-        ],
-        "Comment": "",
-        "Date": "14 September 2020",
+        "Date": "22 September 2020",
         "For": [
             "Jaffino"
         ],
-        "ID": "2009.05201",
-        "Title": "Limiting Superluminal Neutrino Velocity and Lorentz Invariance Violation by Neutrino Emission from the Blazar TXS 0506+056",
-        "url": "<a href='http://arxiv.org/abs/2009.05201v1' target='_blank'>Link</a>"
+        "ID": "2009.08498",
+        "Title": "Accelerated paths and Unruh effect I: scalars and fermions in Anti De Sitter spacetime",
+        "url": "<a href='http://arxiv.org/abs/2009.08498v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Yongjie Pan",
-            "Baocheng Zhang"
-        ],
-        "Comment": "ref 19, 20",
-        "Date": "14 September 2020",
-        "For": [
-            "Jaffino"
-        ],
-        "ID": "2009.05179",
-        "Title": "Influence of acceleration on multi-body entangled quantum states",
-        "url": "<a href='http://dx.doi.org/10.1103/PhysRevA.101.062111' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Ajay Sharma",
-            "Murli Manohar Verma"
+            "Kazuo Fujikawa"
         ],
         "Comment": "",
-        "Date": "14 September 2020",
+        "Date": "22 September 2020",
         "For": [
-            "Dipayan"
+            "Himanshu"
         ],
-        "ID": "2009.04460",
-        "Title": "Constraining $f(R)$ model through spectral indices and reheating temperature",
-        "url": "<a href='http://arxiv.org/abs/2009.04460v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "b",
-        "Authors": [
-            "V. De Luca",
-            "V. Desjacques",
-            "G. Franciolini",
-            "A. Riotto"
-        ],
-        "Comment": "PBH",
-        "Date": "14 September 2020",
-        "For": [
-            "Jaffino",
-            "Harkirat"
-        ],
-        "ID": "2009.04731",
-        "Title": "The Clustering Evolution of Primordial Black Holes",
-        "url": "<a href='http://arxiv.org/abs/2009.04731v1' target='_blank'>Link</a>"
+        "ID": "2009.08082",
+        "Title": "Path integral of neutrino oscillations",
+        "url": "<a href='http://arxiv.org/abs/2009.08082v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Heliudson Bernardo",
-            "Suddhasattwa Brahma",
-            "Keshav Dasgupta",
-            "Radu Tatar"
+            "Alessia Platania",
+            "Christof Wetterich"
         ],
         "Comment": "",
-        "Date": "14 September 2020",
+        "Date": "22 September 2020",
         "For": [
-            "Jaffino"
+            "Himanshu"
         ],
-        "ID": "2009.04504",
-        "Title": "Crisis on Infinite Earths: Short-lived de Sitter Vacua in the String Theory Landscape",
-        "url": "<a href='http://arxiv.org/abs/2009.04504v1' target='_blank'>Link</a>"
+        "ID": "2009.06637",
+        "Title": "Non-perturbative unitarity and fictitious ghosts in quantum gravity",
+        "url": "<a href='http://arxiv.org/abs/2009.06637v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "M. S. Soares",
-            "N. F. Svaiter",
-            "C. A. D. Zarro",
-            "G. Menezes"
+            "Vladimir Sauli"
         ],
         "Comment": "",
-        "Date": "14 September 2020",
-        "For": [
-            "Jaffino"
-        ],
-        "ID": "2009.03970",
-        "Title": "An uniformly accelerated quantum counting detector in Minkowski and Fulling vacuum states",
-        "url": "<a href='http://arxiv.org/abs/2009.03970v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Vesselin G. Gueorguiev",
-            "Andre Maeder"
-        ],
-        "Comment": "",
-        "Date": "14 September 2020",
-        "For": [
-            "Harkirat"
-        ],
-        "ID": "2009.03866",
-        "Title": "Revisiting the Cosmological Constant Problem within Quantum Cosmology",
-        "url": "<a href='http://dx.doi.org/10.3390/universe6080108' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Paul R. Anderson",
-            "Shohreh Gholizadeh Siahmazgi",
-            "Raymond D. Clark",
-            "Alessandro Fabbri"
-        ],
-        "Comment": "",
-        "Date": "14 September 2020",
+        "Date": "22 September 2020",
         "For": [
             "Ankit"
         ],
-        "ID": "2009.03453",
-        "Title": "Method to compute the stress-energy tensor for a quantized scalar field when a black hole forms from the collapse of a null shell",
-        "url": "<a href='http://arxiv.org/abs/2009.03453v1' target='_blank'>Link</a>"
+        "ID": "2009.07195",
+        "Title": "Renormalization scheme with diminished ultraviolet divergences",
+        "url": "<a href='http://arxiv.org/abs/2009.07195v1' target='_blank'>Link</a>"
     },
     {
-        "Aamulti": "a",
+        "Aamulti": "b",
         "Authors": [
-            "Shu Shen"
+            "Sebastian Cespedes",
+            "Anne-Christine Davis",
+            "Scott Melville"
         ],
         "Comment": "",
-        "Date": "14 September 2020",
+        "Date": "22 September 2020",
         "For": [
-            "Harkirat"
+            "Ankit",
+            "Kinjalk"
         ],
-        "ID": "2009.03427",
-        "Title": "Complex valued analytic torsion and dynamical zeta function on locally symmetric spaces",
-        "url": "<a href='http://arxiv.org/abs/2009.03427v1' target='_blank'>Link</a>"
+        "ID": "2009.07874",
+        "Title": "On the time evolution of cosmological correlators",
+        "url": "<a href='http://arxiv.org/abs/2009.07874v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "L. Perivolaropoulos",
-            "F. Skara"
+            "H. E. Camblong",
+            "A. Chakraborty",
+            "C. R. Ordonez"
         ],
         "Comment": "",
-        "Date": "15 September 2020",
-        "For": [
-            "Dipayan"
-        ],
-        "ID": "2009.05640",
-        "Title": "Scalar tachyonic instabilities in gravitational backgrounds: Existence and growth rate",
-        "url": "<a href='http://arxiv.org/abs/2009.05640v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "David Berenstein",
-            "Ziyi Li",
-            "Joan Simon"
-        ],
-        "Comment": "",
-        "Date": "15 September 2020",
+        "Date": "22 September 2020",
         "For": [
             "Kinjalk"
         ],
-        "ID": "2009.04500",
-        "Title": "ISCOs in AdS/CFT",
-        "url": "<a href='http://arxiv.org/abs/2009.04500v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Stephen Eckel",
-            "Ted Jacobson"
-        ],
-        "Comment": "",
-        "Date": "15 September 2020",
-        "For": [
-            "Dipayan"
-        ],
-        "ID": "2009.04512",
-        "Title": "Phonon redshift and Hubble friction in an expanding BEC",
-        "url": "<a href='http://arxiv.org/abs/2009.04512v2' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "T. B. Watson",
-            "Z. E. Musielak"
-        ],
-        "Comment": "",
-        "Date": "15 September 2020",
-        "For": [
-            "Himanshu"
-        ],
-        "ID": "2009.03720",
-        "Title": "Chiral Symmetry in Dirac Equation and its Effects on Neutrino Masses and Dark Matter",
-        "url": "<a href='http://arxiv.org/abs/2009.03720v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Mohsen Fathi",
-            "J. R. Villanueva"
-        ],
-        "Comment": "",
-        "Date": "15 September 2020",
-        "For": [
-            "Himanshu"
-        ],
-        "ID": "2009.03402",
-        "Title": "Gravitational lensing of a charged Weyl black hole surrounded by plasma",
-        "url": "<a href='http://arxiv.org/abs/2009.03402v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Mohsen Fathi",
-            "Mona Kariminezhaddahka",
-            "Marco Olivares",
-            "J. R. Villanueva"
-        ],
-        "Comment": "",
-        "Date": "15 September 2020",
-        "For": [
-            "Himanshu"
-        ],
-        "ID": "2009.03399",
-        "Title": "Motion of massive particles around a charged Weyl black hole and the geodetic precession of orbiting gyroscopes",
-        "url": "<a href='http://dx.doi.org/10.1140/epjc/s10052-020-7945-3' target='_blank'>Link</a>"
+        "ID": "2009.06580",
+        "Title": "Near-horizon aspects of acceleration radiation by free fall of an atom into a black hole",
+        "url": "<a href='http://arxiv.org/abs/2009.06580v1' target='_blank'>Link</a>"
     }
 ]
