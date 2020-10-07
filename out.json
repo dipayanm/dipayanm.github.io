@@ -2,108 +2,176 @@
     {
         "Aamulti": "a",
         "Authors": [
-            "A. A. Eremko",
-            "L. Brizhik",
-            "V. M. Loktev"
+            "Wan Cong",
+            "Jiri Bicak",
+            "David Kubiznak",
+            "Robert B. Mann"
         ],
         "Comment": "",
-        "Date": "22 September 2020",
-        "For": [
-            "Himanshu"
-        ],
-        "ID": "2009.09838",
-        "Title": "General solution of the Dirac equation with the Coulomb potential",
-        "url": "<a href='http://arxiv.org/abs/2009.09838v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Shahnewaz Ahmed",
-            "Mir Mehedi Faruk"
-        ],
-        "Comment": "",
-        "Date": "22 September 2020",
+        "Date": "28 September 2020",
         "For": [
             "Jaffino"
         ],
-        "ID": "2009.08498",
-        "Title": "Accelerated paths and Unruh effect I: scalars and fermions in Anti De Sitter spacetime",
-        "url": "<a href='http://arxiv.org/abs/2009.08498v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Kazuo Fujikawa"
-        ],
-        "Comment": "",
-        "Date": "22 September 2020",
-        "For": [
-            "Himanshu"
-        ],
-        "ID": "2009.08082",
-        "Title": "Path integral of neutrino oscillations",
-        "url": "<a href='http://arxiv.org/abs/2009.08082v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Alessia Platania",
-            "Christof Wetterich"
-        ],
-        "Comment": "",
-        "Date": "22 September 2020",
-        "For": [
-            "Himanshu"
-        ],
-        "ID": "2009.06637",
-        "Title": "Non-perturbative unitarity and fictitious ghosts in quantum gravity",
-        "url": "<a href='http://arxiv.org/abs/2009.06637v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Vladimir Sauli"
-        ],
-        "Comment": "",
-        "Date": "22 September 2020",
-        "For": [
-            "Ankit"
-        ],
-        "ID": "2009.07195",
-        "Title": "Renormalization scheme with diminished ultraviolet divergences",
-        "url": "<a href='http://arxiv.org/abs/2009.07195v1' target='_blank'>Link</a>"
+        "ID": "2009.10584",
+        "Title": "Quantum Detection of Inertial Frame Dragging",
+        "url": "<a href='http://arxiv.org/abs/2009.10584v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "b",
         "Authors": [
-            "Sebastian Cespedes",
-            "Anne-Christine Davis",
-            "Scott Melville"
+            "Julio Arrechea",
+            "Adri\u00e0 Delhom",
+            "Alejandro Jim\u00e9nez-Cano"
         ],
         "Comment": "",
-        "Date": "22 September 2020",
+        "Date": "28 September 2020",
         "For": [
-            "Ankit",
-            "Kinjalk"
+            "Dipayan",
+            "Harkirat"
         ],
-        "ID": "2009.07874",
-        "Title": "On the time evolution of cosmological correlators",
-        "url": "<a href='http://arxiv.org/abs/2009.07874v1' target='_blank'>Link</a>"
+        "ID": "2009.10715",
+        "Title": "Comment on \"Einstein-Gauss-Bonnet Gravity in Four-Dimensional Spacetime\"",
+        "url": "<a href='http://dx.doi.org/10.1103/PhysRevLett.125.149002' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "H. E. Camblong",
-            "A. Chakraborty",
-            "C. R. Ordonez"
+            "Bin Xu"
         ],
         "Comment": "",
-        "Date": "22 September 2020",
+        "Date": "29 September 2020",
         "For": [
+            "Himanshu"
+        ],
+        "ID": "2009.13471",
+        "Title": "Neutrino Decoherence in Simple Open Quantum Systems",
+        "url": "<a href='http://arxiv.org/abs/2009.13471v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Bruno de S. L. Torres",
+            "T. Rick Perche",
+            "Andr\u00e9 G. S. Landulfo",
+            "George E. A. Matsas"
+        ],
+        "Comment": "",
+        "Date": "29 September 2020",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2009.10165",
+        "Title": "Neutrino Flavor Oscillations without Flavor States",
+        "url": "<a href='http://arxiv.org/abs/2009.10165v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Jens Boos"
+        ],
+        "Comment": "",
+        "Date": "29 September 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2009.10856",
+        "Title": "Effects of Non-locality in Gravity and Quantum Theory",
+        "url": "<a href='http://arxiv.org/abs/2009.10856v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Carlo Rovelli"
+        ],
+        "Comment": "",
+        "Date": "29 September 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2009.10362",
+        "Title": "Gauge Is More Than Mathematical Redundancy",
+        "url": "<a href='http://arxiv.org/abs/2009.10362v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Nilanjandev Bhaumik",
+            "Rajeev Kumar Jain"
+        ],
+        "Comment": "pbh",
+        "Date": "29 September 2020",
+        "For": [
+            "Harkirat",
+            "Jaffino"
+        ],
+        "ID": "2009.10424",
+        "Title": "Stochastic induced gravitational waves and lowest mass limit of primordial black holes with the effects of reheating",
+        "url": "<a href='http://arxiv.org/abs/2009.10424v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Gabriel Cozzella",
+            "Stephen A. Fulling",
+            "Andr\u00e9 G. S. Landulfo",
+            "George E. A. Matsas"
+        ],
+        "Comment": "",
+        "Date": "29 September 2020",
+        "For": [
+            "Jaffino",
             "Kinjalk"
         ],
-        "ID": "2009.06580",
-        "Title": "Near-horizon aspects of acceleration radiation by free fall of an atom into a black hole",
-        "url": "<a href='http://arxiv.org/abs/2009.06580v1' target='_blank'>Link</a>"
+        "ID": "2009.13246",
+        "Title": "Uniformly accelerated classical sources as limits of Unruh-DeWitt detectors",
+        "url": "<a href='http://arxiv.org/abs/2009.13246v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "V. K. Oikonomou",
+            "F. P. Fronimos",
+            "N. Th. Chatzarakis"
+        ],
+        "Comment": "",
+        "Date": "29 September 2020",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2009.12897",
+        "Title": "$f(R)$ Gravity Phase Space in the Presence of Thermal Effects",
+        "url": "<a href='http://arxiv.org/abs/2009.12897v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Xavier Calmet",
+            "Folkert Kuipers"
+        ],
+        "Comment": "",
+        "Date": "29 September 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2009.11575",
+        "Title": "Theoretical bounds on dark matter masses",
+        "url": "<a href='http://arxiv.org/abs/2009.11575v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Yi-Fu Cai",
+            "Chunshan Lin",
+            "Bo Wang",
+            "Sheng-Feng Yan"
+        ],
+        "Comment": "",
+        "Date": "29 September 2020",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2009.09833",
+        "Title": "Sound speed resonance of the stochastic gravitational wave background",
+        "url": "<a href='http://arxiv.org/abs/2009.09833v2' target='_blank'>Link</a>"
     }
 ]
