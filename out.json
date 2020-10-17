@@ -2,176 +2,394 @@
     {
         "Aamulti": "a",
         "Authors": [
-            "Wan Cong",
-            "Jiri Bicak",
-            "David Kubiznak",
-            "Robert B. Mann"
+            "Hao-Hao Li",
+            "Gen Ye",
+            "Yun-Song Piao"
         ],
         "Comment": "",
-        "Date": "28 September 2020",
+        "Date": "5 October 2020",
         "For": [
-            "Jaffino"
+            "Ankit"
         ],
-        "ID": "2009.10584",
-        "Title": "Quantum Detection of Inertial Frame Dragging",
-        "url": "<a href='http://arxiv.org/abs/2009.10584v1' target='_blank'>Link</a>"
+        "ID": "2009.14663",
+        "Title": "Is the NANOGrav signal a hint of dS decay during inflation?",
+        "url": "<a href='http://arxiv.org/abs/2009.14663v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "S. Smerechynskyi",
+            "M. Tsizh",
+            "B. Novosyadlyj"
+        ],
+        "Comment": "",
+        "Date": "5 October 2020",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2009.14612",
+        "Title": "Impact of dynamical dark energy on the neutron star equilibrium",
+        "url": "<a href='http://arxiv.org/abs/2009.14612v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Martin Bojowald"
+        ],
+        "Comment": "",
+        "Date": "5 October 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2009.13565",
+        "Title": "Black-hole models in loop quantum gravity",
+        "url": "<a href='http://arxiv.org/abs/2009.13565v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Andronikos Paliathanasis",
+            "Genly Leon"
+        ],
+        "Comment": "",
+        "Date": "5 October 2020",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2009.12874",
+        "Title": "Dynamics of a two scalar field cosmological model with phantom terms",
+        "url": "<a href='http://arxiv.org/abs/2009.12874v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "b",
         "Authors": [
-            "Julio Arrechea",
-            "Adri\u00e0 Delhom",
-            "Alejandro Jim\u00e9nez-Cano"
+            "Kevin Thieme"
         ],
         "Comment": "",
-        "Date": "28 September 2020",
+        "Date": "5 October 2020",
+        "For": [
+            "Harkirat",
+            "\u2605Everyone"
+        ],
+        "ID": "2009.13499",
+        "Title": "Null Lagrangians of non-local field theories",
+        "url": "<a href='http://arxiv.org/abs/2009.13499v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Viatcheslav Mukhanov",
+            "Eliezer Rabinovici",
+            "Alexander Sorin"
+        ],
+        "Comment": "",
+        "Date": "5 October 2020",
+        "For": [
+            "Jaffino"
+        ],
+        "ID": "2009.12444",
+        "Title": "Quantum Fluctuations and New Instantons II: Quartic Unbounded Potential",
+        "url": "<a href='http://arxiv.org/abs/2009.12444v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Viatcheslav Mukhanov",
+            "Eliezer Rabinovici",
+            "Alexander Sorin"
+        ],
+        "Comment": "",
+        "Date": "5 October 2020",
+        "For": [
+            "Jaffino"
+        ],
+        "ID": "2009.12445",
+        "Title": "Quantum Fluctuations and New Instantons I: Linear Unbounded Potential",
+        "url": "<a href='http://arxiv.org/abs/2009.12445v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Dayshon Mathis",
+            "Alexandros Mousatov",
+            "George Panagopoulos",
+            "Eva Silverstein"
+        ],
+        "Comment": "",
+        "Date": "6 October 2020",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2010.00113",
+        "Title": "A new branch of inflationary speed limits",
+        "url": "<a href='http://arxiv.org/abs/2010.00113v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "De-Chang Dai",
+            "Djordje Minic",
+            "Dejan Stojkovic"
+        ],
+        "Comment": "",
+        "Date": "12 October 2020",
+        "For": [
+            "Kinjalk"
+        ],
+        "ID": "2010.03947",
+        "Title": "How to form a wormhole",
+        "url": "<a href='http://arxiv.org/abs/2010.03947v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "S. Mastrogiovanni",
+            "L. Haegel",
+            "C. Karathanasis",
+            "I. Magana-Hernandez",
+            "D. A. Steer"
+        ],
+        "Comment": "",
+        "Date": "12 October 2020",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2010.04047",
+        "Title": "Gravitational wave friction in light of GW170817 and GW190521",
+        "url": "<a href='http://arxiv.org/abs/2010.04047v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Yao-Zhong Zhang"
+        ],
+        "Comment": "",
+        "Date": "12 October 2020",
+        "For": [
+            "Ankit"
+        ],
+        "ID": "2010.03708",
+        "Title": "Analytic solutions of the Teukolsky equation for massless perturbations of any spin in de Sitter background",
+        "url": "<a href='http://arxiv.org/abs/2010.03708v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Shubham Kala",
+            "Saurabh",
+            "Hemwati Nandan",
+            "Prateek Sharma"
+        ],
+        "Comment": "",
+        "Date": "12 October 2020",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2010.03615",
+        "Title": "Deflection of Light and Shadow Cast by a Dual Charged Stringy Black Hole",
+        "url": "<a href='http://dx.doi.org/10.1142/S0217751X20501778' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Guillem Dom\u00e8nech",
+            "Shi Pi"
+        ],
+        "Comment": "PBH",
+        "Date": "12 October 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2010.03976",
+        "Title": "NANOGrav Hints on Planet-Mass Primordial Black Holes",
+        "url": "<a href='http://arxiv.org/abs/2010.03976v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "John R. Klauder"
+        ],
+        "Comment": "",
+        "Date": "12 October 2020",
+        "For": [
+            "\u2605Everyone"
+        ],
+        "ID": "2010.03984",
+        "Title": "A Unified Combination of Classical and Quantum Systems",
+        "url": "<a href='http://arxiv.org/abs/2010.03984v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Gerard t Hooft"
+        ],
+        "Comment": "",
+        "Date": "12 October 2020",
+        "For": [
+            "Jaffino"
+        ],
+        "ID": "2010.2019",
+        "Title": "Fast Vacuum Fluctuations and the Emergence of Quantum Mechanics",
+        "url": "<a href='http://arxiv.org/abs/2010.02019v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Sebastian Murk",
+            "Daniel R. Terno"
+        ],
+        "Comment": "",
+        "Date": "12 October 2020",
+        "For": [
+            "Kinjalk"
+        ],
+        "ID": "2010.03784",
+        "Title": "Universal properties of the near-horizon geometry",
+        "url": "<a href='http://arxiv.org/abs/2010.03784v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Gustav Mogull",
+            "Jan Plefka",
+            "Jan Steinhoff"
+        ],
+        "Comment": "",
+        "Date": "12 October 2020",
+        "For": [
+            "Ankit",
+            "Himanshu"
+        ],
+        "ID": "2010.02865",
+        "Title": "Classical black hole scattering from a worldline quantum field theory",
+        "url": "<a href='http://arxiv.org/abs/2010.02865v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Raghvendra Singh",
+            "Dawood Kothawala"
+        ],
+        "Comment": "Important",
+        "Date": "12 October 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2010.01822",
+        "Title": "Geometric aspects of covariant Wick rotation",
+        "url": "<a href='http://arxiv.org/abs/2010.01822v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Damiano Anselmi"
+        ],
+        "Comment": "",
+        "Date": "13 October 2020",
         "For": [
             "Dipayan",
             "Harkirat"
         ],
-        "ID": "2009.10715",
-        "Title": "Comment on \"Einstein-Gauss-Bonnet Gravity in Four-Dimensional Spacetime\"",
-        "url": "<a href='http://dx.doi.org/10.1103/PhysRevLett.125.149002' target='_blank'>Link</a>"
+        "ID": "2010.04739",
+        "Title": "High-order corrections to inflationary perturbation spectra in quantum gravity",
+        "url": "<a href='http://arxiv.org/abs/2010.04739v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Bin Xu"
+            "Khadije Jafarzade",
+            "Mahdi Kord Zangeneh",
+            "Francisco S. N. Lobo"
         ],
         "Comment": "",
-        "Date": "29 September 2020",
+        "Date": "13 October 2020",
         "For": [
             "Himanshu"
         ],
-        "ID": "2009.13471",
-        "Title": "Neutrino Decoherence in Simple Open Quantum Systems",
-        "url": "<a href='http://arxiv.org/abs/2009.13471v1' target='_blank'>Link</a>"
+        "ID": "2010.05755",
+        "Title": "Shadow, deflection angle and quasinormal modes of Born-Infeld charged black holes",
+        "url": "<a href='http://arxiv.org/abs/2010.05755v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Bruno de S. L. Torres",
-            "T. Rick Perche",
-            "Andr\u00e9 G. S. Landulfo",
-            "George E. A. Matsas"
+            "L. A. Lessa",
+            "R. Oliveira",
+            "J. E. G. Silva",
+            "C. A. S. Almeida"
         ],
         "Comment": "",
-        "Date": "29 September 2020",
-        "For": [
-            "Himanshu"
-        ],
-        "ID": "2009.10165",
-        "Title": "Neutrino Flavor Oscillations without Flavor States",
-        "url": "<a href='http://arxiv.org/abs/2009.10165v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Jens Boos"
-        ],
-        "Comment": "",
-        "Date": "29 September 2020",
+        "Date": "13 October 2020",
         "For": [
             "Harkirat"
         ],
-        "ID": "2009.10856",
-        "Title": "Effects of Non-locality in Gravity and Quantum Theory",
-        "url": "<a href='http://arxiv.org/abs/2009.10856v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Carlo Rovelli"
-        ],
-        "Comment": "",
-        "Date": "29 September 2020",
-        "For": [
-            "Harkirat"
-        ],
-        "ID": "2009.10362",
-        "Title": "Gauge Is More Than Mathematical Redundancy",
-        "url": "<a href='http://arxiv.org/abs/2009.10362v1' target='_blank'>Link</a>"
+        "ID": "2010.05298",
+        "Title": "Traversable wormhole solution with a background Kalb-Ramond field",
+        "url": "<a href='http://arxiv.org/abs/2010.05298v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "b",
         "Authors": [
-            "Nilanjandev Bhaumik",
-            "Rajeev Kumar Jain"
-        ],
-        "Comment": "pbh",
-        "Date": "29 September 2020",
-        "For": [
-            "Harkirat",
-            "Jaffino"
-        ],
-        "ID": "2009.10424",
-        "Title": "Stochastic induced gravitational waves and lowest mass limit of primordial black holes with the effects of reheating",
-        "url": "<a href='http://arxiv.org/abs/2009.10424v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "b",
-        "Authors": [
-            "Gabriel Cozzella",
-            "Stephen A. Fulling",
-            "Andr\u00e9 G. S. Landulfo",
-            "George E. A. Matsas"
+            "Daisuke Miki",
+            "Akira Matsumura",
+            "Kazuhiro Yamamoto"
         ],
         "Comment": "",
-        "Date": "29 September 2020",
+        "Date": "13 October 2020",
         "For": [
             "Jaffino",
             "Kinjalk"
         ],
-        "ID": "2009.13246",
-        "Title": "Uniformly accelerated classical sources as limits of Unruh-DeWitt detectors",
-        "url": "<a href='http://arxiv.org/abs/2009.13246v1' target='_blank'>Link</a>"
+        "ID": "2010.05159",
+        "Title": "Entanglement and decoherence of massive particles due to gravity",
+        "url": "<a href='http://arxiv.org/abs/2010.05159v2' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "V. K. Oikonomou",
-            "F. P. Fronimos",
-            "N. Th. Chatzarakis"
+            "Jos\u00e9 Nicasio",
+            "Naser Ahmadiniaz",
+            "James P. Edwards",
+            "Christian Schubert"
         ],
         "Comment": "",
-        "Date": "29 September 2020",
+        "Date": "13 October 2020",
+        "For": [
+            "Ankit"
+        ],
+        "ID": "2010.04160",
+        "Title": "Non-perturbative gauge transformations of arbitrary fermion correlation functions in quantum electrodynamics",
+        "url": "<a href='http://arxiv.org/abs/2010.04160v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Behnam Pourhassan"
+        ],
+        "Comment": "",
+        "Date": "13 October 2020",
         "For": [
             "Dipayan"
         ],
-        "ID": "2009.12897",
-        "Title": "$f(R)$ Gravity Phase Space in the Presence of Thermal Effects",
-        "url": "<a href='http://arxiv.org/abs/2009.12897v1' target='_blank'>Link</a>"
+        "ID": "2010.03946",
+        "Title": "Exponential corrected thermodynamics of black holes",
+        "url": "<a href='http://arxiv.org/abs/2010.03946v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Xavier Calmet",
-            "Folkert Kuipers"
+            "A. Tripathi",
+            "B. Chauhan",
+            "A. K. Rao",
+            "R. P. Malik"
         ],
         "Comment": "",
-        "Date": "29 September 2020",
+        "Date": "13 October 2020",
         "For": [
             "Harkirat"
         ],
-        "ID": "2009.11575",
-        "Title": "Theoretical bounds on dark matter masses",
-        "url": "<a href='http://arxiv.org/abs/2009.11575v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Yi-Fu Cai",
-            "Chunshan Lin",
-            "Bo Wang",
-            "Sheng-Feng Yan"
-        ],
-        "Comment": "",
-        "Date": "29 September 2020",
-        "For": [
-            "Himanshu"
-        ],
-        "ID": "2009.09833",
-        "Title": "Sound speed resonance of the stochastic gravitational wave background",
-        "url": "<a href='http://arxiv.org/abs/2009.09833v2' target='_blank'>Link</a>"
+        "ID": "2010.02737",
+        "Title": "Reparameterization Invariant Model of a Supersymmetric System: BRST and Supervariable Approaches",
+        "url": "<a href='http://arxiv.org/abs/2010.02737v1' target='_blank'>Link</a>"
     }
 ]
