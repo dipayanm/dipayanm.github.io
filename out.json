@@ -2,358 +2,148 @@
     {
         "Aamulti": "a",
         "Authors": [
-            "S. Aghababaei",
-            "H. Moradpour",
-            "G. Rezaei",
-            "S. Khorshidian"
+            "Mariano Celada",
+            "Ricardo Escobedo",
+            "Merced Montesinos"
         ],
         "Comment": "",
-        "Date": "20 October 2020",
-        "For": [
-            "Kinjalk"
-        ],
-        "ID": "2010.08851",
-        "Title": "Effects of minimal length on Berry phase and spin-orbit interactions",
-        "url": "<a href='http://arxiv.org/abs/2010.08851v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Kuantay Boshkayev",
-            "Orlando Luongo",
-            "Marco Muccino"
-        ],
-        "Comment": "",
-        "Date": "20 October 2020",
-        "For": [
-            "Himanshu"
-        ],
-        "ID": "2010.08254",
-        "Title": "Neutrino oscillation in the $q$-metric",
-        "url": "<a href='http://arxiv.org/abs/2010.08254v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "b",
-        "Authors": [
-            "Tanuman Ghosh",
-            "Banibrata Mukhopadhyay"
-        ],
-        "Comment": "",
-        "Date": "20 October 2020",
-        "For": [
-            "Kinjalk",
-            "Jaffino"
-        ],
-        "ID": "2010.05945",
-        "Title": "Geometric phase for pseudo-Hermitian Dirac Hamiltonian in gravitational fields and corresponding gravitational Landau levels",
-        "url": "<a href='http://arxiv.org/abs/2010.05945v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "b",
-        "Authors": [
-            "Huangjun Zhu"
-        ],
-        "Comment": "",
-        "Date": "20 October 2020",
-        "For": [
-            "Kinjalk",
-            "Harkirat",
-            "Jaffino"
-        ],
-        "ID": "2010.07843",
-        "Title": "Hiding and Masking Quantum Information in Complex and Real Quantum Mechanics",
-        "url": "<a href='http://arxiv.org/abs/2010.07843v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "b",
-        "Authors": [
-            "Ken-ji Hamada"
-        ],
-        "Comment": "",
-        "Date": "20 October 2020",
-        "For": [
-            "Harkirat",
-            "Ankit"
-        ],
-        "ID": "2010.06771",
-        "Title": "Diffeomorphism Invariance Demands Conformal Anomalies",
-        "url": "<a href='http://arxiv.org/abs/2010.06771v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Donald Marolf",
-            "Henry Maxfield"
-        ],
-        "Comment": "",
-        "Date": "20 October 2020",
-        "For": [
-            "Kinjalk"
-        ],
-        "ID": "2010.06602",
-        "Title": "Observations of Hawking radiation: the Page curve and baby universes",
-        "url": "<a href='http://arxiv.org/abs/2010.06602v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Nobuyoshi Ohta"
-        ],
-        "Comment": "",
-        "Date": "26 October 2020",
+        "Date": "2 November 2020",
         "For": [
             "Harkirat"
         ],
-        "ID": "2010.11314",
-        "Title": "General Procedure of Gauge Fixings and Ghosts",
-        "url": "<a href='http://arxiv.org/abs/2010.11314v1' target='_blank'>Link</a>"
+        "ID": "2010.14526",
+        "Title": "Canonical analysis of $BF$ gravity in $n$ dimensions",
+        "url": "<a href='http://arxiv.org/abs/2010.14526v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Quentin Vigneron"
+            "Rodolfo Gambini",
+            "Jorge Pullin"
         ],
         "Comment": "",
-        "Date": "26 October 2020",
+        "Date": "2 November 2020",
         "For": [
             "Harkirat"
         ],
-        "ID": "2010.10247",
-        "Title": "1+3 formulation of Newton's equations",
-        "url": "<a href='http://arxiv.org/abs/2010.10247v1' target='_blank'>Link</a>"
+        "ID": "2010.14519",
+        "Title": "The Montevideo Interpretation: How the inclusion of a Quantum Gravitational Notion of Time Solves the Measurement Problem",
+        "url": "<a href='http://arxiv.org/abs/2010.14519v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Boris Runov"
+            "Johannes M\u00fcnch"
         ],
         "Comment": "",
-        "Date": "26 October 2020",
+        "Date": "2 November 2020",
         "For": [
-            "Jaffino"
+            "Harkirat"
         ],
-        "ID": "2010.09967",
-        "Title": "On quantum determinants in integrable quantum gravity",
-        "url": "<a href='http://arxiv.org/abs/2010.09967v1' target='_blank'>Link</a>"
+        "ID": "2010.13480",
+        "Title": "Effective Quantum Dust Collapse via Surface Matching",
+        "url": "<a href='http://arxiv.org/abs/2010.13480v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Silvia Pla",
-            "Ian M. Newsome",
-            "Robert S. Link",
-            "Paul R. Anderson",
-            "Jose Navarro-Salas"
+            "Ok Song An",
+            "Jin U Kang",
+            "Thae Hyok Kim",
+            "Ui Ri Mun"
         ],
         "Comment": "",
-        "Date": "26 October 2020",
+        "Date": "2 November 2020",
         "For": [
-            "Ankit"
+            "Harkirat"
         ],
-        "ID": "2010.09811",
-        "Title": "Validity of the semiclassical approximation for pair production due to an electric field in 1+1 dimensions",
-        "url": "<a href='http://arxiv.org/abs/2010.09811v1' target='_blank'>Link</a>"
+        "ID": "2010.13287",
+        "Title": "Notes on the post-bounce background dynamics in bouncing cosmologies",
+        "url": "<a href='http://arxiv.org/abs/2010.13287v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Rituparna Mandal",
-            "Sunandan Gangopadhyay",
-            "Amitabha Lahiri"
+            "Jana N. Guenther",
+            "Christian Hoelbling",
+            "Lukas Varnhorst"
         ],
         "Comment": "",
-        "Date": "26 October 2020",
+        "Date": "2 November 2020",
         "For": [
+            "Harkirat"
+        ],
+        "ID": "2010.13215",
+        "Title": "Semiclassical gravitational collapse of a radially symmetric massless scalar quantum field",
+        "url": "<a href='http://arxiv.org/abs/2010.13215v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "A. Y. Kamenshchik",
+            "A. Tronconi",
+            "G. Venturi"
+        ],
+        "Comment": "",
+        "Date": "2 November 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2010.15628",
+        "Title": "The Born-Oppenheimer approach to Quantum Cosmology",
+        "url": "<a href='http://arxiv.org/abs/2010.15628v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Matthew P. G. Robbins",
+            "Laura J. Henderson",
+            "Robert B. Mann"
+        ],
+        "Comment": "",
+        "Date": "2 November 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2010.14517",
+        "Title": "Entanglement Amplification from Rotating Black Holes",
+        "url": "<a href='http://arxiv.org/abs/2010.14517v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Cyril Renevey",
+            "Aur\u00e9lien Barrau",
+            "Killian Martineau",
+            "Selim Touati"
+        ],
+        "Comment": "",
+        "Date": "2 November 2020",
+        "For": [
+            "Harkirat",
             "Dipayan"
         ],
-        "ID": "2010.09716",
-        "Title": "Cosmology with modified continuity equation in asymptotically safe gravity",
-        "url": "<a href='http://arxiv.org/abs/2010.09716v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Hiroyuki Kitamoto"
-        ],
-        "Comment": "",
-        "Date": "26 October 2020",
-        "For": [
-            "Ankit"
-        ],
-        "ID": "2010.10388",
-        "Title": "No-go theorem of anisotropic inflation via Schwinger mechanism",
-        "url": "<a href='http://arxiv.org/abs/2010.10388v2' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Julio Arrechea",
-            "Carlos Barcel\u00f3",
-            "Valentin Boyanov",
-            "Luis J. Garay"
-        ],
-        "Comment": "",
-        "Date": "26 October 2020",
-        "For": [
-            "Harkirat"
-        ],
-        "ID": "2010.09048",
-        "Title": "Semiclassical gravity does not leave space for mild singularities",
-        "url": "<a href='http://arxiv.org/abs/2010.09048v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Gustav Uhre Jakobsen"
-        ],
-        "Comment": "",
-        "Date": "26 October 2020",
-        "For": [
-            "\u2605Everyone"
-        ],
-        "ID": "2010.08839",
-        "Title": "General Relativity from Quantum Field Theory",
-        "url": "<a href='http://arxiv.org/abs/2010.08839v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "A. Simoni\u010d",
-            "T. Trudgian",
-            "C. L. Turnage-Butterbaugh"
-        ],
-        "Comment": "",
-        "Date": "26 October 2020",
-        "For": [
-            "Harkirat"
-        ],
-        "ID": "2010.10675",
-        "Title": "Some explicit and unconditional results on gaps between zeroes of the Riemann zeta-function",
-        "url": "<a href='http://arxiv.org/abs/2010.10675v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Stefano Liberati",
-            "Giovanni Tricella",
-            "Andrea Trombettoni"
-        ],
-        "Comment": "GM",
-        "Date": "26 October 2020",
-        "For": [
-            "Harkirat"
-        ],
-        "ID": "2010.09966",
-        "Title": "Back-reaction in canonical analogue black holes",
-        "url": "<a href='http://arxiv.org/abs/2010.09966v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Lydia Bieri"
-        ],
-        "Comment": "",
-        "Date": "26 October 2020",
-        "For": [
-            "Himanshu"
-        ],
-        "ID": "2010.09207",
-        "Title": "New Effects in Gravitational Waves and Memory",
-        "url": "<a href='http://arxiv.org/abs/2010.09207v2' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Prasant Samantray",
-            "Suprit Singh"
-        ],
-        "Comment": "",
-        "Date": "27 October 2010",
-        "For": [
-            "Ankit"
-        ],
-        "ID": "2010.13453",
-        "Title": "Schwinger Effect in Compact Space",
-        "url": "<a href='http://arxiv.org/abs/2010.13453v2' target='_blank'>Link</a>"
+        "ID": "2010.13542",
+        "Title": "Curvature bounce in general relativity: background and primordial spectrum",
+        "url": "<a href='http://arxiv.org/abs/2010.13542v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "b",
         "Authors": [
-            "Theodoros Papanikolaou",
-            "Vincent Vennin",
-            "David Langlois"
+            "Lina Wu",
+            "Qing Gao",
+            "Yungui Gong",
+            "Yiding Jia",
+            "Tianjun Li"
         ],
-        "Comment": "PBH",
-        "Date": "27 October 2010",
+        "Comment": "Joint discussion",
+        "Date": "2 November 2020",
         "For": [
             "Harkirat",
-            "Jaffino"
-        ],
-        "ID": "2010.11573",
-        "Title": "Gravitational waves from a universe filled with primordial black holes",
-        "url": "<a href='http://arxiv.org/abs/2010.11573v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Jorge Gamboa",
-            "Richard MacKenzie",
-            "Fernando M\u00e9ndez"
-        ],
-        "Comment": "",
-        "Date": "27 October 2010",
-        "For": [
-            "Jaffino"
-        ],
-        "ID": "2010.12966",
-        "Title": "Gravitons in the Strong-Coupling Regime",
-        "url": "<a href='http://arxiv.org/abs/2010.12966v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Muhammad Fitrah Alfian Rangga Sakti",
-            "Freddy Permana Zen"
-        ],
-        "Comment": "",
-        "Date": "27 October 2010",
-        "For": [
             "Dipayan"
         ],
-        "ID": "2010.12481",
-        "Title": "CFT Duals on Rotating Charged Black Holes Surrounded by Quintessence",
-        "url": "<a href='http://arxiv.org/abs/2010.12481v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Daniel R. Mayerson"
-        ],
-        "Comment": "FuzzballGM",
-        "Date": "27 October 2010",
-        "For": [
-            "Harkirat"
-        ],
-        "ID": "2010.09736",
-        "Title": "Fuzzballs and Observations",
-        "url": "<a href='http://arxiv.org/abs/2010.09736v2' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "E. T. Akhmedov",
-            "P. A. Anempodistov",
-            "K. V. Bazarov",
-            "D. V. Diakonov",
-            "U. Moschella"
-        ],
-        "Comment": "",
-        "Date": "27 October 2010",
-        "For": [
-            "Ankit"
-        ],
-        "ID": "2010.10877",
-        "Title": "How hot de Sitter space and black holes can be?",
-        "url": "<a href='http://arxiv.org/abs/2010.10877v1' target='_blank'>Link</a>"
+        "ID": "2010.13394",
+        "Title": "The Upper Bound on the Tensor-to-Scalar Ratio Consistent with Quantum Gravity",
+        "url": "<a href='http://arxiv.org/abs/2010.13394v1' target='_blank'>Link</a>"
     }
 ]
