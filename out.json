@@ -2,148 +2,388 @@
     {
         "Aamulti": "a",
         "Authors": [
-            "Mariano Celada",
-            "Ricardo Escobedo",
-            "Merced Montesinos"
+            "Behnam Pourhassan",
+            "Mir Faizal"
         ],
         "Comment": "",
-        "Date": "2 November 2020",
+        "Date": "3 November 2020",
         "For": [
-            "Harkirat"
+            "Dipayan"
         ],
-        "ID": "2010.14526",
-        "Title": "Canonical analysis of $BF$ gravity in $n$ dimensions",
-        "url": "<a href='http://arxiv.org/abs/2010.14526v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Rodolfo Gambini",
-            "Jorge Pullin"
-        ],
-        "Comment": "",
-        "Date": "2 November 2020",
-        "For": [
-            "Harkirat"
-        ],
-        "ID": "2010.14519",
-        "Title": "The Montevideo Interpretation: How the inclusion of a Quantum Gravitational Notion of Time Solves the Measurement Problem",
-        "url": "<a href='http://arxiv.org/abs/2010.14519v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Johannes M\u00fcnch"
-        ],
-        "Comment": "",
-        "Date": "2 November 2020",
-        "For": [
-            "Harkirat"
-        ],
-        "ID": "2010.13480",
-        "Title": "Effective Quantum Dust Collapse via Surface Matching",
-        "url": "<a href='http://arxiv.org/abs/2010.13480v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Ok Song An",
-            "Jin U Kang",
-            "Thae Hyok Kim",
-            "Ui Ri Mun"
-        ],
-        "Comment": "",
-        "Date": "2 November 2020",
-        "For": [
-            "Harkirat"
-        ],
-        "ID": "2010.13287",
-        "Title": "Notes on the post-bounce background dynamics in bouncing cosmologies",
-        "url": "<a href='http://arxiv.org/abs/2010.13287v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Jana N. Guenther",
-            "Christian Hoelbling",
-            "Lukas Varnhorst"
-        ],
-        "Comment": "",
-        "Date": "2 November 2020",
-        "For": [
-            "Harkirat"
-        ],
-        "ID": "2010.13215",
-        "Title": "Semiclassical gravitational collapse of a radially symmetric massless scalar quantum field",
-        "url": "<a href='http://arxiv.org/abs/2010.13215v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "A. Y. Kamenshchik",
-            "A. Tronconi",
-            "G. Venturi"
-        ],
-        "Comment": "",
-        "Date": "2 November 2020",
-        "For": [
-            "Harkirat"
-        ],
-        "ID": "2010.15628",
-        "Title": "The Born-Oppenheimer approach to Quantum Cosmology",
-        "url": "<a href='http://arxiv.org/abs/2010.15628v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Matthew P. G. Robbins",
-            "Laura J. Henderson",
-            "Robert B. Mann"
-        ],
-        "Comment": "",
-        "Date": "2 November 2020",
-        "For": [
-            "Harkirat"
-        ],
-        "ID": "2010.14517",
-        "Title": "Entanglement Amplification from Rotating Black Holes",
-        "url": "<a href='http://arxiv.org/abs/2010.14517v1' target='_blank'>Link</a>"
+        "ID": "2011.00198",
+        "Title": "Quantum Corrections to the Thermodynamics of Black Branes",
+        "url": "<a href='http://arxiv.org/abs/2011.00198v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "b",
         "Authors": [
-            "Cyril Renevey",
-            "Aur\u00e9lien Barrau",
-            "Killian Martineau",
-            "Selim Touati"
+            "Refik Mansuroglu",
+            "Hanno Sahlmann"
         ],
         "Comment": "",
-        "Date": "2 November 2020",
+        "Date": "3 November 2020",
         "For": [
             "Harkirat",
+            "Himanshu"
+        ],
+        "ID": "2011.00233",
+        "Title": "Fermion spins in loop quantum gravity",
+        "url": "<a href='http://arxiv.org/abs/2011.00233v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Hwajin Eom",
+            "Wontae Kim"
+        ],
+        "Comment": "",
+        "Date": "3 November 2020",
+        "For": [
+            "Ankit"
+        ],
+        "ID": "2010.09173",
+        "Title": "On thermal radiation of de Sitter space in the semiclassical Jackiw-Teitelboim model",
+        "url": "<a href='http://arxiv.org/abs/2010.09173v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Hidetoshi Taya",
+            "Toshiaki Fujimori",
+            "Tatsuhiro Misumi",
+            "Muneto Nitta",
+            "Norisuke Sakai"
+        ],
+        "Comment": "",
+        "Date": "3 November 2020",
+        "For": [
+            "Ankit"
+        ],
+        "ID": "2010.16080",
+        "Title": "Exact WKB analysis of the vacuum pair production by time-dependent electric fields",
+        "url": "<a href='http://arxiv.org/abs/2010.16080v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Nima Moshayedi"
+        ],
+        "Comment": "",
+        "Date": "3 November 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2010.15419",
+        "Title": "Notes on Geometric Quantization",
+        "url": "<a href='http://arxiv.org/abs/2010.15419v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Amanda Guerrieri",
+            "Rodrigo F. Sobreiro"
+        ],
+        "Comment": "",
+        "Date": "3 November 2020",
+        "For": [
             "Dipayan"
         ],
-        "ID": "2010.13542",
-        "Title": "Curvature bounce in general relativity: background and primordial spectrum",
-        "url": "<a href='http://arxiv.org/abs/2010.13542v1' target='_blank'>Link</a>"
+        "ID": "2010.14918",
+        "Title": "Non-relativistic limit of gravity theories in the first order formalism",
+        "url": "<a href='http://arxiv.org/abs/2010.14918v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Seishi Enomoto",
+            "Tomohiro Matsuda"
+        ],
+        "Comment": "",
+        "Date": "3 November 2020",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2010.14835",
+        "Title": "The exact WKB for cosmological particle production",
+        "url": "<a href='http://arxiv.org/abs/2010.14835v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "b",
         "Authors": [
-            "Lina Wu",
-            "Qing Gao",
-            "Yungui Gong",
-            "Yiding Jia",
-            "Tianjun Li"
+            "Paul Davies",
+            "Logan Thomas",
+            "George Zahariade"
         ],
-        "Comment": "Joint discussion",
-        "Date": "2 November 2020",
+        "Comment": "",
+        "Date": "3 November 2020",
         "For": [
-            "Harkirat",
+            "Ankit",
+            "Jaffino",
+            "Kinjalk"
+        ],
+        "ID": "2011.01169",
+        "Title": "A Heat Shield for de Sitter space",
+        "url": "<a href='http://arxiv.org/abs/2011.01169v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Edi Halyo"
+        ],
+        "Comment": "",
+        "Date": "3 November 2020",
+        "For": [
+            "Kinjalk"
+        ],
+        "ID": "2011.01166",
+        "Title": "A Model for Unitary Black Hole Evaporation",
+        "url": "<a href='http://arxiv.org/abs/2011.01166v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Clifford Cheung",
+            "James Mangan"
+        ],
+        "Comment": "",
+        "Date": "3 November 2020",
+        "For": [
+            "Kinjalk"
+        ],
+        "ID": "2010.15970",
+        "Title": "Scattering Amplitudes and the Navier-Stokes Equation",
+        "url": "<a href='http://arxiv.org/abs/2010.15970v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "O. Diatlyk"
+        ],
+        "Comment": "",
+        "Date": "9 November 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2011.03486",
+        "Title": "On the Hawking radiation of massive fields in 2D",
+        "url": "<a href='http://arxiv.org/abs/2011.03486v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Martin Bojowald",
+            "Ding Ding"
+        ],
+        "Comment": "",
+        "Date": "9 November 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2011.03018",
+        "Title": "Canonical description of cosmological backreaction",
+        "url": "<a href='http://arxiv.org/abs/2011.03018v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Igor Proskurin",
+            "Robert L. Stamps"
+        ],
+        "Comment": "Review",
+        "Date": "9 November 2020",
+        "For": [
             "Dipayan"
         ],
-        "ID": "2010.13394",
-        "Title": "The Upper Bound on the Tensor-to-Scalar Ratio Consistent with Quantum Gravity",
-        "url": "<a href='http://arxiv.org/abs/2010.13394v1' target='_blank'>Link</a>"
+        "ID": "2011.02520",
+        "Title": "Level attraction and exceptional points in a resonant spin-orbit torque system",
+        "url": "<a href='http://arxiv.org/abs/2011.02520v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Debasish Borah",
+            "Suruj Jyoti Das",
+            "Abhijit Kumar Saha"
+        ],
+        "Comment": "",
+        "Date": "9 November 2020",
+        "For": [
+            "Himanshu",
+            "Dipayan"
+        ],
+        "ID": "2011.02489",
+        "Title": "Gravitational origin of dark matter and Majorana neutrino mass with non-minimal quartic inflation",
+        "url": "<a href='http://arxiv.org/abs/2011.02489v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Ion I. Cotaescu"
+        ],
+        "Comment": "",
+        "Date": "9 November 2020",
+        "For": [
+            "Ankit"
+        ],
+        "ID": "2011.02434",
+        "Title": "Light from Schwarzschild Black Holes in de Sitter expanding universe",
+        "url": "<a href='http://arxiv.org/abs/2011.02434v3' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Shaoqi Hou"
+        ],
+        "Comment": "",
+        "Date": "9 November 2020",
+        "For": [
+            "Himanshu",
+            "Dipayan"
+        ],
+        "ID": "2011.02087",
+        "Title": "Gravitational memory effects in Brans-Dicke theory",
+        "url": "<a href='http://arxiv.org/abs/2011.02087v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Radouane Gannouji",
+            "Leandros Perivolaropoulos",
+            "David Polarski",
+            "Foteini Skara"
+        ],
+        "Comment": "",
+        "Date": "9 November 2020",
+        "For": [
+            "\u2605Everyone"
+        ],
+        "ID": "2011.01517",
+        "Title": "Weak gravity on a $\u039b$CDM background",
+        "url": "<a href='http://arxiv.org/abs/2011.01517v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Kerim Anlas",
+            "Vikas Trivedi"
+        ],
+        "Comment": "",
+        "Date": "9 November 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2011.01294",
+        "Title": "Studying evolution of the primary body axis in vivo and in vitro",
+        "url": "<a href='http://arxiv.org/abs/2011.01294v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Jinn-Ouk Gong",
+            "Min-Seok Seo"
+        ],
+        "Comment": "",
+        "Date": "9 November 2020",
+        "For": [
+            "Ankit"
+        ],
+        "ID": "2011.01794",
+        "Title": "Instability of de Sitter space under thermal radiation in different vacua",
+        "url": "<a href='http://arxiv.org/abs/2011.01794v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Luciano Petruzziello",
+            "Fabrizio Illuminati"
+        ],
+        "Comment": "",
+        "Date": "9 November 2020",
+        "For": [
+            "Kinjalk"
+        ],
+        "ID": "2011.01255",
+        "Title": "Quantum gravitational decoherence",
+        "url": "<a href='http://arxiv.org/abs/2011.01255v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Swayamsiddha Maharana",
+            "Arundhati Dasgupta"
+        ],
+        "Comment": "",
+        "Date": "9 November 2020",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2011.00676",
+        "Title": "Semiclassical corrections to the photon orbits of a non-rotating black hole",
+        "url": "<a href='http://arxiv.org/abs/2011.00676v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Refik Mansuroglu",
+            "Hanno Sahlmann"
+        ],
+        "Comment": "",
+        "Date": "9 November 2020",
+        "For": [
+            "Kinjalk"
+        ],
+        "ID": "2011.00233",
+        "Title": "Fermion spins in loop quantum gravity",
+        "url": "<a href='http://arxiv.org/abs/2011.00233v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Paul Davies",
+            "Logan Thomas",
+            "George Zahariade"
+        ],
+        "Comment": "",
+        "Date": "9 November 2020",
+        "For": [
+            "Ankit"
+        ],
+        "ID": "2011.01169",
+        "Title": "A Heat Shield for de Sitter space",
+        "url": "<a href='http://arxiv.org/abs/2011.01169v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Przemys\u0142aw Ma\u0142kiewicz",
+            "Artur Miroszewski"
+        ],
+        "Comment": "",
+        "Date": "9 November 2020",
+        "For": [
+            "Harkirat",
+            "Jaffino"
+        ],
+        "ID": "2011.03487",
+        "Title": "Dynamics of primordial fields in quantum cosmological spacetimes",
+        "url": "<a href='http://arxiv.org/abs/2011.03487v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Eleonora Di Valentino",
+            "Alessandro Melchiorri",
+            "Olga Mena",
+            "Supriya Pan",
+            "Weiqiang Yang"
+        ],
+        "Comment": "",
+        "Date": "9 November 2020",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2011.00283",
+        "Title": "Interacting Dark Energy in a closed universe",
+        "url": "<a href='http://arxiv.org/abs/2011.00283v1' target='_blank'>Link</a>"
     }
 ]
