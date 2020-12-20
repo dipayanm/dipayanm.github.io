@@ -1,67 +1,216 @@
 [
     {
-        "Aamulti": "b",
+        "Aamulti": "a",
         "Authors": [
-            "F. Ruiz",
-            "C. Molina",
-            "J. A. S. Lima"
+            "J\u00falio C. Fabris",
+            "Oliver F. Piattella",
+            "Davi C. Rodrigues",
+            "Denis C. Rodrigues",
+            "Edison C. O. Santos"
+        ],
+        "Comment": "",
+        "Date": "23 November 2020",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2011.10503",
+        "Title": "A note on non-vanishing divergence of the stress-energy tensor in theories of gravity",
+        "url": "<a href='http://arxiv.org/abs/2011.10503v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "H. V. Ragavendra",
+            "L. Sriramkumar",
+            "Joseph Silk"
         ],
         "Comment": "PBH",
-        "Date": "17 November 2020",
+        "Date": "23 November 2020",
         "For": [
-            "Jaffino",
             "Harkirat"
         ],
-        "ID": "2011.07079",
-        "Title": "Dynamical model for primordial black holes",
-        "url": "<a href='http://arxiv.org/abs/2011.07079v1' target='_blank'>Link</a>"
+        "ID": "2011.09938",
+        "Title": "Could PBHs and secondary GWs have originated from squeezed initial states?",
+        "url": "<a href='http://arxiv.org/abs/2011.09938v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Jiong Lin",
-            "Yungui Gong",
-            "Yizhou Lu",
-            "Fengge Zhang"
+            "Jan Boruch",
+            "Pawel Caputa",
+            "Tadashi Takayanagi"
         ],
         "Comment": "",
-        "Date": "17 November 2020",
+        "Date": "23 November 2020",
         "For": [
             "Harkirat"
         ],
-        "ID": "2011.05739",
-        "Title": "Spatially covariant gravity with a dynamic lapse function",
-        "url": "<a href='http://arxiv.org/abs/2011.05739v1' target='_blank'>Link</a>"
+        "ID": "2011.08188",
+        "Title": "Path-Integral Optimization from Hartle-Hawking Wave Function",
+        "url": "<a href='http://arxiv.org/abs/2011.08188v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "O. Santill\u00e1n",
-            "A. Morano"
+            "Gaoping Long",
+            "Yunlong Liu",
+            "Xiangdong Zhang"
         ],
         "Comment": "",
-        "Date": "17 November 2020",
+        "Date": "23 November 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2011.07712",
+        "Title": "Energy conditions in new model of loop quantum cosmology",
+        "url": "<a href='http://arxiv.org/abs/2011.07712v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Zezhou Hu",
+            "Zhen Zhong",
+            "Peng-Cheng Li",
+            "Minyong Guo",
+            "Bin Chen"
+        ],
+        "Comment": "",
+        "Date": "15 December 2020",
         "For": [
             "Himanshu"
         ],
-        "ID": "2011.06747",
-        "Title": "Neutrino emission and initial evolution of axionic quark nuggets",
-        "url": "<a href='http://arxiv.org/abs/2011.06747v1' target='_blank'>Link</a>"
+        "ID": "2012.07022",
+        "Title": "QED Effect on Black Hole Shadow",
+        "url": "<a href='http://arxiv.org/abs/2012.07022v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Giovanni Acquaviva",
-            "Alfredo Iorio",
-            "Luca Smaldone"
+            "Sajad Abbar",
+            "Francesco Capozzi",
+            "Robert Glas",
+            "H. -Thomas Janka",
+            "Irene Tamborra"
         ],
         "Comment": "",
-        "Date": "17 November 2020",
+        "Date": "15 December 2020",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2012.06594",
+        "Title": "On the characteristics of fast neutrino flavor instabilities in three-dimensional core-collapse supernova models",
+        "url": "<a href='http://arxiv.org/abs/2012.06594v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Hao Geng",
+            "Andreas Karch",
+            "Carlos Perez-Pardavila",
+            "Suvrat Raju",
+            "Lisa Randall",
+            "Marcos Riojas",
+            "Sanjit Shashi"
+        ],
+        "Comment": "",
+        "Date": "15 December 2020",
         "For": [
             "Jaffino"
         ],
-        "ID": "2011.05176",
-        "Title": "Bekenstein bound from the Pauli principle: a brief introduction",
-        "url": "<a href='http://arxiv.org/abs/2011.05176v1' target='_blank'>Link</a>"
+        "ID": "2012.04671",
+        "Title": "Information Transfer with a Gravitating Bath",
+        "url": "<a href='http://arxiv.org/abs/2012.04671v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Abdulrahim Al Balushi",
+            "Zhencheng Wang",
+            "Donald Marolf"
+        ],
+        "Comment": "",
+        "Date": "15 December 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2012.04635",
+        "Title": "Traversability of Multi-Boundary Wormholes",
+        "url": "<a href='http://arxiv.org/abs/2012.04635v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Cesar Gomez",
+            "Raul Jimenez"
+        ],
+        "Comment": "",
+        "Date": "15 December 2020",
+        "For": [
+            "Ankit",
+            "Jaffino"
+        ],
+        "ID": "2012.04003",
+        "Title": "The Quantum Origin of Quasi de Sitter: a Model Independent Quantum Cosmological Tilt",
+        "url": "<a href='http://arxiv.org/abs/2012.04003v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Konstantinos Dimopoulos",
+            "Samuel S\u00e1nchez L\u00f3pez"
+        ],
+        "Comment": "",
+        "Date": "15 December 2020",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2012.06831",
+        "Title": "Quintessential inflation in Palatini $f(R)$ gravity",
+        "url": "<a href='http://arxiv.org/abs/2012.06831v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Spiros Cotsakis",
+            "Dimitrios Trachilis"
+        ],
+        "Comment": "",
+        "Date": "15 December 2020",
+        "For": [
+            "Dipayan",
+            "Harkirat"
+        ],
+        "ID": "2012.05850",
+        "Title": "The radiation instability in modified gravity",
+        "url": "<a href='http://arxiv.org/abs/2012.05850v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "G. G. L. Nashed",
+            "S. Nojiri"
+        ],
+        "Comment": "",
+        "Date": "15 December 2020",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2012.05711",
+        "Title": "Non-trivial black hole solutions in $\\mathit{f(R)}$ gravitational theory",
+        "url": "<a href='http://dx.doi.org/10.1103/PhysRevD.102.124022' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Tim Schmitz"
+        ],
+        "Comment": "",
+        "Date": "15 December 2020",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2012.04383",
+        "Title": "Exteriors to bouncing collapse models",
+        "url": "<a href='http://arxiv.org/abs/2012.04383v1' target='_blank'>Link</a>"
     }
 ]
