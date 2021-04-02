@@ -2,140 +2,1533 @@
     {
         "Aamulti": "a",
         "Authors": [
-            "J\u00falio C. Fabris",
-            "Oliver F. Piattella",
-            "Davi C. Rodrigues",
-            "Denis C. Rodrigues",
-            "Edison C. O. Santos"
+            "Massimo Giovannini"
         ],
         "Comment": "",
-        "Date": "23 November 2020",
+        "Date": "5 January 2021",
         "For": [
-            "Dipayan"
+            "\u2605Everyone"
         ],
-        "ID": "2011.10503",
-        "Title": "A note on non-vanishing divergence of the stress-energy tensor in theories of gravity",
-        "url": "<a href='http://arxiv.org/abs/2011.10503v1' target='_blank'>Link</a>"
+        "ID": "2012.14720",
+        "Title": "Inflationary magnetogenesis in the perturbative regime",
+        "url": "<a href='http://arxiv.org/abs/2012.14720v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "H. V. Ragavendra",
-            "L. Sriramkumar",
-            "Joseph Silk"
-        ],
-        "Comment": "PBH",
-        "Date": "23 November 2020",
-        "For": [
-            "Harkirat"
-        ],
-        "ID": "2011.09938",
-        "Title": "Could PBHs and secondary GWs have originated from squeezed initial states?",
-        "url": "<a href='http://arxiv.org/abs/2011.09938v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Jan Boruch",
-            "Pawel Caputa",
-            "Tadashi Takayanagi"
+            "I. M. Burbano",
+            "T. Rick Perche",
+            "Bruno de S. L. Torres"
         ],
         "Comment": "",
-        "Date": "23 November 2020",
-        "For": [
-            "Harkirat"
-        ],
-        "ID": "2011.08188",
-        "Title": "Path-Integral Optimization from Hartle-Hawking Wave Function",
-        "url": "<a href='http://arxiv.org/abs/2011.08188v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Gaoping Long",
-            "Yunlong Liu",
-            "Xiangdong Zhang"
-        ],
-        "Comment": "",
-        "Date": "23 November 2020",
-        "For": [
-            "Harkirat"
-        ],
-        "ID": "2011.07712",
-        "Title": "Energy conditions in new model of loop quantum cosmology",
-        "url": "<a href='http://arxiv.org/abs/2011.07712v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Zezhou Hu",
-            "Zhen Zhong",
-            "Peng-Cheng Li",
-            "Minyong Guo",
-            "Bin Chen"
-        ],
-        "Comment": "",
-        "Date": "15 December 2020",
-        "For": [
-            "Himanshu"
-        ],
-        "ID": "2012.07022",
-        "Title": "QED Effect on Black Hole Shadow",
-        "url": "<a href='http://arxiv.org/abs/2012.07022v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Sajad Abbar",
-            "Francesco Capozzi",
-            "Robert Glas",
-            "H. -Thomas Janka",
-            "Irene Tamborra"
-        ],
-        "Comment": "",
-        "Date": "15 December 2020",
-        "For": [
-            "Himanshu"
-        ],
-        "ID": "2012.06594",
-        "Title": "On the characteristics of fast neutrino flavor instabilities in three-dimensional core-collapse supernova models",
-        "url": "<a href='http://arxiv.org/abs/2012.06594v1' target='_blank'>Link</a>"
-    },
-    {
-        "Aamulti": "a",
-        "Authors": [
-            "Hao Geng",
-            "Andreas Karch",
-            "Carlos Perez-Pardavila",
-            "Suvrat Raju",
-            "Lisa Randall",
-            "Marcos Riojas",
-            "Sanjit Shashi"
-        ],
-        "Comment": "",
-        "Date": "15 December 2020",
+        "Date": "5 January 2021",
         "For": [
             "Jaffino"
         ],
-        "ID": "2012.04671",
-        "Title": "Information Transfer with a Gravitating Bath",
-        "url": "<a href='http://arxiv.org/abs/2012.04671v1' target='_blank'>Link</a>"
+        "ID": "2012.14912",
+        "Title": "A path integral formulation for particle detectors: the Unruh-DeWitt model as a line defect",
+        "url": "<a href='http://dx.doi.org/10.1007/JHEP03(2021)076' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Wen-Bo Zhao",
+            "Guo-Rong Liu",
+            "Nan Li"
+        ],
+        "Comment": "",
+        "Date": "5 January 2021",
+        "For": [
+            "Jaffino",
+            "Kinjalk"
+        ],
+        "ID": "2012.13921",
+        "Title": "Hawking--Page phase transitions of the black holes in a cavity",
+        "url": "<a href='http://arxiv.org/abs/2012.13921v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Abdulrahim Al Balushi",
-            "Zhencheng Wang",
-            "Donald Marolf"
+            "Salvatore Capozziello",
+            "Orlando Luongo",
+            "Lorenza Mauro"
         ],
-        "Comment": "",
-        "Date": "15 December 2020",
+        "Comment": "wormholes",
+        "Date": "5 January 2021",
         "For": [
             "Harkirat"
         ],
-        "ID": "2012.04635",
-        "Title": "Traversability of Multi-Boundary Wormholes",
-        "url": "<a href='http://arxiv.org/abs/2012.04635v1' target='_blank'>Link</a>"
+        "ID": "2012.13908",
+        "Title": "Traversable wormholes with vanishing sound speed in $f(R)$ gravity",
+        "url": "<a href='http://arxiv.org/abs/2012.13908v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "I. D. Novikov",
+            "D. I. Novikov",
+            "S. V. Repin"
+        ],
+        "Comment": "wormholes",
+        "Date": "5 January 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2012.13788",
+        "Title": "Disintegration and expansion of wormholes",
+        "url": "<a href='http://dx.doi.org/10.1103/PhysRevD.102.124073' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "R. Kh. Karimov",
+            "R. N. Izmailov",
+            "A. A. Potapov",
+            "K. K. Nandi"
+        ],
+        "Comment": "group meeting",
+        "Date": "5 January 2021",
+        "For": [
+            "\u2605Everyone",
+            "Jaffino"
+        ],
+        "ID": "2012.13564",
+        "Title": "Can accretion properties distinguish between a naked singularity, wormhole and black hole?",
+        "url": "<a href='http://dx.doi.org/10.1140/epjc/s10052-020-08717-x' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Salvatore Capozziello",
+            "Gaetano Lambiase"
+        ],
+        "Comment": "",
+        "Date": "5 January 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2012.13205",
+        "Title": "The gravitino problem in Extended Gravity cosmologies",
+        "url": "<a href='http://arxiv.org/abs/2012.13205v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Seramika Ariwahjoedi",
+            "Agus Suroso",
+            "F. P. Zen"
+        ],
+        "Comment": "",
+        "Date": "5 January 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2012.12171",
+        "Title": "(3+1)-Formulation for Gravity with Torsion and Non-Metricity: The Stress-Energy-Momentum Equation",
+        "url": "<a href='http://dx.doi.org/10.1088/1361-6382/abf27a' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Yuuki Sugiyama",
+            "Kazuhiro Yamamoto",
+            "Tsutomu Kobayashi"
+        ],
+        "Comment": "",
+        "Date": "5 January 2021",
+        "For": [
+            "Kinjalk",
+            "Jaffino"
+        ],
+        "ID": "2012.15004",
+        "Title": "Gravitational waves in Kasner spacetimes and Rindler wedges in Regge-Wheeler gauge: Unruh effect",
+        "url": "<a href='http://arxiv.org/abs/2012.15004v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Erik Aurell",
+            "Micha\u0142 Eckstein",
+            "Pawe\u0142 Horodecki"
+        ],
+        "Comment": "",
+        "Date": "5 January 2021",
+        "For": [
+            "Kinjalk"
+        ],
+        "ID": "2012.14418",
+        "Title": "Quantum information in Hawking radiation",
+        "url": "<a href='http://arxiv.org/abs/2012.14418v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Takehiko Asaka",
+            "Hisashi Okui"
+        ],
+        "Comment": "",
+        "Date": "5 January 2021",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2012.13527",
+        "Title": "Neutrino masses and gravitational wave background",
+        "url": "<a href='http://dx.doi.org/10.1016/j.physletb.2021.136074' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Alberto S. Cattaneo",
+            "Pavel Mnev",
+            "Konstantin Wernli"
+        ],
+        "Comment": "",
+        "Date": "5 January 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2012.13270",
+        "Title": "Constrained systems, generalized Hamilton-Jacobi actions, and quantization",
+        "url": "<a href='http://arxiv.org/abs/2012.13270v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "P. M. Lavrov"
+        ],
+        "Comment": "",
+        "Date": "19 January 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2101.06868",
+        "Title": "Covariant quantization of Yang-Mills theory in the first order formalism",
+        "url": "<a href='http://dx.doi.org/10.1016/j.physletb.2021.136182' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "M. V. Teslyk",
+            "O. M. Teslyk",
+            "L. V. Zadorozhna",
+            "L. Bravina",
+            "E. Zabrodin"
+        ],
+        "Comment": "",
+        "Date": "19 January 2021",
+        "For": [
+            "Jaffino"
+        ],
+        "ID": "2101.06668",
+        "Title": "Unruh effect and information entropy approach",
+        "url": "<a href='http://arxiv.org/abs/2101.06668v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Tanmay Vachaspati",
+            "Alexander Vilenkin"
+        ],
+        "Comment": "",
+        "Date": "19 January 2021",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2101.06344",
+        "Title": "Cosmological chirality and magnetic fields from parity violating particle decays",
+        "url": "<a href='http://arxiv.org/abs/2101.06344v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Bobir Toshmatov",
+            "Bobomurat Ahmedov",
+            "Daniele Malafarina"
+        ],
+        "Comment": "",
+        "Date": "19 January 2021",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2101.05496",
+        "Title": "Can a light ray distinguish charge of a black hole in nonlinear electrodynamics?",
+        "url": "<a href='http://dx.doi.org/10.1103/PhysRevD.103.024026' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Gong Cheng",
+            "Fengquan Wu",
+            "Xuelei Chen"
+        ],
+        "Comment": "",
+        "Date": "29 January 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2101.11875",
+        "Title": "Cosmological test of an extended quintessence model",
+        "url": "<a href='http://arxiv.org/abs/2101.11875v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Flaminia Giacomini"
+        ],
+        "Comment": "",
+        "Date": "29 January 2021",
+        "For": [
+            "Harkirat",
+            "Kinjalk"
+        ],
+        "ID": "2101.11628",
+        "Title": "Spacetime Quantum Reference Frames and superpositions of proper times",
+        "url": "<a href='http://arxiv.org/abs/2101.11628v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Jules Tilly",
+            "Ryan J. Marshman",
+            "Anupam Mazumdar",
+            "Sougato Bose"
+        ],
+        "Comment": "",
+        "Date": "29 January 2021",
+        "For": [
+            "Jaffino"
+        ],
+        "ID": "2101.08086",
+        "Title": "Qudits for Witnessing Quantum Gravity Induced Entanglement of Masses Under Decoherence",
+        "url": "<a href='http://arxiv.org/abs/2101.08086v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Avik De",
+            "Tee-How Loo",
+            "Raja Solanki",
+            "P. K. Sahoo"
+        ],
+        "Comment": "",
+        "Date": "29 January 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2101.11576",
+        "Title": "A Conformally Flat Generalized Ricci Recurrent Spacetime in F(R)-Gravity",
+        "url": "<a href='http://arxiv.org/abs/2101.11576v3' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "S. Abdallah",
+            "S. A. Franchino-Vi\u00f1as",
+            "M. B. Fr\u00f6b"
+        ],
+        "Comment": "",
+        "Date": "29 January 2021",
+        "For": [
+            "Ankit"
+        ],
+        "ID": "2101.11382",
+        "Title": "Trace anomaly for Weyl fermions using the Breitenlohner-Maison scheme for $\u03b3_*$",
+        "url": "<a href='http://arxiv.org/abs/2101.11382v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Alejandro Perez",
+            "Salvatore Ribisi"
+        ],
+        "Comment": "",
+        "Date": "29 January 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2101.11923",
+        "Title": "Energy-mass equivalence from Maxwell equations",
+        "url": "<a href='http://arxiv.org/abs/2101.11923v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "M. S. Shikakhwa",
+            "N. Chair"
+        ],
+        "Comment": "",
+        "Date": "2 Feb 2021",
+        "For": [
+            "\u2605Everyone"
+        ],
+        "ID": "2102.00896",
+        "Title": "Constructing Hermitian Hamiltonians for spin zero neutral and charged particles on a curved surface : physical approach",
+        "url": "<a href='http://arxiv.org/abs/2102.00896v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Roberto Niardi",
+            "Giampiero Esposito",
+            "Francesco Tramontano"
+        ],
+        "Comment": "",
+        "Date": "2 Feb 2021",
+        "For": [
+            "Ankit"
+        ],
+        "ID": "2102.00478",
+        "Title": "Divergent part of the stress-energy tensor for Maxwell's theory in curved space-time: a systematic derivation",
+        "url": "<a href='http://arxiv.org/abs/2102.00478v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Thomas W. Baumgarte",
+            "Stuart L. Shapiro"
+        ],
+        "Comment": "",
+        "Date": "2 Feb 2021",
+        "For": [
+            "Kinjalk",
+            "Harkirat"
+        ],
+        "ID": "2101.12220",
+        "Title": "Neutron Stars Harboring a Primordial Black Hole: Maximum Survival Time",
+        "url": "<a href='http://arxiv.org/abs/2101.12220v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Jorge Kurchan"
+        ],
+        "Comment": "",
+        "Date": "2 Feb 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2101.12702",
+        "Title": "Time-reparametrization invariances, multithermalization and the Parisi scheme",
+        "url": "<a href='http://arxiv.org/abs/2101.12702v3' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Shuo Li",
+            "Junjie He",
+            "Petr Nachtigall",
+            "Lukas Grajciar",
+            "Federico Brivio"
+        ],
+        "Comment": "",
+        "Date": "2 Feb 2021",
+        "For": [
+            "Harkirat",
+            "\u2605Everyone"
+        ],
+        "ID": "2101.12658",
+        "Title": "Doping isolated one-dimensional antiferro-magnetic semiconductor Vanadium tetrasulfide ($VS_4$) nanowires with carriers induces half-metallicity",
+        "url": "<a href='http://arxiv.org/abs/2101.12658v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "M. R. Setare",
+            "M. Koohgard"
+        ],
+        "Comment": "",
+        "Date": "2 Feb 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2101.12013",
+        "Title": "Holographic Entanglement Entropy in flat limit of the Generalized Minimal Massive Gravity model",
+        "url": "<a href='http://arxiv.org/abs/2101.12013v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Alejandro Aguilar-Salas",
+            "Efra\u00edn Rojas"
+        ],
+        "Comment": "",
+        "Date": "2 Feb 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2101.11781",
+        "Title": "Hamilton-Jacobi approach for linearly acceleration-dependent Lagrangians",
+        "url": "<a href='http://arxiv.org/abs/2101.11781v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Daniel Carney",
+            "Holger M\u00fcller",
+            "Jacob M. Taylor"
+        ],
+        "Comment": "",
+        "Date": "2 Feb 2021",
+        "For": [
+            "Jaffino"
+        ],
+        "ID": "2101.11629",
+        "Title": "Testing quantum gravity with interactive information sensing",
+        "url": "<a href='http://arxiv.org/abs/2101.11629v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Yi-Neng Zhou",
+            "Liang Mao",
+            "Hui Zhai"
+        ],
+        "Comment": "",
+        "Date": "2 Feb 2021",
+        "For": [
+            "Jaffino",
+            "Kinjalk"
+        ],
+        "ID": "2101.11236",
+        "Title": "Renyi Entropy Dynamics and Lindblad Spectrum for Open Quantum System",
+        "url": "<a href='http://arxiv.org/abs/2101.11236v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Ayoub Mounim",
+            "Wolfgang M\u00fcck"
+        ],
+        "Comment": "",
+        "Date": "2 Feb 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2101.10909",
+        "Title": "Reparameterization Dependence is Useful for Holographic Complexity",
+        "url": "<a href='http://arxiv.org/abs/2101.10909v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Adam Koberinski"
+        ],
+        "Comment": "",
+        "Date": "2 Feb 2021",
+        "For": [
+            "Ankit"
+        ],
+        "ID": "2101.10891",
+        "Title": "Regularizing (away) vacuum energy",
+        "url": "<a href='http://dx.doi.org/10.1007/s10701-021-00442-z' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Michael R. R. Good",
+            "Eric V. Linder"
+        ],
+        "Comment": "",
+        "Date": "2 Feb 2021",
+        "For": [
+            "Jaffino",
+            "Kinjalk"
+        ],
+        "ID": "2101.10576",
+        "Title": "Light and Airy: a simple solution for relativistic quantum acceleration radiation",
+        "url": "<a href='http://dx.doi.org/10.3390/universe7030060' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Gustav Uhre Jakobsen",
+            "Gustav Mogull",
+            "Jan Plefka",
+            "Jan Steinhoff"
+        ],
+        "Comment": "group meeting",
+        "Date": "2 Feb 2021",
+        "For": [
+            "Ankit",
+            "Harkirat"
+        ],
+        "ID": "2101.12688",
+        "Title": "Classical Gravitational Bremsstrahlung from a Worldline Quantum Field Theory",
+        "url": "<a href='http://arxiv.org/abs/2101.12688v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Hugo A. Camargo",
+            "Lucas Hackl",
+            "Michal P. Heller",
+            "Alexander Jahn",
+            "Bennet Windt"
+        ],
+        "Comment": "",
+        "Date": "2 Feb 2021",
+        "For": [
+            "Kinjalk"
+        ],
+        "ID": "2102.00013",
+        "Title": "Long-distance entanglement of purification and reflected entropy in conformal field theory",
+        "url": "<a href='http://arxiv.org/abs/2102.00013v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Ciprian Dariescu",
+            "Marina-Aura Dariescu",
+            "Cristian Stelea"
+        ],
+        "Comment": "",
+        "Date": "9 Feb 2021",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2102.03850",
+        "Title": "Dirac Equation on Kerr--Newman spacetime and Heun functions",
+        "url": "<a href='http://arxiv.org/abs/2102.03850v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Marzieh Akbari Ahmadmahmoudi",
+            "Ehsan Bavarsad"
+        ],
+        "Comment": "",
+        "Date": "9 Feb 2021",
+        "For": [
+            "Ankit"
+        ],
+        "ID": "2102.03407",
+        "Title": "Energy-momentum tensor and effective Lagrangian of scalar QED with a nonminimal coupling in 2D de Sitter spacetime",
+        "url": "<a href='http://arxiv.org/abs/2102.03407v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Gianluca Calcagni"
+        ],
+        "Comment": "",
+        "Date": "9 Feb 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2102.03363",
+        "Title": "Scalar and gravity quantum field theories with fractional operators",
+        "url": "<a href='http://arxiv.org/abs/2102.03363v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Rajibul Shaikh",
+            "Kunal Pal",
+            "Kuntal Pal",
+            "Tapobrata Sarkar"
+        ],
+        "Comment": "",
+        "Date": "9 Feb 2021",
+        "For": [
+            "\u2605Everyone"
+        ],
+        "ID": "2102.04299",
+        "Title": "Constraining alternatives to the Kerr black hole",
+        "url": "<a href='http://arxiv.org/abs/2102.04299v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Christopher Beetle",
+            "Jonathan Steven Engle",
+            "Matthew Ernest Hogan",
+            "Phillip Mendon\u00e7a"
+        ],
+        "Comment": "",
+        "Date": "9 Feb 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2102.03901",
+        "Title": "Quantum isotropy and the reduction of dynamics in Bianchi I",
+        "url": "<a href='http://arxiv.org/abs/2102.03901v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Andr\u00e9s E. Piatti"
+        ],
+        "Comment": "",
+        "Date": "9 Feb 2021",
+        "For": [
+            "Harkirat",
+            "Jaffino"
+        ],
+        "ID": "2102.03601",
+        "Title": "Revisiting newly Large Magellanic Cloud age gap star clusters",
+        "url": "<a href='http://dx.doi.org/10.3847/1538-3881/abe545' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Alejandro Ayala",
+            "L. A. Hern\u00e1ndez",
+            "K. Raya",
+            "R. Zamora"
+        ],
+        "Comment": "",
+        "Date": "9 Feb 2021",
+        "For": [
+            "Ankit",
+            "Himanshu"
+        ],
+        "ID": "2102.03476",
+        "Title": "Fermion propagator in a rotating environment",
+        "url": "<a href='http://arxiv.org/abs/2102.03476v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Jos\u00e9 de Ram\u00f3n",
+            "Maria Papageorgiou",
+            "Eduardo Mart\u00edn-Mart\u00ednez"
+        ],
+        "Comment": "",
+        "Date": "9 Feb 2021",
+        "For": [
+            "Jaffino"
+        ],
+        "ID": "2102.03408",
+        "Title": "Relativistic causality in particle detector models: Faster-than-light signalling and \"Impossible measurements\"",
+        "url": "<a href='http://arxiv.org/abs/2102.03408v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Kohki Kawabata",
+            "Tatsuma Nishioka",
+            "Yoshitaka Okuyama",
+            "Kento Watanabe"
+        ],
+        "Comment": "",
+        "Date": "9 Feb 2021",
+        "For": [
+            "Jaffino"
+        ],
+        "ID": "2102.02425",
+        "Title": "Probing Hawking radiation through capacity of entanglement",
+        "url": "<a href='http://arxiv.org/abs/2102.02425v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Thomas Berry",
+            "Alex Simpson",
+            "Matt Visser"
+        ],
+        "Comment": "project student",
+        "Date": "9 Feb 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2102.02471",
+        "Title": "General class of \"quantum deformed\" regular black holes",
+        "url": "<a href='http://arxiv.org/abs/2102.02471v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Yan Peng"
+        ],
+        "Comment": "project student",
+        "Date": "9 Feb 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2102.01245",
+        "Title": "Investigations on hoop conjecture for horizonless spherical charged stars",
+        "url": "<a href='http://dx.doi.org/10.1016/j.nuclphysb.2021.115342' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Alexey Bobrick",
+            "Gianni Martire"
+        ],
+        "Comment": "",
+        "Date": "19 Feb 2021",
+        "For": [
+            "Kinjalk"
+        ],
+        "ID": "2102.06824",
+        "Title": "Introducing Physical Warp Drives",
+        "url": "<a href='http://dx.doi.org/10.1088/1361-6382/abdf6e' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Fayez Abu-Ajamieh"
+        ],
+        "Comment": "",
+        "Date": "19 Feb 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2101.06932",
+        "Title": "Model-independent Veltman Condition, Naturalness and the Little Hierarchy Problem",
+        "url": "<a href='http://arxiv.org/abs/2101.06932v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Samuel Kov\u00e1\u010dik"
+        ],
+        "Comment": "",
+        "Date": "19 Feb 2021",
+        "For": [
+            "Harkirat",
+            "Kinjalk",
+            "Ankit"
+        ],
+        "ID": "2102.06517",
+        "Title": "Hawking-Radiation Recoil of Microscopic Black Holes",
+        "url": "<a href='http://arxiv.org/abs/2102.06517v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Florencia Ben\u00edtez",
+            "Rodolfo Gambini",
+            "Jorge Pullin"
+        ],
+        "Comment": "",
+        "Date": "19 Feb 2021",
+        "For": [
+            "Harkirat",
+            "Dipayan"
+        ],
+        "ID": "2102.09501",
+        "Title": "A covariant polymerized scalar field in loop quantum gravity",
+        "url": "<a href='http://arxiv.org/abs/2102.09501v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Ran Li",
+            "Kun Zhang",
+            "Jin Wang"
+        ],
+        "Comment": "",
+        "Date": "19 Feb 2021",
+        "For": [
+            "Dipayan",
+            "Harkirat"
+        ],
+        "ID": "2102.09439",
+        "Title": "Probing black hole microstructure with the kinetic turnover of phase transition",
+        "url": "<a href='http://arxiv.org/abs/2102.09439v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Juan Carlos Del \u00c1guila",
+            "Tonatiuh Matos"
+        ],
+        "Comment": "Wormholes",
+        "Date": "19 Feb 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2102.09160",
+        "Title": "Spherically symmetric wormholes can be linearly stable",
+        "url": "<a href='http://arxiv.org/abs/2102.09160v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Ayan Chatterjee",
+            "Suresh C. Jaryal"
+        ],
+        "Comment": "",
+        "Date": "19 Feb 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2102.08717",
+        "Title": "Gravitationally collapsing stars in $f(R)$ gravity",
+        "url": "<a href='http://arxiv.org/abs/2102.08717v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Rafkat Galeev",
+            "Ruslan Muharlyamov",
+            "Alexei A. Starobinsky",
+            "Sergey V. Sushkov",
+            "Mikhail S. Volkov"
+        ],
+        "Comment": "",
+        "Date": "23 Feb 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2102.10981",
+        "Title": "Anisotropic cosmological models in Horndeski gravity",
+        "url": "<a href='http://arxiv.org/abs/2102.10981v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Roberto Casadio",
+            "Alexander Kamenshchik",
+            "Iber\u00ea Kuntz"
+        ],
+        "Comment": "",
+        "Date": "23 Feb 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2102.10688",
+        "Title": "Covariant singularities in Quantum Field Theory and Quantum Gravity",
+        "url": "<a href='http://arxiv.org/abs/2102.10688v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Martin Bojowald"
+        ],
+        "Comment": "",
+        "Date": "23 Feb 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2102.11130",
+        "Title": "Non-covariance of \"covariant polymerization\" in models of loop quantum gravity",
+        "url": "<a href='http://arxiv.org/abs/2102.11130v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Hiroki Matsui"
+        ],
+        "Comment": "",
+        "Date": "23 Feb 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2102.09767",
+        "Title": "Lorentzian path integral for quantum tunneling and WKB approximation for wave-function",
+        "url": "<a href='http://arxiv.org/abs/2102.09767v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Joseph P Johnson",
+            "Archana Sangwan",
+            "S. Shankaranarayanan"
+        ],
+        "Comment": "",
+        "Date": "26 Feb 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2102.12367",
+        "Title": "Cosmological perturbations in the interacting dark sector: Observational constraints and predictions",
+        "url": "<a href='http://arxiv.org/abs/2102.12367v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Leonardo Giani",
+            "Emmanuel Frion",
+            "Oliver Fabio Piattella"
+        ],
+        "Comment": "",
+        "Date": "26 Feb 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2102.11735",
+        "Title": "Impact of inhomogeneities on slowly rolling Quintessence: implications for the local variations of the fine-structure constant",
+        "url": "<a href='http://arxiv.org/abs/2102.11735v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Saurya Das",
+            "Sujoy K. Modak"
+        ],
+        "Comment": "",
+        "Date": "26 Feb 2021",
+        "For": [
+            "Harkirat",
+            "Jaffino"
+        ],
+        "ID": "2102.11353",
+        "Title": "A novel mechanism for probing the Planck scale",
+        "url": "<a href='http://arxiv.org/abs/2102.11353v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Md Sabir Ali",
+            "Sourav Bhattacharya",
+            "Shankhadeep Chakrabortty",
+            "Shagun Kaushal"
+        ],
+        "Comment": "",
+        "Date": "26 Feb 2021",
+        "For": [
+            "Ankit"
+        ],
+        "ID": "2102.11745",
+        "Title": "Fermionic Bell violation in the presence of background electromagnetic fields in the cosmological de Sitter spacetime",
+        "url": "<a href='http://arxiv.org/abs/2102.11745v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Martin Bojowald"
+        ],
+        "Comment": "",
+        "Date": "26 Feb 2021",
+        "For": [
+            "Dipayan",
+            "Harkirat"
+        ],
+        "ID": "2102.11130",
+        "Title": "Non-covariance of \"covariant polymerization\" in models of loop quantum gravity",
+        "url": "<a href='http://arxiv.org/abs/2102.11130v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Kensuke Gallock-Yoshimura",
+            "Erickson Tjoa",
+            "Robert B. Mann"
+        ],
+        "Comment": "",
+        "Date": "26 Feb 2021",
+        "For": [
+            "Jaffino"
+        ],
+        "ID": "2102.09573",
+        "Title": "Harvesting Entanglement with Detectors Freely Falling into a Black Hole",
+        "url": "<a href='http://arxiv.org/abs/2102.09573v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Ion I. Cotaescu"
+        ],
+        "Comment": "",
+        "Date": "26 Feb 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2102.12100",
+        "Title": "Quantum theory of redshift in de Sitter expanding universe",
+        "url": "<a href='http://arxiv.org/abs/2102.12100v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Marlon Brenes",
+            "Silvia Pappalardi",
+            "Mark T. Mitchison",
+            "John Goold",
+            "Alessandro Silva"
+        ],
+        "Comment": "",
+        "Date": "2 March 2021",
+        "For": [
+            "Kinjalk"
+        ],
+        "ID": "2103.01161",
+        "Title": "Out-of-time-order correlations and the fine structure of eigenstate thermalisation",
+        "url": "<a href='http://arxiv.org/abs/2103.01161v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Tajron Juri\u0107"
+        ],
+        "Comment": "",
+        "Date": "2 March 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2103.01080",
+        "Title": "Observables in Quantum Mechanics and the importance of self-adjointness",
+        "url": "<a href='http://arxiv.org/abs/2103.01080v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Roberto Casadio"
+        ],
+        "Comment": "",
+        "Date": "2 March 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2103.00183",
+        "Title": "Quantum black holes and resolution of the singularity",
+        "url": "<a href='http://arxiv.org/abs/2103.00183v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Fabio Briscese",
+            "Leonardo Modesto"
+        ],
+        "Comment": "",
+        "Date": "2 March 2021",
+        "For": [
+            "Ankit",
+            "Kinjalk"
+        ],
+        "ID": "2103.00353",
+        "Title": "Non-unitarity of Minkowskian non-local quantum field theories",
+        "url": "<a href='http://arxiv.org/abs/2103.00353v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Lat\u00e9vi Mohamed Lawson"
+        ],
+        "Comment": "imp",
+        "Date": "2 March 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2103.00089",
+        "Title": "Thermodynamics of ideal gas at Planck scale with strong quantum gravity measurement",
+        "url": "<a href='http://arxiv.org/abs/2103.00089v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Kenzo Ishikawa",
+            "Kenji Nishiwaki",
+            "Kin-ya Oda"
+        ],
+        "Comment": "",
+        "Date": "2 March 2021",
+        "For": [
+            "Kinjalk"
+        ],
+        "ID": "2102.12032",
+        "Title": "New effect in wave-packet scatterings of quantum fields: Saddle points, Lefschetz thimbles, and Stokes phenomenon",
+        "url": "<a href='http://arxiv.org/abs/2102.12032v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Salvatore Capozziello",
+            "Gaetano Lambiase",
+            "Arturo Stabile",
+            "Antonio Stabile"
+        ],
+        "Comment": "",
+        "Date": "2 March 2021",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2102.12401",
+        "Title": "Photon frequency shift in curvature based Extended Theories of Gravity",
+        "url": "<a href='http://arxiv.org/abs/2102.12401v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Eanna E Flanagan"
+        ],
+        "Comment": "",
+        "Date": "2 March 2021",
+        "For": [
+            "Kinjalk"
+        ],
+        "ID": "2102.13629",
+        "Title": "Infrared Effects in the Late Stages of Black Hole Evaporation",
+        "url": "<a href='http://arxiv.org/abs/2102.13629v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Kenzo Ishikawa",
+            "Kenji Nishiwaki",
+            "Kin-ya Oda"
+        ],
+        "Comment": "",
+        "Date": "2 March 2021",
+        "For": [
+            "Ankit"
+        ],
+        "ID": "2102.12032",
+        "Title": "New effect in wave-packet scatterings of quantum fields: Saddle points, Lefschetz thimbles, and Stokes phenomenon",
+        "url": "<a href='http://arxiv.org/abs/2102.12032v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Salvatore Capozziello",
+            "Gaetano Lambiase",
+            "Arturo Stabile",
+            "Antonio Stabile"
+        ],
+        "Comment": "",
+        "Date": "2 March 2021",
+        "For": [
+            "Himanshu",
+            "Dipayan",
+            "Harkirat"
+        ],
+        "ID": "2102.12401",
+        "Title": "Photon frequency shift in curvature based Extended Theories of Gravity",
+        "url": "<a href='http://arxiv.org/abs/2102.12401v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Lei-Hua Liu",
+            "Ai-Chen Li"
+        ],
+        "Comment": "Groupmeeting",
+        "Date": "2 March 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2102.12014",
+        "Title": "Complexity of non-trivial sound speed in inflation",
+        "url": "<a href='http://arxiv.org/abs/2102.12014v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Carsten van de Bruck",
+            "Richard Daniel"
+        ],
+        "Comment": "",
+        "Date": "2 March 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2102.11719",
+        "Title": "Inflation and Scale-invariant $R^2$-Gravity",
+        "url": "<a href='http://arxiv.org/abs/2102.11719v2' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "L. A. L\u00f3pez",
+            "Omar Pedraza"
+        ],
+        "Comment": "",
+        "Date": "12 March 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2103.06411",
+        "Title": "Effects of quintessence on scattering and absorption sections of black holes",
+        "url": "<a href='http://arxiv.org/abs/2103.06411v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Claudia de Rham",
+            "Scott Melville",
+            "Johannes Noller"
+        ],
+        "Comment": "",
+        "Date": "12 March 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2103.06855",
+        "Title": "Positivity Bounds on Dark Energy: When Matter Matters",
+        "url": "<a href='http://arxiv.org/abs/2103.06855v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Albert Escriv\u00e0",
+            "Antonio Enea Romano"
+        ],
+        "Comment": "",
+        "Date": "12 March 2021",
+        "For": [
+            "Harkirat",
+            "Jaffino"
+        ],
+        "ID": "2103.03867",
+        "Title": "Effects of the shape of curvature peaks on the size of primordial black holes",
+        "url": "<a href='http://arxiv.org/abs/2103.03867v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Shulei Cao",
+            "Tong-Jie Zhang",
+            "Xinya Wang",
+            "Tingting Zhang"
+        ],
+        "Comment": "",
+        "Date": "12 March 2021",
+        "For": [
+            "\u2605Everyone"
+        ],
+        "ID": "2103.03670",
+        "Title": "Cosmological Constraints on the Coupling Model from Observational Hubble Parameter and Baryon Acoustic Oscillation Measurements",
+        "url": "<a href='http://dx.doi.org/10.3390/universe7030057' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Priidik Gallagher",
+            "Tomi Koivisto"
+        ],
+        "Comment": "",
+        "Date": "12 March 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2103.05435",
+        "Title": "The $\u039b$ and the CDM as integration constants",
+        "url": "<a href='http://arxiv.org/abs/2103.05435v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Valerio Faraoni",
+            "Andrea Giusti"
+        ],
+        "Comment": "",
+        "Date": "12 March 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2103.05389",
+        "Title": "Thermodynamics of scalar-tensor gravity",
+        "url": "<a href='http://arxiv.org/abs/2103.05389v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Shin'ichi Nojiri",
+            "Sergei D. Odintsov",
+            "Diego Saez-Chillon Gomez",
+            "German S. Sharov"
+        ],
+        "Comment": "",
+        "Date": "12 March 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2103.05304",
+        "Title": "Modelling and testing the equation of state for (Early) dark energy",
+        "url": "<a href='http://arxiv.org/abs/2103.05304v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Leonardo Modesto"
+        ],
+        "Comment": "",
+        "Date": "12 March 2021",
+        "For": [
+            "\u2605Everyone"
+        ],
+        "ID": "2103.05536",
+        "Title": "The Higgs mechanism in nonlocal field theory",
+        "url": "<a href='http://arxiv.org/abs/2103.05536v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Eugenio Bianchi",
+            "Lucas Hackl",
+            "Mario Kieburg"
+        ],
+        "Comment": "",
+        "Date": "12 March 2021",
+        "For": [
+            "Jaffino"
+        ],
+        "ID": "2103.05416",
+        "Title": "The Page Curve for Fermionic Gaussian States",
+        "url": "<a href='http://arxiv.org/abs/2103.05416v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Euro Spallucci",
+            "Anais Smailagic"
+        ],
+        "Comment": "",
+        "Date": "12 March 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2103.03947",
+        "Title": "Horizons and the Wave Function of Planckian Quantum black holes",
+        "url": "<a href='http://arxiv.org/abs/2103.03947v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "P. T. Chru\u015bciel",
+            "Sk J. Hoque",
+            "M. Maliborski",
+            "T. Smo\u0142ka"
+        ],
+        "Comment": "",
+        "Date": "12 March 2021",
+        "For": [
+            "Dipayan",
+            "Harkirat"
+        ],
+        "ID": "2103.05982",
+        "Title": "On the canonical energy of weak gravitational fields with a cosmological constant $\u039b\\in \\mathbb{R}$",
+        "url": "<a href='http://arxiv.org/abs/2103.05982v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Nicolas Chagnet",
+            "Shira Chapman",
+            "Jan de Boer",
+            "Claire Zukowski"
+        ],
+        "Comment": "",
+        "Date": "16 March 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2103.06920",
+        "Title": "Complexity for Conformal Field Theories in General Dimensions",
+        "url": "<a href='http://arxiv.org/abs/2103.06920v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "J. Fernando Barbero G.",
+            "Juan Margalef-Bentabol",
+            "Valle Varo",
+            "Eduardo J. S. Villase\u00f1or"
+        ],
+        "Comment": "",
+        "Date": "16 March 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2103.06362",
+        "Title": "Covariant phase space for gravity with boundaries: metric vs tetrad formulations",
+        "url": "<a href='http://arxiv.org/abs/2103.06362v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Jiachen Li",
+            "Toma\u017e Prosen",
+            "Amos Chan"
+        ],
+        "Comment": "",
+        "Date": "16 March 2021",
+        "For": [
+            "Jaffino"
+        ],
+        "ID": "2103.05001",
+        "Title": "Spectral statistics of non-Hermitian matrices and dissipative quantum chaos",
+        "url": "<a href='http://arxiv.org/abs/2103.05001v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Michele Arzano"
+        ],
+        "Comment": "",
+        "Date": "16 March 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2103.07228",
+        "Title": "Vacuum thermal effects in flat space-time from conformal quantum mechanics",
+        "url": "<a href='http://arxiv.org/abs/2103.07228v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "L. Tan",
+            "N. C. Tsamis",
+            "R. P. Woodard"
+        ],
+        "Comment": "",
+        "Date": "19 March 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2103.08547",
+        "Title": "Graviton Self-Energy from Gravitons in Cosmology",
+        "url": "<a href='http://arxiv.org/abs/2103.08547v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Snehasish Bhattacharjee"
+        ],
+        "Comment": "",
+        "Date": "19 March 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2103.08444",
+        "Title": "Energy Conditions in $f(P)$ Gravity",
+        "url": "<a href='http://arxiv.org/abs/2103.08444v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Mihai Marciu"
+        ],
+        "Comment": "",
+        "Date": "19 March 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2103.08420",
+        "Title": "Dark effects in $f(R,P)$ gravity",
+        "url": "<a href='http://arxiv.org/abs/2103.08420v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Wompherdeiki Khyllep",
+            "Andronikos Paliathanasis",
+            "Jibitesh Dutta"
+        ],
+        "Comment": "",
+        "Date": "19 March 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2103.08372",
+        "Title": "Cosmological solutions and growth index of matter perturbations in $f(Q)$ gravity",
+        "url": "<a href='http://arxiv.org/abs/2103.08372v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Alexei A. Deriglazov"
+        ],
+        "Comment": "",
+        "Date": "19 March 2021",
+        "For": [
+            "Himanshu"
+        ],
+        "ID": "2103.07794",
+        "Title": "Massless polarized particle and Faraday rotation of light in the Schwarzschild spacetime",
+        "url": "<a href='http://arxiv.org/abs/2103.07794v2' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "b",
@@ -143,74 +1536,175 @@
             "Cesar Gomez",
             "Raul Jimenez"
         ],
-        "Comment": "",
-        "Date": "15 December 2020",
+        "Comment": "groupmeeting",
+        "Date": "19 March 2021",
         "For": [
             "Ankit",
-            "Jaffino"
+            "Harkirat"
         ],
-        "ID": "2012.04003",
-        "Title": "The Quantum Origin of Quasi de Sitter: a Model Independent Quantum Cosmological Tilt",
-        "url": "<a href='http://arxiv.org/abs/2012.04003v1' target='_blank'>Link</a>"
+        "ID": "2103.10144",
+        "Title": "Model Independent Prediction of the Spectral Index of Primordial Quantum Fluctuations",
+        "url": "<a href='http://arxiv.org/abs/2103.10144v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Konstantinos Dimopoulos",
-            "Samuel S\u00e1nchez L\u00f3pez"
+            "Sadra Jazayeri",
+            "Enrico Pajer",
+            "David Stefanyszyn"
         ],
         "Comment": "",
-        "Date": "15 December 2020",
+        "Date": "19 March 2021",
+        "For": [
+            "Ankit"
+        ],
+        "ID": "2103.08649",
+        "Title": "From Locality and Unitarity to Cosmological Correlators",
+        "url": "<a href='http://arxiv.org/abs/2103.08649v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Ugo Moschella",
+            "Mario Novello"
+        ],
+        "Comment": "",
+        "Date": "23 March 2021",
         "For": [
             "Dipayan"
         ],
-        "ID": "2012.06831",
-        "Title": "Quintessential inflation in Palatini $f(R)$ gravity",
-        "url": "<a href='http://arxiv.org/abs/2012.06831v1' target='_blank'>Link</a>"
+        "ID": "2103.10473",
+        "Title": "New dynamical features of pure k-essential cosmologies",
+        "url": "<a href='http://arxiv.org/abs/2103.10473v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Jiaming Shi",
+            "Zheng Fang",
+            "Taotao Qiu"
+        ],
+        "Comment": "",
+        "Date": "23 March 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2103.11634",
+        "Title": "Duality of cosmological models with varying slow-roll parameter and sound speed",
+        "url": "<a href='http://arxiv.org/abs/2103.11634v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "b",
         "Authors": [
-            "Spiros Cotsakis",
-            "Dimitrios Trachilis"
+            "Fabrizio Canfora",
+            "Adolfo Cisterna",
+            "Sebastian Fuenzalida",
+            "Carla Henriquez-Baez",
+            "Julio Oliva"
         ],
-        "Comment": "",
-        "Date": "15 December 2020",
+        "Comment": "groupmeeting",
+        "Date": "23 March 2021",
         "For": [
-            "Dipayan",
-            "Harkirat"
+            "Harkirat",
+            "Ankit",
+            "Dipayan"
         ],
-        "ID": "2012.05850",
-        "Title": "The radiation instability in modified gravity",
-        "url": "<a href='http://arxiv.org/abs/2012.05850v1' target='_blank'>Link</a>"
+        "ID": "2103.09110",
+        "Title": "General Relativity from Einstein-Gauss-Bonnet gravity",
+        "url": "<a href='http://arxiv.org/abs/2103.09110v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "G. G. L. Nashed",
-            "S. Nojiri"
+            "Maciej Kolanowski",
+            "Jerzy Lewandowski"
         ],
         "Comment": "",
-        "Date": "15 December 2020",
+        "Date": "30 March 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2103.14674",
+        "Title": "Hamiltonian charges in the asymptotically de Sitter spacetimes",
+        "url": "<a href='http://arxiv.org/abs/2103.14674v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "b",
+        "Authors": [
+            "Abhay Ashtekar",
+            "Brajesh Gupt",
+            "V. Sreenath"
+        ],
+        "Comment": "",
+        "Date": "30 March 2021",
+        "For": [
+            "Harkirat",
+            "Dipayan"
+        ],
+        "ID": "2103.14568",
+        "Title": "Cosmic tango between the very small and the very large: Addressing CMB anomalies through Loop Quantum Cosmology",
+        "url": "<a href='http://arxiv.org/abs/2103.14568v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Grzegorz Czelusta",
+            "Jakub Mielczarek"
+        ],
+        "Comment": "",
+        "Date": "30 March 2021",
+        "For": [
+            "Harkirat"
+        ],
+        "ID": "2103.14996",
+        "Title": "Secure quantum communication through a wormhole",
+        "url": "<a href='http://arxiv.org/abs/2103.14996v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "David Langlois",
+            "Karim Noui",
+            "Hugo Roussille"
+        ],
+        "Comment": "",
+        "Date": "30 March 2021",
         "For": [
             "Dipayan"
         ],
-        "ID": "2012.05711",
-        "Title": "Non-trivial black hole solutions in $\\mathit{f(R)}$ gravitational theory",
-        "url": "<a href='http://dx.doi.org/10.1103/PhysRevD.102.124022' target='_blank'>Link</a>"
+        "ID": "2103.14750",
+        "Title": "Black hole perturbations in modified gravity",
+        "url": "<a href='http://arxiv.org/abs/2103.14750v1' target='_blank'>Link</a>"
     },
     {
         "Aamulti": "a",
         "Authors": [
-            "Tim Schmitz"
+            "Thanasis Karakasis",
+            "Eleftherios Papantonopoulos",
+            "Zi-Yu Tang",
+            "Bin Wang"
         ],
         "Comment": "",
-        "Date": "15 December 2020",
+        "Date": "30 March 2021",
+        "For": [
+            "Dipayan"
+        ],
+        "ID": "2103.14141",
+        "Title": "Exact Black Hole Solutions with a Conformally Coupled Scalar Field and Dynamic Ricci Curvature in $f(R)$ Gravity Theories",
+        "url": "<a href='http://arxiv.org/abs/2103.14141v1' target='_blank'>Link</a>"
+    },
+    {
+        "Aamulti": "a",
+        "Authors": [
+            "Roberto Casadio"
+        ],
+        "Comment": "",
+        "Date": "30 March 2021",
         "For": [
             "Harkirat"
         ],
-        "ID": "2012.04383",
-        "Title": "Exteriors to bouncing collapse models",
-        "url": "<a href='http://arxiv.org/abs/2012.04383v1' target='_blank'>Link</a>"
+        "ID": "2103.14582",
+        "Title": "A quantum bound on the compactness",
+        "url": "<a href='http://arxiv.org/abs/2103.14582v1' target='_blank'>Link</a>"
     }
 ]
