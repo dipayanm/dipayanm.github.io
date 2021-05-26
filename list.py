@@ -29,7 +29,7 @@ data = data0.iloc[:, -entry:]
 papers = []
 people = {"j": "Jaffino", "hm": "Himanshu", "a": "Ankit",
           "d": "Dipayan", "h": "Harkirat", "k": "Kinjalk",
-          "e": "★Everyone", "v": "Vikram"}
+          "e": "★Everyone", "v": "Vikram", "db": "Debottam"}
 
 
 print(bcolors.WARNING + "Creating JSON entry for the assignments" + bcolors.ENDC)
