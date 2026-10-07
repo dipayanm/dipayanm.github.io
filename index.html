@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dipayan Mukherjee</title>
+<link rel="preload" href="fonts/IBMPlexMono-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="style.css">
+<script>
+  // Apply the saved theme before first paint to avoid a flash.
+  try {
+    if (localStorage.getItem('theme') === 'light') {
+      document.documentElement.setAttribute('data-theme', 'light');
+    }
+  } catch (e) {}
+</script>
+<script>
+  window.MathJax = {
+    tex: {
+      ams: {
+        multlineWidth: '85%'
+      },
+      tags: 'ams',
+      tagSide: 'right',
+      tagIndent: '.8em'
+    },
+    chtml: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    svg: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    output: {
+      font: 'mathjax-modern',
+      displayOverflow: 'overflow'
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="page">
+
+  <header class="site-header">
+    <div class="identity">
+      <span class="avatar hanko" role="img" aria-label="Hanko"></span>
+      <div class="identity-text">
+        <h1>Dipayan Mukherjee</h1>
+        <p class="tagline t1">Postdoctoral Fellow</p>
+        <p class="tagline t2">Astronomy &amp; Astrophysics<span class="sep"> &middot; </span><span class="nowrap">Raman Research Institute</span></p>
+      </div>
+      <nav class="links">
+        <a class="l1" href="https://www.rri.res.in/people/postdoctoral-fellows/dipayan-mukherjee">RRI page</a>
+        <a class="l2" href="https://inspirehep.net/authors/1865284">INSPIRE</a>
+        <a class="l3" href="https://scholar.google.com/citations?user=vJxxkZ0AAAAJ&amp;hl=en">G Scholar</a>
+      </nav>
+    </div>
+    <nav class="site-nav">
+      <a href="index.html" class="active">About</a>
+      <a href="research.html">Research</a>
+      <a href="elsewhere.html">Elsewhere</a>
+    </nav>
+  </header>
+
+  <main>
+<section id="outline-container-org147f797" class="outline-2">
+<h2 id="org147f797">About</h2>
+<div class="outline-text-2" id="text-org147f797">
+<p>
+On the largest scales, the Universe is strikingly simple, nearly the same everywhere and in every direction, which lets us describe it with mathematical and statistical tools built upon a few physical principles.
+</p>
+
+<p>
+I explore the origin, evolution, and nature of the Universe through minimal models.
+</p>
+
+<p>
+I am currently a Postdoctoral Fellow in the Astronomy &amp; Astrophysics group at the <a href="https://www.rri.res.in">Raman Research Institute</a>, Bengaluru. I did my PhD at the <a href="https://www.iisermohali.ac.in">Indian Institute of Science Education and Research (IISER) Mohali</a>. Before that, I was at <a href="https://www.visvabharati.ac.in">Visva-Bharati</a>, Santiniketan, where I went to school at Patha Bhavana and completed my bachelor&rsquo;s and master&rsquo;s degrees at Siksha Bhavana.
+</p>
+
+<p>
+You can read more about my work on the <a href="research.html">Research</a> page.
+</p>
+</div>
+</section>
+  </main>
+
+  <footer>
+    <div class="footer-text">
+      <p class="email">Contact: dipayan [at] rrimail.rri.res.in</p>
+      <p>Last updated 7 October 2026 &middot; Generated with Emacs <a href="https://orgmode.org">Org mode</a></p>
+    </div>
+    <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle light and dark theme">light / dark</button>
+  </footer>
+
+</div>
+<script>
+  (function () {
+    var root = document.documentElement;
+    document.getElementById('theme-toggle').addEventListener('click', function () {
+      var next = root.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+      root.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (e) {}
+    });
+  })();
+</script>
+</body>
+</html>

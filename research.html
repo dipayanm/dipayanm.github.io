@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Research · Dipayan Mukherjee</title>
+<link rel="preload" href="fonts/IBMPlexMono-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="style.css">
+<script>
+  // Apply the saved theme before first paint to avoid a flash.
+  try {
+    if (localStorage.getItem('theme') === 'light') {
+      document.documentElement.setAttribute('data-theme', 'light');
+    }
+  } catch (e) {}
+</script>
+<script>
+  window.MathJax = {
+    tex: {
+      ams: {
+        multlineWidth: '85%'
+      },
+      tags: 'ams',
+      tagSide: 'right',
+      tagIndent: '.8em'
+    },
+    chtml: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    svg: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    output: {
+      font: 'mathjax-modern',
+      displayOverflow: 'overflow'
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="page">
+
+  <header class="site-header">
+    <div class="identity">
+      <span class="avatar hanko" role="img" aria-label="Hanko"></span>
+      <div class="identity-text">
+        <h1>Dipayan Mukherjee</h1>
+        <p class="tagline t1">Postdoctoral Fellow</p>
+        <p class="tagline t2">Astronomy &amp; Astrophysics<span class="sep"> &middot; </span><span class="nowrap">Raman Research Institute</span></p>
+      </div>
+      <nav class="links">
+        <a class="l1" href="https://www.rri.res.in/people/postdoctoral-fellows/dipayan-mukherjee">RRI page</a>
+        <a class="l2" href="https://inspirehep.net/authors/1865284">INSPIRE</a>
+        <a class="l3" href="https://scholar.google.com/citations?user=vJxxkZ0AAAAJ&amp;hl=en">G Scholar</a>
+      </nav>
+    </div>
+    <nav class="site-nav">
+      <a href="index.html">About</a>
+      <a href="research.html" class="active">Research</a>
+      <a href="elsewhere.html">Elsewhere</a>
+    </nav>
+  </header>
+
+  <main>
+<section id="outline-container-org101ba57" class="outline-2">
+<h2 id="org101ba57">Research</h2>
+<div class="outline-text-2" id="text-org101ba57">
+<p>
+Below are the topics I am currently working on or have worked on recently.
+</p>
+</div>
+<div id="outline-container-orgb82f1ab" class="outline-3 research-topic">
+<h3 id="orgb82f1ab">Statistical anisotropies in the CMB</h3>
+<div class="outline-text-3" id="text-orgb82f1ab">
+<p>
+A fundamental assumption in the large-scale description of the Universe is symmetry: <a href="https://plato.stanford.edu/entries/cosmology/">homogeneity and isotropy</a>, the idea that the Universe looks the same everywhere and in every direction. For the cosmic microwave background (CMB), the symmetry assumption takes the form of <a href="https://doi.org/10.1051/0004-6361/201935201">statistical isotropy</a>: the correlation between the CMB temperature at two points on the sky depends only on the angle between them. We explore how to detect and quantify possible violations of this symmetry.
+</p>
+
+<p>
+The natural language for describing symmetry is group theory, and we use it to measure how symmetries are broken in the CMB. We average the correlation function of the CMB temperature fluctuations over all rotations, weighted by functions on the rotation group, so that any departure from isotropy shows up in the result.
+This also gives a physical, real-space counterpart to the <a href="https://doi.org/10.1086/379757">BipoSH</a> formalism, which is used to decompose a general two-point correlation function into harmonics.
+</p>
+
+<p class="paper-refs">
+For details, see Vaishali R, D. Mukherjee, A. Tyagi, T. Souradeep, <a href="https://arxiv.org/abs/2605.04983" class="paper-refs">Capturing Statistical Isotropy Violation with Rotational Averages</a>, accepted in ApJ (2026)
+</p>
+</div>
+</div>
+<div id="outline-container-org45695a0" class="outline-3 research-topic">
+<h3 id="org45695a0">The ergodic hypothesis in cosmology</h3>
+<div class="outline-text-3" id="text-org45695a0">
+<p>
+We revisit a foundational but rarely scrutinised assumption in cosmology:
+that spatial averages over a <a href="https://bn.wikisource.org/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%A4%E0%A6%BE:%E0%A6%A8%E0%A7%88%E0%A6%AC%E0%A7%87%E0%A6%A6%E0%A7%8D%E0%A6%AF-%E0%A6%B0%E0%A6%AC%E0%A7%80%E0%A6%A8%E0%A7%8D%E0%A6%A6%E0%A7%8D%E0%A6%B0%E0%A6%A8%E0%A6%BE%E0%A6%A5_%E0%A6%A0%E0%A6%BE%E0%A6%95%E0%A7%81%E0%A6%B0.djvu/%E0%A7%AF%E0%A7%AF">single observable universe</a> can stand in for the
+ensemble averages that theory actually predicts. This <a href="https://plato.stanford.edu/entries/ergodic-hierarchy/"><i>ergodic hypothesis</i></a> is
+usually adopted as a &ldquo;commonsense axiom,&rdquo; but it is only guaranteed in the limit
+of infinite volume. We quantify the difference between the two averages, which
+we call the ergodicity bias, for finite volumes, and find that it is large on
+cosmological scales for curvature, density, and velocity perturbations. For
+density perturbations it exceeds 100% at separations of a few hundred Mpc, so it
+must be accounted for when comparing ensemble and volume averages in large-scale
+structure.
+</p>
+
+<p class="paper-refs">
+For details, see D. Mukherjee, S. Räsänen, <a href="https://arxiv.org/abs/2608.30838" class="paper-refs">Cosmic Variance and Ergodicity in Finite Systems with Correlations</a>, arXiv:2608.30838 (2026)
+</p>
+</div>
+</div>
+<div id="outline-container-org8163e1d" class="outline-3 research-topic">
+<h3 id="org8163e1d">Primordial inhomogeneities during inflation</h3>
+<div class="outline-text-3" id="text-org8163e1d">
+<p>
+We study what happens when the usual assumption of statistically homogeneous and
+isotropic primordial fluctuations is relaxed. Allowing perturbations to acquire
+a scale-dependent &ldquo;primordial mean,&rdquo; sourced by a <a href="https://doi.org/10.1103/RevModPhys.62.867">coherent initial state</a> rather
+than the vacuum, introduces violations of statistical homogeneity and isotropy
+that leave observable imprints: off-diagonal correlations in the CMB angular
+power spectrum, a non-vanishing <a href="https://doi.org/10.1016/j.physrep.2004.08.022">bispectrum</a> even for Gaussian fluctuations, and
+distinctive, potentially parity-violating signatures in <a href="https://doi.org/10.3390/universe7110398">scalar-induced gravitational waves</a>.
+</p>
+
+<p class="paper-refs">
+For details, see H. V. Ragavendra, D. Mukherjee, S. K. Sethi, <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.023541" class="paper-refs">Cosmological Consequences of Statistical Inhomogeneity</a>, Phys. Rev. D (2025); <br>
+D. Mukherjee, H. V. Ragavendra, S. K. Sethi, <a href="https://journals.aps.org/prd/abstract/10.1103/qd1s-9fxl">Scalar-Induced Gravitational Waves from Coherent Initial States</a>, Phys. Rev. D (2026)
+</p>
+</div>
+</div>
+<div id="outline-container-org63ba933" class="outline-3 research-topic">
+<h3 id="org63ba933">Quantum cosmology: the universe as a hydrogen atom</h3>
+<div class="outline-text-3" id="text-org63ba933">
+<p>
+The classical Big Bang singularity signals a breakdown of general relativity,
+suggesting that quantum effects dominate at sufficiently small scales &#x2014; but a
+full theory of quantum gravity remains elusive. We study an exactly solvable toy
+model: a spatially flat universe with pressureless dust and a dynamical
+cosmological constant, whose quantum description turns out to be mathematically
+equivalent to the non-relativistic hydrogen atom. For a positive cosmological
+constant the universe undergoes a smooth <a href="https://doi.org/10.1007/s10701-016-0057-0">quantum bounce</a> instead of a Big Bang;
+for a negative one, the solutions become discrete, giving a quantised
+cosmological constant and a cyclic universe in which both Big Bang and Big
+Crunch are resolved.
+</p>
+
+<p class="paper-refs">
+For details, see D. Mukherjee, H. S. Sahota, S. Shankaranarayanan, <a href="https://iopscience.iop.org/article/10.1088/1361-6382/ae3e4b" class="paper-refs">Quantum Cosmology as a Hydrogen Atom</a>, Class. Quantum Grav. (2026); <br>
+H. S. Sahota, D. Mukherjee, S. Shankaranarayanan, <a href="https://doi.org/10.1140/epjc/s10052-026-16168-z">Unitary Quantum Matter-Bounce in a Universe with a Positive Cosmological Constant</a>, Eur. Phys. J. C (2026)
+</p>
+</div>
+</div>
+<div id="outline-container-org16dc88f" class="outline-3 research-topic">
+<h3 id="org16dc88f">Thermodynamics of dark energy</h3>
+<div class="outline-text-3" id="text-org16dc88f">
+<p>
+We study late-time cosmological models &#x2014; including <a href="https://doi.org/10.1051/0004-6361/201833910">ΛCDM</a> and scalar-field dark
+energy &#x2014; as thermodynamic systems, in analogy with <a href="https://doi.org/10.12942/lrr-2001-6">black hole thermodynamics</a>,
+using a <a href="https://doi.org/10.1016/j.physrep.2018.09.001">dynamical systems framework</a>. We find that these models generically
+undergo thermodynamic phase transitions near their critical points, and that
+thermodynamic stability is closely tied to accelerated expansion; notably,
+standard ΛCDM and <a href="https://doi.org/10.1142/S021827180600942X">quintessence</a> models fail the stability conditions, while
+<a href="https://doi.org/10.1142/S021827180600942X">phantom</a> models satisfy them despite their other dynamical pathologies. The work
+is a critical assessment of applying thermodynamic notions to
+cosmological spacetimes.
+</p>
+
+<p class="paper-refs">
+For details, see D. Mukherjee, H. S. Sahota, S. Gavas, <a href="https://onlinelibrary.wiley.com/doi/10.1002/prop.70094" class="paper-refs">A Dynamical Systems Perspective on the Thermodynamics of Late-Time Cosmology</a>, Fortsch. Phys. (2026)
+</p>
+</div>
+</div>
+</section>
+  </main>
+
+  <footer>
+    <div class="footer-text">
+      <p class="email">Contact: dipayan [at] rrimail.rri.res.in</p>
+      <p>Last updated 7 October 2026 &middot; Generated with Emacs <a href="https://orgmode.org">Org mode</a></p>
+    </div>
+    <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle light and dark theme">light / dark</button>
+  </footer>
+
+</div>
+<script>
+  (function () {
+    var root = document.documentElement;
+    document.getElementById('theme-toggle').addEventListener('click', function () {
+      var next = root.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+      root.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (e) {}
+    });
+  })();
+</script>
+</body>
+</html>

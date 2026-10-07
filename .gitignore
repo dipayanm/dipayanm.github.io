@@ -1,0 +1,13 @@
+# Ignore everything by default; publish only the built site.
+# When adding a new page, add a matching !page.html line below.
+*
+!.gitignore
+!.nojekyll
+!index.html
+!research.html
+!elsewhere.html
+!style.css
+!hanko.svg
+!fonts/
+!fonts/IBMPlexMono-*.woff2
+!fonts/LICENSE-IBMPlexMono.txt

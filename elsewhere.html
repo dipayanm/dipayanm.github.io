@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Elsewhere · Dipayan Mukherjee</title>
+<link rel="preload" href="fonts/IBMPlexMono-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="style.css">
+<script>
+  // Apply the saved theme before first paint to avoid a flash.
+  try {
+    if (localStorage.getItem('theme') === 'light') {
+      document.documentElement.setAttribute('data-theme', 'light');
+    }
+  } catch (e) {}
+</script>
+<script>
+  window.MathJax = {
+    tex: {
+      ams: {
+        multlineWidth: '85%'
+      },
+      tags: 'ams',
+      tagSide: 'right',
+      tagIndent: '.8em'
+    },
+    chtml: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    svg: {
+      scale: 1.0,
+      displayAlign: 'center',
+      displayIndent: '0em'
+    },
+    output: {
+      font: 'mathjax-modern',
+      displayOverflow: 'overflow'
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="page">
+
+  <header class="site-header">
+    <div class="identity">
+      <span class="avatar hanko" role="img" aria-label="Hanko"></span>
+      <div class="identity-text">
+        <h1>Dipayan Mukherjee</h1>
+        <p class="tagline t1">Postdoctoral Fellow</p>
+        <p class="tagline t2">Astronomy &amp; Astrophysics<span class="sep"> &middot; </span><span class="nowrap">Raman Research Institute</span></p>
+      </div>
+      <nav class="links">
+        <a class="l1" href="https://www.rri.res.in/people/postdoctoral-fellows/dipayan-mukherjee">RRI page</a>
+        <a class="l2" href="https://inspirehep.net/authors/1865284">INSPIRE</a>
+        <a class="l3" href="https://scholar.google.com/citations?user=vJxxkZ0AAAAJ&amp;hl=en">G Scholar</a>
+      </nav>
+    </div>
+    <nav class="site-nav">
+      <a href="index.html">About</a>
+      <a href="research.html">Research</a>
+      <a href="elsewhere.html" class="active">Elsewhere</a>
+    </nav>
+  </header>
+
+  <main>
+<section id="outline-container-org461c417" class="outline-2">
+<h2 id="org461c417">Elsewhere</h2>
+<div class="outline-text-2" id="text-org461c417">
+<p>
+I hope to write about my opinions here in more detail someday, for now:
+</p>
+
+<p>
+I am
+strongly in favour of
+<a href="https://en.wikipedia.org/wiki/Fountain_pen">fountain pens</a>,
+<a href="https://www.gnu.org/gnu/linux-and-gnu.html">GNU/Linux</a>, and
+<a href="https://www.gnu.org/software/emacs/">Emacs</a>.
+</p>
+
+<p>
+Lately, I have been enjoying the works of (in no particular order)
+<a href="https://en.wikipedia.org/wiki/Lalon">Lalon Sai</a>,
+<a href="https://en.wikipedia.org/wiki/Kabir">Kabir</a>,
+<a href="https://www.nobelprize.org/prizes/literature/1982/marquez/facts/">Gabriel García Márquez</a>,
+<a href="https://en.wikipedia.org/wiki/Akhtaruzzaman_Elias">Akhtaruzzaman Elias</a>,
+<a href="https://en.wikipedia.org/wiki/Tony_Gatlif">Tony Gatlif</a> (<i><a href="https://en.wikipedia.org/wiki/Latcho_Drom">Latcho Drom</a></i>),
+John Koenig (<i><a href="https://www.thedictionaryofobscuresorrows.com/">The Dictionary of Obscure Sorrows</a></i>),
+<a href="https://en.wikipedia.org/wiki/Ramkinkar_Baij">Ramkinkar Baij</a>, and
+<a href="https://tmkrishna.com/">T. M. Krishna</a>.
+</p>
+</div>
+</section>
+  </main>
+
+  <footer>
+    <div class="footer-text">
+      <p class="email">Contact: dipayan [at] rrimail.rri.res.in</p>
+      <p>Last updated 7 October 2026 &middot; Generated with Emacs <a href="https://orgmode.org">Org mode</a></p>
+    </div>
+    <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle light and dark theme">light / dark</button>
+  </footer>
+
+</div>
+<script>
+  (function () {
+    var root = document.documentElement;
+    document.getElementById('theme-toggle').addEventListener('click', function () {
+      var next = root.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+      root.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (e) {}
+    });
+  })();
+</script>
+</body>
+</html>

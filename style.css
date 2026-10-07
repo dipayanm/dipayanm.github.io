@@ -1,0 +1,452 @@
+/* Self-hosted IBM Plex Mono (SIL OFL, licence in fonts/). Latin subset.
+   Regular, semibold and its own italic. */
+@font-face {
+  font-family: "Site Mono";
+  src: url("fonts/IBMPlexMono-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Site Mono";
+  src: url("fonts/IBMPlexMono-SemiBold.woff2") format("woff2");
+  font-weight: 600 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Site Mono";
+  src: url("fonts/IBMPlexMono-Italic.woff2") format("woff2");
+  font-weight: 400 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+:root {
+  --bg: #16161a;
+  --text: #e3e3e0;
+  --muted: #8c8c88;
+  --accent: #d5a37c;
+  --border: #2c2c30;
+  --max-width: 720px;
+}
+
+:root[data-theme="light"] {
+  --bg: #f6f5f0;
+  --text: #1f1f1c;
+  --muted: #66655f;
+  --accent: #9c5a2a;
+  --border: #dcdad2;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: "Site Mono", "SFMono-Regular", Menlo, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 15.5px;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+.page {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 3rem 1.5rem 4rem;
+}
+
+/* Header */
+
+.site-header {
+  margin-bottom: 2.5rem;
+}
+
+/* Title block as a 3-row grid: each right-hand link sits on the same
+   baseline as the left-hand line beside it. Row heights and the hanko's
+   top margin are tuned so the hanko runs from the cap height of the
+   name to the baseline of the last line. */
+.identity {
+  display: grid;
+  grid-template-columns: 84px 1fr auto;
+  /* last row can grow if the tagline wraps on narrower screens */
+  grid-template-rows: 32px 36px minmax(28px, auto);
+  column-gap: 1.25rem;
+  align-items: baseline;
+  margin-bottom: 1.5rem;
+}
+
+.identity-text,
+.links {
+  display: contents;
+}
+
+.avatar {
+  width: 84px;
+  height: 84px;
+  border-radius: 6px;
+  object-fit: cover;
+}
+
+/* Hanko: the SVG is used as a mask, so its colour follows the theme */
+.hanko {
+  display: block;
+  grid-column: 1;
+  grid-row: 1 / 4;
+  align-self: start;
+  margin-top: 6px;
+  border-radius: 0;
+  background-color: var(--accent);
+  -webkit-mask: url("hanko.svg") center / contain no-repeat;
+  mask: url("hanko.svg") center / contain no-repeat;
+}
+
+h1 {
+  grid-column: 2;
+  grid-row: 1;
+  font-size: 1.5rem;
+  margin: 0;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.tagline {
+  grid-column: 2;
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+/* Row line-heights (shared by both columns so baselines line up) */
+h1, .links a.l1 { line-height: 32px; }
+.t1, .links a.l2 { line-height: 36px; }
+.t2, .links a.l3 { line-height: 28px; }
+
+.t1 { grid-row: 2; }
+.t2 { grid-row: 3; }
+
+.links a {
+  grid-column: 3;
+  justify-self: end;
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.l1 { grid-row: 1; }
+.l2 { grid-row: 2; }
+.l3 { grid-row: 3; }
+
+.site-nav {
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  padding: 0.6rem 0;
+  display: flex;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+}
+
+.site-nav a {
+  font-size: 0.92rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+
+.site-nav a.active {
+  color: var(--text);
+  border-bottom: 1px solid var(--accent);
+  padding-bottom: 2px;
+}
+
+/* Links */
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Justified body text; hyphenation keeps the word gaps even */
+main p {
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  /* Hyphenate only long words, leaving at least 4 letters on each side
+     (TeX-like restraint); ignored by browsers that don't support it */
+  hyphenate-limit-chars: 9 4 4;
+  /* Ask the browser to optimise breaks over the whole paragraph,
+     closer to TeX's line breaking (Chrome/Safari; others ignore it) */
+  text-wrap: pretty;
+}
+
+/* Links inside running prose: italic, body colour, quiet underline.
+   The accent colour is kept for the header, nav and paper references. */
+main p a {
+  color: var(--text);
+  font-style: italic;
+  text-decoration: underline dotted var(--muted);
+  text-underline-offset: 3px;
+}
+
+main p a:hover {
+  color: var(--accent);
+  text-decoration-color: var(--accent);
+}
+
+.nowrap {
+  white-space: nowrap;
+}
+
+/* The page title duplicates the active nav tab, so hide it visually
+   (it stays in the document for screen readers). */
+main > section:first-child > h2:first-child {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+/* Sections */
+
+section {
+  margin-bottom: 2.5rem;
+}
+
+h2 {
+  font-size: 1.05rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  font-weight: 600;
+  margin: 0 0 1rem;
+}
+
+/* News */
+
+.news-list {
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 4.5rem 1fr;
+  gap: 0.4rem 1rem;
+}
+
+.news-list dt {
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+  font-size: 0.95rem;
+}
+
+.news-list dd {
+  margin: 0;
+  font-size: 0.95rem;
+}
+
+/* Publications */
+
+.pub-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.pub-list li {
+  padding: 0.9rem 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.92rem;
+  color: var(--muted);
+}
+
+.pub-list li p {
+  margin: 0;
+}
+
+.pub-list li:last-child {
+  border-bottom: none;
+}
+
+.pub-list li b, .pub-list li strong {
+  font-size: 15.5px;
+  color: var(--text);
+  font-weight: 600;
+  display: block;
+}
+
+.pub-list li a {
+  display: inline-block;
+  margin-top: 0.3rem;
+  font-size: 0.88rem;
+}
+
+/* Research */
+
+.research-topic {
+  margin-bottom: 2rem;
+}
+
+.research-topic + .research-topic {
+  border-top: 1px solid var(--border);
+  padding-top: 1.6rem;
+}
+
+.research-topic h3 {
+  font-size: 1.02rem;
+  color: var(--text);
+  font-weight: 600;
+  margin: 0 0 0.7rem;
+}
+
+.research-topic p {
+  margin: 0;
+  color: var(--text);
+}
+
+.research-topic p + p {
+  margin-top: 0.8rem;
+}
+
+/* "For details, see" block under each topic */
+.research-topic p.paper-refs a {
+  color: var(--accent);
+  font-style: normal;
+  text-decoration: none;
+}
+
+.research-topic p.paper-refs {
+  margin-top: 1rem;
+  text-align: left;
+  hyphens: manual;
+  padding-left: 0.9rem;
+  color: var(--muted);
+}
+
+/* Collaborators */
+
+.collab-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.collab-list li {
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.92rem;
+  color: var(--muted);
+}
+
+.collab-list li p {
+  margin: 0;
+}
+
+.collab-list li:last-child {
+  border-bottom: none;
+}
+
+.collab-list li b, .collab-list li strong {
+  font-size: 15.5px;
+  color: var(--text);
+  font-weight: 600;
+  display: block;
+}
+
+/* Footer */
+
+footer {
+  margin-top: 3rem;
+  padding-top: 1.2rem;
+  border-top: 1px solid var(--border);
+  font-size: 0.82rem;
+  color: var(--muted);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer .email {
+  color: var(--muted);
+  margin-bottom: 0.2rem;
+}
+
+.theme-toggle {
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  color: var(--muted);
+  font: inherit;
+  padding: 0.2rem 0.6rem;
+  cursor: pointer;
+}
+
+.theme-toggle:hover {
+  color: var(--text);
+  border-color: var(--muted);
+}
+
+/* Responsive */
+
+/* Narrower screens: the institute goes on its own line, without the separator */
+@media (max-width: 720px) {
+  .tagline .sep {
+    display: none;
+  }
+  .tagline .nowrap {
+    display: block;
+  }
+}
+
+@media (max-width: 600px) {
+  /* Lines are too short on phones for justification to look even */
+  main p {
+    text-align: left;
+  }
+  /* Stack: hanko, name, tagline, then the three links in one row */
+  .identity {
+    grid-template-columns: repeat(3, auto);
+    grid-template-rows: auto;
+    justify-content: center;
+    column-gap: 1.2rem;
+    text-align: center;
+  }
+  .hanko {
+    grid-column: 1 / -1;
+    grid-row: 1;
+    justify-self: center;
+    margin: 0 0 0.8rem;
+  }
+  h1, .tagline, .links a.l1, .links a.l2, .links a.l3 { line-height: 1.7; }
+  h1 {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    /* keep the name on one line: shrink it on very narrow screens
+       (17 characters at 0.6em each, plus the page padding) */
+    white-space: nowrap;
+    font-size: min(1.5rem, calc((100vw - 3rem) / 10.6));
+  }
+  .tagline { grid-column: 1 / -1; }
+  .t1 { grid-row: 3; }
+  .t2 { grid-row: 4; margin-bottom: 0.6rem; }
+  .links a {
+    grid-row: 5;
+    justify-self: center;
+    font-size: 0.85rem;
+  }
+  .links a.l1 { grid-column: 1; }
+  .links a.l2 { grid-column: 2; }
+  .links a.l3 { grid-column: 3; }
+  .site-nav {
+    justify-content: center;
+  }
+}
