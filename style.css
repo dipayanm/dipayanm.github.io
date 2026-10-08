@@ -69,16 +69,15 @@ body {
    name to the baseline of the last line. */
 .identity {
   display: grid;
-  grid-template-columns: 84px 1fr auto;
-  /* last row can grow if the tagline wraps on narrower screens */
-  grid-template-rows: 32px 36px minmax(28px, auto);
+  grid-template-columns: 84px 1fr;
+  /* rows: name, position, institute, links */
+  grid-template-rows: auto auto auto auto;
   column-gap: 1.25rem;
-  align-items: baseline;
+  align-items: start;
   margin-bottom: 1.5rem;
 }
 
-.identity-text,
-.links {
+.identity-text {
   display: contents;
 }
 
@@ -93,9 +92,9 @@ body {
 .hanko {
   display: block;
   grid-column: 1;
-  grid-row: 1 / 4;
-  align-self: start;
-  margin-top: 6px;
+  /* spans the whole text block and sits at its vertical middle */
+  grid-row: 1 / 5;
+  align-self: center;
   border-radius: 0;
   background-color: var(--accent);
   -webkit-mask: url("hanko.svg") center / contain no-repeat;
@@ -105,7 +104,7 @@ body {
 h1 {
   grid-column: 2;
   grid-row: 1;
-  font-size: 1.5rem;
+  font-size: 1.35rem;
   margin: 0;
   font-weight: 600;
   letter-spacing: -0.01em;
@@ -118,24 +117,26 @@ h1 {
   font-size: 0.92rem;
 }
 
-/* Row line-heights (shared by both columns so baselines line up) */
-h1, .links a.l1 { line-height: 32px; }
-.t1, .links a.l2 { line-height: 36px; }
-.t2, .links a.l3 { line-height: 28px; }
+h1 { line-height: 1.35; margin-bottom: 0.15rem; }
+.tagline { line-height: 1.5; }
 
 .t1 { grid-row: 2; }
 .t2 { grid-row: 3; }
 
+/* External links: one row under the tagline, aligned with the text */
+.links {
+  grid-column: 2;
+  grid-row: 4;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem 1.4rem;
+  margin-top: 0.45rem;
+}
+
 .links a {
-  grid-column: 3;
-  justify-self: end;
   font-size: 0.9rem;
   white-space: nowrap;
 }
-
-.l1 { grid-row: 1; }
-.l2 { grid-row: 2; }
-.l3 { grid-row: 3; }
 
 .site-nav {
   border-top: 1px solid var(--border);
@@ -284,6 +285,31 @@ h2 {
   font-size: 0.88rem;
 }
 
+/* Generic content headings and quotes (e.g. the roast page) */
+
+main h3 {
+  font-size: 1.02rem;
+  font-weight: 600;
+  margin: 2rem 0 0.7rem;
+}
+
+main blockquote {
+  margin: 0.8rem 0 1rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--accent);
+}
+
+/* Accent highlight for the best lines (used on the roast page) */
+.hl {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+main blockquote p {
+  margin: 0;
+  text-align: left;
+}
+
 /* Research */
 
 .research-topic {
@@ -398,7 +424,7 @@ footer .email {
 /* Responsive */
 
 /* Narrower screens: the institute goes on its own line, without the separator */
-@media (max-width: 720px) {
+@media (max-width: 660px) {
   .tagline .sep {
     display: none;
   }
@@ -414,38 +440,38 @@ footer .email {
   }
   /* Stack: hanko, name, tagline, then the three links in one row */
   .identity {
-    grid-template-columns: repeat(3, auto);
+    grid-template-columns: 1fr;
     grid-template-rows: auto;
-    justify-content: center;
-    column-gap: 1.2rem;
     text-align: center;
   }
   .hanko {
-    grid-column: 1 / -1;
+    grid-column: 1;
     grid-row: 1;
     justify-self: center;
     margin: 0 0 0.8rem;
   }
-  h1, .tagline, .links a.l1, .links a.l2, .links a.l3 { line-height: 1.7; }
+  h1, .tagline { line-height: 1.7; }
   h1 {
-    grid-column: 1 / -1;
+    grid-column: 1;
     grid-row: 2;
     /* keep the name on one line: shrink it on very narrow screens
        (17 characters at 0.6em each, plus the page padding) */
     white-space: nowrap;
-    font-size: min(1.5rem, calc((100vw - 3rem) / 10.6));
+    font-size: min(1.35rem, calc((100vw - 3rem) / 10.6));
   }
-  .tagline { grid-column: 1 / -1; }
+  .tagline { grid-column: 1; }
   .t1 { grid-row: 3; }
   .t2 { grid-row: 4; margin-bottom: 0.6rem; }
-  .links a {
+  .links {
+    grid-column: 1 / -1;
     grid-row: 5;
-    justify-self: center;
+    justify-content: center;
+    gap: 0.2rem 1.2rem;
+    margin-top: 0;
+  }
+  .links a {
     font-size: 0.85rem;
   }
-  .links a.l1 { grid-column: 1; }
-  .links a.l2 { grid-column: 2; }
-  .links a.l3 { grid-column: 3; }
   .site-nav {
     justify-content: center;
   }
