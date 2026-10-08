@@ -291,31 +291,6 @@ h2 {
   font-size: 0.88rem;
 }
 
-/* Generic content headings and quotes (e.g. the roast page) */
-
-main h3 {
-  font-size: 1.02rem;
-  font-weight: 600;
-  margin: 2rem 0 0.7rem;
-}
-
-main blockquote {
-  margin: 0.8rem 0 1rem;
-  padding-left: 1rem;
-  border-left: 2px solid var(--accent);
-}
-
-/* Accent highlight for the best lines (used on the roast page) */
-.hl {
-  color: var(--accent);
-  font-weight: 600;
-}
-
-main blockquote p {
-  margin: 0;
-  text-align: left;
-}
-
 /* Research */
 
 .research-topic {
